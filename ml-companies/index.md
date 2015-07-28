@@ -180,7 +180,7 @@ A constantly growing list of companies and startups working in the field of Mach
 {% include _datatable.html %}
 <script>
 $(document).onload( function () {
-    $('#cmpny').DataTable();
+    $('#tbl').DataTable();
 } );
 </script>
  

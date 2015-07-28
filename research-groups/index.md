@@ -73,7 +73,7 @@ A list of research groups in India which are working in machine learning and dat
 {% include _tbl.html %}
 <script>
 $(document).onload( function () {
-    $('#cmpny').DataTable();
+    $('#tbl').DataTable();
 } );
 </script>
 ---
