@@ -11,7 +11,7 @@ image:
 ---
 
 {% include _toc.html %}
-
+{% include _datatable.html %}
 ## Introduction
 
 There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.
@@ -23,15 +23,8 @@ There is no consolidated resource for Data and Machine Learning which is centere
 
 A constantly growing list of companies and startups working in the field of Machine Learning in India.
 
-<link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.7/css/jquery.dataTables.css">
-  
-<!-- jQuery -->
-<script type="text/javascript" charset="utf8" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-  
-<!-- DataTables -->
-<script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.7/js/jquery.dataTables.js"></script>
 
-<table border="1" id="cmpny" class='stripe hover row-border'>
+<table border="1" id="tbl" class='stripe hover row-border'>
 <thead><tr><th title="Field #1">Name</th>
 <th title="Field #2">Company URL</th>
 <th title="Field #3">title</th>
