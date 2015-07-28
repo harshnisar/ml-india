@@ -179,12 +179,4 @@ A constantly growing list of companies and startups working in the field of Mach
 </tbody></table>
 
 {% include _datatable.html %}
-<script>
-
-$(document).onload( function () {
-    $('#tbl').DataTable();
-} );
-</script>
- 
-
 ---
