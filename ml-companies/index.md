@@ -11,6 +11,7 @@ image:
 ---
 
 {% include _toc.html %}
+
 {% include _datatable.html %}
 ## Introduction
 
@@ -179,6 +180,7 @@ A constantly growing list of companies and startups working in the field of Mach
 
 {% include _datatable.html %}
 <script>
+
 $(document).onload( function () {
     $('#tbl').DataTable();
 } );
