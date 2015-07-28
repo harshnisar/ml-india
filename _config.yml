@@ -2,7 +2,7 @@
 
 title:            Machine Learning - India
 locale:           en_US
-url:              //harshnisar.github.io/ml-india
+url:              //harshnisar.github.io/ml-india 
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: ML-India
   avatar: bio-photo.jpg
-  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
+  bio: "Fostering the machine learning and data ecosystem in India"
   disqus-shortname: minimalmistakes
   twitter: mmistakes
   facebook: michaelrose
