@@ -12,7 +12,6 @@ image:
 
 {% include _toc.html %}
 
-{% include _datatable.html %}
 ## Introduction
 
 There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.
@@ -178,5 +177,4 @@ A constantly growing list of companies and startups working in the field of Mach
 </tr>
 </tbody></table>
 
-{% include _datatable.html %}
 ---
