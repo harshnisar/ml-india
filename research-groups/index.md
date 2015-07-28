@@ -11,6 +11,7 @@ image:
 ---
 
 {% include _toc.html %}
+
 {% include _datatable.html %}
 
 ## Introduction
@@ -68,4 +69,11 @@ A list of research groups in India which are working in machine learning and dat
 </tr>
 </tbody></table>
 
+
+{% include _tbl.html %}
+<script>
+$(document).onload( function () {
+    $('#cmpny').DataTable();
+} );
+</script>
 ---

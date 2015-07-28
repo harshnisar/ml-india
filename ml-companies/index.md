@@ -177,8 +177,9 @@ A constantly growing list of companies and startups working in the field of Mach
 </tr>
 </tbody></table>
 
+{% include _datatable.html %}
 <script>
-$(document).ready( function () {
+$(document).onload( function () {
     $('#cmpny').DataTable();
 } );
 </script>
