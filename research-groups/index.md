@@ -23,6 +23,5 @@ There is no consolidated resource for Data and Machine Learning which is centere
 
 A list of research groups in India which are working in machine learning and data science.
 
-Click [here](/research-groups)
 
 ---
