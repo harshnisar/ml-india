@@ -3,11 +3,15 @@
 - title: About
   url: /about/
 
-- title: Sample Posts
+- title: Blog
   url: /posts/
 
 - title: Theme Setup
   url: /theme-setup/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+
+- title: Resources
+  url: /resources/
+
+- title: AM Research
+  url: http://research.aspiringminds.com
