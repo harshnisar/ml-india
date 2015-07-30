@@ -1,24 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About ML-India
+tags: [about, ml-india]
 modified: 2014-08-08T20:53:07.573882-04:00
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+ML-India is an initiative started to foster and acknowledge the machine learning eco-system of India as a whole. 
+We started with providing the first of its kind analyses of Indian contribution to tier-1 machine learning and related conferences. The numbers were disappointing, Stanford alone is almost equal to India's contribution as a whole. We highlighted top professors and insitutions which are spearheading the research.
 
-## Minimal Mistakes is all about:
+On the brighter side, IISc has been phenomenal in their publications. It also reflects in the number of research groups operating inside IISc itself! Checkout the MLSIGs of India here. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+A lot of companies and startups are also solving interesting problems in the field. We curated more than 30 such companies and startups in India which are using data and ml to solve interesting problems, be it social good or commerical.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+This space is getting really exciting, and ml-india plans to acknowledge, commenerate and foster India's Machine Learning eco-system.
+
+
