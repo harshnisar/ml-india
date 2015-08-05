@@ -23,10 +23,17 @@ A list of research groups in India which are working in machine learning and dat
 
 
 <table border="1">
+
+<colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 20%;">
+</colgroup>
 <thead><tr><th title="Field #1">Name</th>
 <th title="Field #2">University</th>
-<th title="Field #3">Link</th>
-<th title="Field #4">Description</th>
+<th title="Field #3">Description</th>
+<th title="Field #4">Link</th>
 
 </tr></thead>
 <tbody>
@@ -133,11 +140,10 @@ interested in : Large Scale convex optimization for learning problems, Multiple
 
 Kernel Learning, Robust decision making under uncertainty, Bayesian 
 
-Nonparametrics, Low-rank Matrix Estimation etc</td><td><a 
+Nonparametrics, Low-rank Matrix Estimation etc</td>
+<td><a href="http://mllab.csa.iisc.ernet.in/index.php" target="_blank">http://mllab.csa.iisc.ernet.in/index.php</a></td>
 
-href="http://mllab.csa.iisc.ernet.in/index.php" 
-
-target="_blank">http://mllab.csa.iisc.ernet.in/index.php</a></td></tr>
+</tr>
 </tbody>
 </table>
 

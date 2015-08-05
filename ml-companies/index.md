@@ -23,6 +23,14 @@ A constantly growing list of companies and startups working in the field of Mach
 
 
 <table border="1">
+
+<colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 60%;">
+</colgroup>
+
 <thead><tr><th title="Field #1">Name</th>
 <th title="Field #2">Website</th>
 <th title="Field #3">title</th>
