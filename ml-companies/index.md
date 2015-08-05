@@ -22,7 +22,7 @@ A constantly growing list of companies and startups working in the field of Mach
 
 
 
-<table border="1">
+<table border="1" markdown="0">
 
 <colgroup>
        <col span="1" style="width: 10%;">
