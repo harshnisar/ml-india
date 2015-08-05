@@ -22,48 +22,124 @@ There is no consolidated resource for Data and Machine Learning which is centere
 A list of research groups in India which are working in machine learning and data science.
 
 
-<table border="1" id="tbl" class='stripe hover row-border'>
+<table border="1">
 <thead><tr><th title="Field #1">Name</th>
 <th title="Field #2">University</th>
 <th title="Field #3">Link</th>
+<th title="Field #4">Description</th>
+
 </tr></thead>
-<tbody><tr><td>MLSIG</td>
-<td>IISc</td>
-<td>http://drona.csa.iisc.ernet.in/~mlcenter/</td>
-</tr>
-<tr><td>MLSIG</td>
-<td>IIT-M</td>
-<td>http://www.cse.iitm.ac.in/web/mlg/public_html/</td>
-</tr>
-<tr><td>Machine Learning and Learning Theory Group </td>
-<td>IISc</td>
-<td>http://www.shivani-agarwal.net/MLLTGroup/index.html</td>
-</tr>
-<tr><td>Vision and Learning Research Group</td>
-<td>ISI Kolkata</td>
-<td>http://www.isical.ac.in/~vlrg/</td>
-</tr>
-<tr><td>Machine Learning and Data Mining Group</td>
-<td>IIT-G</td>
-<td>http://www.iitg.ernet.in/cseweb/mldm/index.php</td>
-</tr>
-<tr><td>InfoLab</td>
-<td>IIT-B</td>
-<td>http://www.cse.iitb.ac.in/infolab/</td>
-</tr>
-<tr><td>Centre for Data Engineering</td>
-<td>IIIT-H</td>
-<td>http://cde.iiit.ac.in/CDEWiki/index.php/Main_Page</td>
-</tr>
-<tr><td>IRLAB</td>
-<td>DAIICT</td>
-<td>http://irlab.daiict.ac.in/index.php</td>
-</tr>
-<tr><td>Statistics and Machine Learning Group</td>
-<td>IISc</td>
-<td>http://algoalgebra.csa.iisc.ernet.in/SML/index.html</td>
-</tr>
-</tbody></table>
+<tbody>
+
+<tr><td>MLSIG</td><td>IISc</td><td>The group enjoys the presence of several 
+
+outstanding faculty engaged in cutting-edge research on a variety of aspects of 
+
+machine learning and related fields, ranging from theoretical foundations to new 
+
+algorithms as well as several exciting applications</td><td><a 
+
+href="http://drona.csa.iisc.ernet.in/~mlcenter/" 
+
+target="_blank">http://drona.csa.iisc.ernet.in/~mlcenter/</a></td></tr>
+<tr><td>MLSIG</td><td>IIT-M</td><td>IIT Madras's Machine Learning Special Interest 
+
+Group.</td><td><a href="http://www.cse.iitm.ac.in/web/mlg/public_html/" 
+
+target="_blank">http://www.cse.iitm.ac.in/web/mlg/public_html/</a></td></tr>
+<tr><td>Machine Learning and Learning Theory Group </td><td>IISc</td><td>Some of 
+
+our current research directions include designing and analyzing algorithms for 
+
+problems such as ranking and various types of structured prediction tasks, 
+
+understanding statistical consistency properties for such problems, exploring new 
+
+issues in machine learning such as those related to privacy, and selected 
+
+applications of machine learning in computational biology and medicine.</td><td><a 
+
+href="http://www.shivani-agarwal.net/MLLTGroup/index.html" 
+
+target="_blank">http://www.shivani-agarwal.net/MLLTGroup/index.html</a></td></tr>
+<tr><td>Vision and Learning Research Group</td><td>ISI Kolkata</td><td>Aim of the 
+
+group is to conduct fundamental and advanced research in the area of computer 
+
+vision, image processing, pattern recognition and machine learning.</td><td><a 
+
+href="http://www.isical.ac.in/~vlrg/" 
+
+target="_blank">http://www.isical.ac.in/~vlrg/</a></td></tr>
+<tr><td>Machine Learning and Data Mining Group</td><td>IIT-G</td><td>We are 
+
+building systems for Wikipedia mining, text to speech synthesis for Indian 
+
+languages, sports data analytics, real estate price prediction and many 
+
+more.</td><td><a href="http://www.iitg.ernet.in/cseweb/mldm/index.php" 
+
+target="_blank">http://www.iitg.ernet.in/cseweb/mldm/index.php</a></td></tr>
+<tr><td>InfoLab</td><td>IIT-B</td><td>Tthe group covers a wide range of research 
+
+areas such as databases, data mining, information retrieval, and machine 
+
+learning.</td><td><a href="http://www.cse.iitb.ac.in/infolab/" 
+
+target="_blank">http://www.cse.iitb.ac.in/infolab/</a></td></tr>
+<tr><td>Centre for Data Engineering</td><td>IIIT-H</td><td>We are working in areas 
+
+of Information Retrieval and Natural Language Processing focused on Indian 
+
+Languages.</td><td><a href="http://cde.iiit.ac.in/CDEWiki/index.php/Main_Page" 
+
+target="_blank">http://cde.iiit.ac.in/CDEWiki/index.php/Main_Page</a></td></tr>
+<tr><td>IRLAB</td><td>DAIICT</td><td>We are working in areas of Information 
+
+Retrieval and Natural Language Processing focused on Indian Languages.</td><td><a 
+
+href="http://irlab.daiict.ac.in/index.php" 
+
+target="_blank">http://irlab.daiict.ac.in/index.php</a></td></tr>
+<tr><td>DAIR</td><td>IIT-D</td><td>Data Analytics and Intelligence Research (DAIR) 
+
+is a fledgling research group at IITD-CSE, comprising four faculty members: 
+
+Amitabha Bagchi, Mausam, Maya Ramanath and Parag Singla. This seminar series is a 
+
+weekly hangout for all members of the research group as well as those who are 
+
+interested in joining the group.</td><td><a 
+
+href="http://www.cse.iitd.ac.in/~mausam/dairseminar/" 
+
+target="_blank">http://www.cse.iitd.ac.in/~mausam/dairseminar/</a></td></tr>
+<tr><td>MALL</td><td>IISc</td><td>One of our primary research goals is to extract, 
+
+orgazine, and make readily available the knowledge trapped inside such 
+
+unstructured text data on a large scale. To achieve these goals, our research 
+
+spans the areas of Machine Learning and Natural Language Processing.</td><td><a 
+
+href="http://talukdar.net/mall-lab.html" 
+
+target="_blank">http://talukdar.net/mall-lab.html</a></td></tr>
+<tr><td>ML-LAB</td><td>IISc</td><td>The Machine Learning lab was setup to study 
+
+theoretical and applied aspects of Machine Learning in various domains. We are 
+
+interested in : Large Scale convex optimization for learning problems, Multiple 
+
+Kernel Learning, Robust decision making under uncertainty, Bayesian 
+
+Nonparametrics, Low-rank Matrix Estimation etc</td><td><a 
+
+href="http://mllab.csa.iisc.ernet.in/index.php" 
+
+target="_blank">http://mllab.csa.iisc.ernet.in/index.php</a></td></tr>
+</tbody>
+</table>
 
 
 ---

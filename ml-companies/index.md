@@ -21,157 +21,212 @@ There is no consolidated resource for Data and Machine Learning which is centere
 A constantly growing list of companies and startups working in the field of Machine Learning in India.
 
 
-<table border="1" id="tbl" class='stripe hover row-border'>
+
+<table border="1">
 <thead><tr><th title="Field #1">Name</th>
-<th title="Field #2">Company URL</th>
+<th title="Field #2">Website</th>
 <th title="Field #3">title</th>
-<th title="Field #4">Description</th>
+<th title="Field #4">description</th>
 </tr></thead>
-<tbody><tr><td>Aspiring Minds</td>
-<td>aspiringminds.com</td>
-<td>Aspiring Minds</td>
-<td> </td>
-</tr>
-<tr><td>Aureus</td>
-<td>http://www.aureusanalytics.com/</td>
-<td>Big Data Analytics | Predictive Analytics - Aureus Analytics</td>
-<td>Aureus is a provider of Big Data &amp; Predictive Analytics products for insurance and banking sector that empower insights at the point of decision.</td>
-</tr>
-<tr><td>BrainA</td>
-<td>http://www.brainasoft.com/</td>
-<td>Brainasoft - Home</td>
-<td>Brainasoft is a leading human-computer interaction software development company. Our areas of interest include artificial intelligence, command shell and data security.</td>
-</tr>
-<tr><td>Bridgei2i</td>
-<td>http://www.bridgei2i.com/</td>
-<td>BRIDGEi2i Analytics Solutions</td>
-<td> </td>
-</tr>
-<tr><td>Crayon Data</td>
-<td>http://crayondata.com/</td>
-<td>Crayon Data - Simplifying the world&#39;s choices.</td>
-<td>Crayon simplifies the world&#39;s choices - powers enterprises with the big data capability to offer ultrapersonalized choices to consumers.</td>
-</tr>
-<tr><td>Dataswft</td>
-<td>http://www.dataswft.com/</td>
-<td>Dataswft - Machine Data Lake</td>
-<td> </td>
-</tr>
-<tr><td>dataweave</td>
-<td>http://www.dataweave.in/</td>
-<td>DataWeave - Home</td>
-<td>DataWeave provides actionable data by aggregating, parsing, organizing and visualizing millions of data points from the Web.</td>
-</tr>
-<tr><td>Flipkart</td>
-<td>http://flipkart.com</td>
-<td>Online Shopping India Mobile, Cameras, Lifestyle &amp; more Online @ Flipkart.com</td>
-<td> </td>
-</tr>
-<tr><td>Flutura</td>
-<td>http://www.flutura.com/</td>
-<td>Flutura | Decision Sciences Analytics</td>
-<td>Flutura is a niche Big data analytics solutions company with a vision to transform operational outcomes by monetizing machine data.</td>
-</tr>
-<tr><td>Formcept</td>
-<td>http://www.formcept.com/</td>
-<td>FORMCEPT - Your Analysis Platform</td>
-<td> </td>
-</tr>
-<tr><td>Fractal Analytics</td>
-<td>http://www.fractalanalytics.com/</td>
-<td>Fractal Analytics | CPG | Financial Services | Retail | Insurance | Telecom | Life Sciences | Government | Technology |</td>
-<td> </td>
-</tr>
-<tr><td>Gemini8</td>
-<td>http://germin8.com/</td>
-<td>Germinait : The leader in Social Media Analytics</td>
-<td>Social media intelligence platform to listen, engage AND act | Ask for free demo today.</td>
-</tr>
-<tr><td>Gramener</td>
-<td>https://gramener.com/</td>
-<td>Gramener</td>
-<td> </td>
-</tr>
-<tr><td>Guavus</td>
-<td>http://guavus.com/</td>
-<td>Big Data Analytics Applications | Guavus.com</td>
-<td>Big Data Analytics Applications platform integrated with a suite of next-generation analytics applications for planning, operations and marketing.</td>
-</tr>
-<tr><td>Heckyl</td>
-<td>http://www.heckyl.com/</td>
-<td>Heckyl Technologies</td>
-<td> </td>
-</tr>
-<tr><td>Innovaccer</td>
-<td>http://www.innovaccer.com/</td>
-<td>Innovaccer - Powerful decisions based on your data</td>
-<td>Make powerful decisions based on key insights and predictions from your data.</td>
-</tr>
-<tr><td>Metaome</td>
-<td>http://metaome.com/product.html</td>
-<td>Metaome | Products</td>
-<td> </td>
-</tr>
-<tr><td>Mu Sigma</td>
-<td>mi-sigma.com</td>
-<td>Decision Sciences | Analytics Solutions | Mu Sigma</td>
-<td>Mu Sigma is a leading provider of Big Data and analytics solutions for Fortune 500 organizations, helping them institutionalize data-driven decision making.</td>
-</tr>
-<tr><td>PromptCloud</td>
-<td>https://www.promptcloud.com/</td>
-<td>Web Scraping | Web Crawling | Data Extraction | PromptCloud</td>
-<td>PromptCloud offers customized web scraping, web crawling, &amp; data extraction services for enterprises. Hosted service for large-scale structured data via API</td>
-</tr>
-<tr><td>Sigmoid</td>
-<td>http://www.sigmoidanalytics.com/</td>
-<td>Sigmoid Home - Sigmoid</td>
-<td>Sigmoid provides a completely managed, enterprise grade platform for Real Time Streaming Analytics for big data on Apache Spark.</td>
-</tr>
-<tr><td>SnapShopr</td>
-<td>http://snapshopr.co/</td>
-<td>SnapShopr</td>
-<td> </td>
-</tr>
-<tr><td>SocialCops</td>
-<td>http://socialcops.org</td>
-<td>SocialCops - Data to Decisions</td>
-<td>At SocialCops, we&#39;re on a mission to solve the most pressing problems facing humanity through data.</td>
-</tr>
-<tr><td>Valiances Solutions</td>
-<td>http://valiancesolutions.com/</td>
-<td>Valiance Solutions|Data Science, Data Engineering, Business Intelligence</td>
-<td> </td>
-</tr>
-<tr><td>vcubec</td>
-<td>http://www.vcubec.com/</td>
-<td>VcubeC Data Analytics | help them build information products and applications to take data driven decisions</td>
-<td> </td>
-</tr>
-<tr><td>ZLemma</td>
-<td>http://zlemma.com/home/</td>
-<td>Hire Programmers, Data Scientist | Technical Jobs || ZLemma | ZSort</td>
-<td> </td>
-</tr>
-<tr><td>MadStreetDen</td>
-<td>http://www.madstreetden.com/</td>
-<td>Creating exciting new experiences for your consumers with Artificial Intelligence &amp; Computer Vision</td>
-<td> </td>
-</tr>
-<tr><td>Media.Net</td>
-<td>http://media.net</td>
-<td>Media.net is a leading global contextual advertising company that provides a wide range of advertising and traffic monetization solutions to a substantial and diversified client base</td>
-<td> </td>
-</tr>
-<tr><td>Bloomreach</td>
-<td>http://bloomreach.com</td>
-<td>The BloomReach Personalized Discovery Platform understands and matches your content to what people are seeking, across marketing channels and devices</td>
-<td> </td>
-</tr>
-<tr><td>Housing</td>
-<td>http://housing.com</td>
-<td> </td>
-<td> </td>
-</tr>
-</tbody></table>
+<tbody>
+
+<tr><td>Aspiring Minds</td><td><a href="http://aspiringminds.com" 
+
+target="_blank">http://aspiringminds.com</a></td><td>Aspiring Minds</td><td>AM 
+
+Research is a division of Aspiring Minds. Aspiring Minds aspires to build an 
+
+assessment-driven job marketplace (a SAT/GRE for jobs) to drive accountability in 
+
+higher education and meritocracy in labor markets. The products developed based on 
+
+our research has impacted more than two million lives and the resulting data is a 
+
+source of continuous new research.</td></tr>
+<tr><td>Aureus</td><td><a href="http://www.aureusanalytics.com/" 
+
+target="_blank">http://www.aureusanalytics.com/</a></td><td>Big Data Analytics | 
+
+Predictive Analytics - Aureus Analytics</td><td>Aureus is a provider of Big Data & 
+
+Predictive Analytics products for insurance and banking sector that empower 
+
+insights at the point of decision.</td></tr>
+<tr><td>BrainA</td><td><a href="http://www.brainasoft.com/" 
+
+target="_blank">http://www.brainasoft.com/</a></td><td>Brainasoft - 
+
+Home</td><td>Brainasoft is a leading human-computer interaction software 
+
+development company. Our areas of interest include artificial intelligence, 
+
+command shell and data security.</td></tr>
+<tr><td>Bridgei2i</td><td><a href="http://www.bridgei2i.com/" 
+
+target="_blank">http://www.bridgei2i.com/</a></td><td>BRIDGEi2i Analytics 
+
+Solutions</td><td></td></tr>
+<tr><td>Crayon Data</td><td><a href="http://crayondata.com/" 
+
+target="_blank">http://crayondata.com/</a></td><td>Crayon Data - Simplifying the 
+
+world's choices.</td><td>Crayon simplifies the world's choices - powers 
+
+enterprises with the big data capability to offer ultrapersonalized choices to 
+
+consumers.</td></tr>
+<tr><td>Dataswft</td><td><a href="http://www.dataswft.com/" 
+
+target="_blank">http://www.dataswft.com/</a></td><td>Dataswft - Machine Data 
+
+Lake</td><td></td></tr>
+<tr><td>dataweave</td><td><a href="http://www.dataweave.in/" 
+
+target="_blank">http://www.dataweave.in/</a></td><td>DataWeave - 
+
+Home</td><td>DataWeave provides actionable data by aggregating, parsing, 
+
+organizing and visualizing millions of data points from the Web.</td></tr>
+<tr><td>Flipkart</td><td><a href="http://flipkart.com" 
+
+target="_blank">http://flipkart.com</a></td><td>Online Shopping India Mobile, 
+
+Cameras, Lifestyle & more Online @ Flipkart.com</td><td></td></tr>
+<tr><td>Flutura</td><td><a href="http://www.flutura.com/" 
+
+target="_blank">http://www.flutura.com/</a></td><td>Flutura | Decision Sciences 
+
+Analytics</td><td>Flutura is a niche Big data analytics solutions company with a 
+
+vision to transform operational outcomes by monetizing machine data.</td></tr>
+<tr><td>Formcept</td><td><a href="http://www.formcept.com/" 
+
+target="_blank">http://www.formcept.com/</a></td><td>FORMCEPT - Your Analysis 
+
+Platform</td><td></td></tr>
+<tr><td>Fractal Analytics</td><td><a href="http://www.fractalanalytics.com/" 
+
+target="_blank">http://www.fractalanalytics.com/</a></td><td>Fractal Analytics | 
+
+CPG | Financial Services | Retail | Insurance | Telecom | Life Sciences | 
+
+Government | Technology |</td><td></td></tr>
+<tr><td>Gemini8</td><td><a href="http://germin8.com/" 
+
+target="_blank">http://germin8.com/</a></td><td>Germinait : The leader in Social 
+
+Media Analytics</td><td>Social media intelligence platform to listen, engage AND 
+
+act | Ask for free demo today.</td></tr>
+<tr><td>Gramener</td><td><a href="https://gramener.com/" 
+
+target="_blank">https://gramener.com/</a></td><td>Gramener</td><td></td></tr>
+<tr><td>Guavus</td><td><a href="http://guavus.com/" 
+
+target="_blank">http://guavus.com/</a></td><td>Big Data Analytics Applications | 
+
+Guavus.com</td><td>Big Data Analytics Applications platform integrated with a 
+
+suite of next-generation analytics applications for planning, operations and 
+
+marketing.</td></tr>
+<tr><td>Heckyl</td><td><a href="http://www.heckyl.com/" 
+
+target="_blank">http://www.heckyl.com/</a></td><td>Heckyl 
+
+Technologies</td><td></td></tr>
+<tr><td>Innovaccer</td><td><a href="http://www.innovaccer.com/" 
+
+target="_blank">http://www.innovaccer.com/</a></td><td>Innovaccer - Powerful 
+
+decisions based on your data</td><td>Make powerful decisions based on key insights 
+
+and predictions from your data.</td></tr>
+<tr><td>Metaome</td><td><a href="http://metaome.com/product.html" 
+
+target="_blank">http://metaome.com/product.html</a></td><td>Metaome | 
+
+Products</td><td></td></tr>
+<tr><td>Mu Sigma</td><td><a href="http://mi-sigma.com" target="_blank">http://mi-
+
+sigma.com</a></td><td>Decision Sciences | Analytics Solutions | Mu 
+
+Sigma</td><td>Mu Sigma is a leading provider of Big Data and analytics solutions 
+
+for Fortune 500 organizations, helping them institutionalize data-driven decision 
+
+making.</td></tr>
+<tr><td>PromptCloud</td><td><a href="https://www.promptcloud.com/" 
+
+target="_blank">https://www.promptcloud.com/</a></td><td>Web Scraping | Web 
+
+Crawling | Data Extraction | PromptCloud</td><td>PromptCloud offers customized web 
+
+scraping, web crawling, & data extraction services for enterprises. Hosted service 
+
+for large-scale structured data via API</td></tr>
+<tr><td>Sigmoid</td><td><a href="http://www.sigmoidanalytics.com/" 
+
+target="_blank">http://www.sigmoidanalytics.com/</a></td><td>Sigmoid Home - 
+
+Sigmoid</td><td>Sigmoid provides a completely managed, enterprise grade platform 
+
+for Real Time Streaming Analytics for big data on Apache Spark.</td></tr>
+<tr><td>SnapShopr</td><td><a href="http://snapshopr.co/" 
+
+target="_blank">http://snapshopr.co/</a></td><td>SnapShopr</td><td></td></tr>
+<tr><td>SocialCops</td><td><a href="http://socialcops.org" 
+
+target="_blank">http://socialcops.org</a></td><td>SocialCops - Data to 
+
+Decisions</td><td>At SocialCops, we're on a mission to solve the most pressing 
+
+problems facing humanity through data.</td></tr>
+<tr><td>Valiances Solutions</td><td><a href="http://valiancesolutions.com/" 
+
+target="_blank">http://valiancesolutions.com/</a></td><td>Valiance Solutions|Data 
+
+Science, Data Engineering, Business Intelligence</td><td></td></tr>
+<tr><td>vcubec</td><td><a href="http://www.vcubec.com/" 
+
+target="_blank">http://www.vcubec.com/</a></td><td>VcubeC Data Analytics | help 
+
+them build information products and applications to take data driven 
+
+decisions</td><td></td></tr>
+<tr><td>ZLemma</td><td><a href="http://zlemma.com/home/" 
+
+target="_blank">http://zlemma.com/home/</a></td><td>Hire Programmers, Data 
+
+Scientist | Technical Jobs || ZLemma | ZSort</td><td></td></tr>
+<tr><td>MadStreetDen</td><td><a href="http://www.madstreetden.com/" 
+
+target="_blank">http://www.madstreetden.com/</a></td><td>Creating exciting new 
+
+experiences for your consumers with Artificial Intelligence & Computer 
+
+Vision</td><td></td></tr>
+<tr><td>Media.Net</td><td><a href="http://media.net" 
+
+target="_blank">http://media.net</a></td><td>Media.net is a leading global 
+
+contextual advertising company that provides a wide range of advertising and 
+
+traffic monetization solutions to a substantial and diversified client 
+
+base</td><td></td></tr>
+<tr><td>Bloomreach</td><td><a href="http://bloomreach.com" 
+
+target="_blank">http://bloomreach.com</a></td><td>The BloomReach Personalized 
+
+Discovery Platform understands and matches your content to what people are 
+
+seeking, across marketing channels and devices</td><td></td></tr>
+<tr><td>Housing</td><td><a href="http://housing.com" 
+
+target="_blank">http://housing.com</a></td><td></td><td></td></tr>
+</tbody>
+</table>
+
 
 ---
