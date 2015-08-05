@@ -30,17 +30,17 @@ owner:
   avatar: bio-photo.jpg
   bio: "Fostering the machine learning and data ecosystem in India"
   disqus-shortname: minimalmistakes
-  twitter: mmistakes
-  facebook: michaelrose
+  twitter: ml_india
+  facebook: 
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-3
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
+    plus: 
+    analytics: 
+    verify: 
+    ad-client:
+    ad-slot:
   bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
-  github: mmistakes
-  instagram: mmistakes
+  github: harshnisar/ml-india
+  instagram:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
