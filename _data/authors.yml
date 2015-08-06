@@ -10,11 +10,21 @@ billy_rick:
   google:
     plus: BillyRick
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+harsh:
+  name: Harsh Nisar
+  email: nisar.harsh@gmail.com
+  bio: "NaN NaN NaN"
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  twitter: NisarHogaya
   google:
-    plus: CorneliusFiddlebone
+    plus: 
+
+varun:
+  name: Varun Aggarwal
+  web: https://www.linkedin.com/pub/varun-aggarwal/0/424/b74
+  email: 
+  bio: "MIT Alum, Co-founder Aspiring Minds, Data science for meritocracy in labor markets"
+  avatar: varun_bio.jpg
+  twitter: varaggarwal
+  google:
+    plus: 

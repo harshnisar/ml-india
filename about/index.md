@@ -5,14 +5,21 @@ tags: [about, ml-india]
 modified: 2014-08-08T20:53:07.573882-04:00
 ---
 
-ML-India is an initiative started to foster and acknowledge the machine learning eco-system of India as a whole. 
+As we speak today in 2015, machine learning is transforming the world by enabling machines to do all sorts of 'intelligent' tasks such as understanding images, human speech, predicting preferences and many others. With tremendous amount of data, interconnectedness and huge processing power in small devices, machines are doing things which were not anticipated until recently. While, on the other hand, machines are still unable to do some tasks which humans (or even animals) do effortlessly. There is a renewed (though seemingly periodic) fear that machines will take jobs of humans - leaving only the very highly skilled in the job marketplace. Also, for the first time, some experts in AI/ML whisper fears of machines challenging the human civilization!
 
-We started with providing the first of its kind analyses of Indian contribution to tier-1 machine learning and related conferences. The numbers were disappointing, Stanford alone is almost equal to India's contribution as a whole. We highlighted top professors and insitutions which are spearheading the research.
+Whatever the future may hold, currently machine learning is creating new efficiencies in the marketplace, leading to new business models, which did not exist before. Even current businesses are relying more and more on data and the predictive power associated with building models -- those who aren't are losing their competitive edge. Also, new machine learning techniques together with neurosciences is also helping us understand better, the probable basis and mechanism of intelligence. 
 
-On the brighter side, IISc has been phenomenal in their publications. It also reflects in the number of research groups operating inside IISc itself! Checkout the MLSIGs of India here. 
+In some way, it has never been so exciting! Is India participating in the excitement and the innovation? Yes, it is, but there is a lot more to happen. The good news is that young folks across the country are excited about machine learning and data sciences. This is a place, an effort, towards catalyzing the machine learning ecosystem in India, involving all -- students, researchers, institutions and corporations. And above all, everyone whose lives will be impacted by machine learning in the coming years.
 
-A lot of companies and startups are also solving interesting problems in the field. We curated more than 30 such companies and startups in India which are using data and ml to solve interesting problems, be it social good or commerical.
-This space is getting really exciting, and ml-india plans to acknowledge, commenerate and foster India's Machine Learning eco-system.
+With hope towards a buzzing machine learning community in India - both in theory and practice. This is an effort to bring together different efforts happening in academic institutions, companies and others towards machine learning in India-- also do some data analysis on our contribution to machine learning and catalyze the ecosystem.
+
+Please subscribe to the mail list now, if this interests you!
+
+- <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74"> Varun </a>, 2015
+
+Currently, this group is maintained by <a href='http://twitter.com/NisarHogaya'>Harsh Nisar </a>, <a href="http://research.aspiringminds.com">AM Research</a>.
 
 ---
+
+{% include _subscribe.html %}
 

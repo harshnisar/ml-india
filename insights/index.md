@@ -18,7 +18,13 @@ comments: true
 ---
 
 ## Methodology and Sources
-A constantly growing list of companies and startups working in the field of Machine Learning in India.
+Disclaimer: There is no guarantee that the results are completely correct and we acknowledge that there quite a lot of loopholes involved. The initiative is only to paint an overall picture and not demean any one instituition or person or country. On the contrary, we want to inspire and foster the eco-system in India. 
+
+The data is gathered using a simple query on <a href="http://www.elsevier.com/online-tools/scopus">SCOPUS</a> followed by some elementary cleaning.
+
+A loose definition of the word *Contribution* is used throughout the analyses. A contribution is simply the count of papers with atleast one of the authors *affiliated* with the respective country. Affiliation is based on the country specified in the authors affiliation data in SCOPUS.
+
+Please write to us or drop a comment if you want to reach us.   
 
 ---
 
