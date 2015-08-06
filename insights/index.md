@@ -24,7 +24,9 @@ The data is gathered using a simple query on <a href="http://www.elsevier.com/on
 
 A loose definition of the word *Contribution* is used throughout the analyses. A contribution is simply the count of papers with atleast one of the authors *affiliated* with the respective country. Affiliation is based on the country specified in the authors affiliation data in SCOPUS.
 
-Please write to us or drop a comment if you want to reach us.   
+Please write to <a href='mailto:nisar.harsh@gmail.com'>me</a> if you have specific doubts.
+
+Please drop a comment and let us know what you think! 
 
 ---
 
