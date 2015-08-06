@@ -28,6 +28,8 @@ Please write to <a href='mailto:nisar.harsh@gmail.com'>me</a> if you have specif
 
 Please drop a comment and let us know what you think! 
 
+*India's Contribution to Machine Learning in the last 15 years* was made and ideated by <a href='http://twitter.com/NisarHogaya'>Harsh Nisar </a> & <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a>.
+
 ---
 
 {% include _subscribe.html %}

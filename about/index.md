@@ -13,16 +13,18 @@ In some way, it has never been so exciting! Is India participating in the excite
 
 With hope towards a buzzing machine learning community in India - both in theory and practice. This is an effort to bring together different efforts happening in academic institutions, companies and others towards machine learning in India-- also do some data analysis on our contribution to machine learning and catalyze the ecosystem.
 
-Please subscribe to the mail list now, if this interests you!
+Please subscribe to the mail list now, if this interests you! <a href="https://groups.google.com/forum/#!forum/ml-india/join">Click **here**</a>
 
-- <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74"> Varun </a>, 2015
+\- <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74"> Varun </a>, 2015
 
-Currently, this group is maintained by <a href='http://twitter.com/NisarHogaya'>Harsh Nisar </a>, <a href="http://research.aspiringminds.com">AM Research</a>.
+Currently, this group is maintained by <a href='http://twitter.com/NisarHogaya'>Harsh Nisar </a>, <a href="http://research.aspiringminds.com">AM Research</a> and <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a>, AM Research.
 
 ---
 
 *Site powered by Jekyll, using Minimal Mistakes theme and hosted on Github and fuelled by machine-made dip-dip tea. If you find a bug, or want to suggest content, or have an issue please write to us or start an issue or PR on our GitHub Repo*
 
 ---
+
 {% include _subscribe.html %}
 
+---
