@@ -17,7 +17,7 @@ Please subscribe to the mail list now, if this interests you! <a href="https://g
 
 \- <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74"> Varun </a>, 2015
 
-Currently, this group is maintained by <a href='http://twitter.com/NisarHogaya'>Harsh Nisar </a>, <a href="http://research.aspiringminds.com">AM Research</a> and <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a>, AM Research.
+Currently, this group is maintained by <a href='http://twitter.com/NisarHogaya'>Harsh Nisar </a> and <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a> (both from <a href="http://research.aspiringminds.com">AM Research</a>)
 
 ---
 
