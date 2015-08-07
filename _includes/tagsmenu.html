@@ -1,15 +1,14 @@
 
-
-Input:
 <ul>
+Input:
 {% for tag in site.data.tags %}
   {% if tag.type == 'input' %}
     <li> {{ tag.name }} </li>
   {% endif %}
 {% endfor %}
 </ul>
-Output:
 <ul>
+Output:
 {% for tag in site.data.tags %}
   {% if tag.type == 'output' %}
     <li> {{ tag.name }} </li>
