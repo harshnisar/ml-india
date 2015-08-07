@@ -1,11 +1,8 @@
-gender:
-  name: gender
+- name: gender
   type: input
 
-skill:
-  name: skill
+- name: skill
   type: input
 
-designation:
-  name: designation
+- name: designation
   type: output
