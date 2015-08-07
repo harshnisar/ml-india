@@ -1,8 +1,8 @@
-- name: gender
+- name: "gender"
   type: input
 
-- name: skill
+- name: "skill"
   type: input
 
-- name: designation
+- name: "designation"
   type: output
