@@ -1,14 +1,14 @@
 
 
-Input: <br>
+Input: 
 {% for tag in site.data.tags %}
   {% if tag.type == 'input' %}
     {{ tag.name }}
-    <br>
+    
   {% endif %}
 {% endfor %}
 
-Output: <br>
+Output:
 {% for tag in site.data.tags %}
   {% if tag.type == 'output' %}
     {{ tag.name }}
