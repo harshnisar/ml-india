@@ -35,3 +35,5 @@ Please drop a comment and let us know what you think!
 {% include _subscribe.html %}
 
 ---
+
+{% include tagsmenu.html %}
