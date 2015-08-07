@@ -1,0 +1,8 @@
+gender:
+  type: input
+
+skill:
+  type: input
+
+designation:
+  type: output
