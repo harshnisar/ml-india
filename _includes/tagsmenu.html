@@ -3,7 +3,7 @@
 Input: <br>
 {% for tag in site.data.tags %}
   {% if tag.type == 'input' %}
-    {{ tag }}
+    {{ tag.name }}
     <br>
   {% endif %}
 {% endfor %}
@@ -11,7 +11,7 @@ Input: <br>
 Output: <br>
 {% for tag in site.data.tags %}
   {% if tag.type == 'output' %}
-    {{ tag }}
+    {{ tag.name }}
   {% endif %}
 {% endfor %}
 
