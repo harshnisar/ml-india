@@ -37,3 +37,17 @@ Please drop a comment and let us know what you think!
 ---
 
 {% include tagsmenu.html %}
+
+
+Input: 
+{% for tag in site.data.tags %}
+  {% if tag.type == 'input' %}
+    {{ tag.name }}
+  {% endif %}
+{% endfor %}
+Output:
+{% for tag in site.data.tags %}
+  {% if tag.type == 'output' %}
+    {{ tag.name }}
+  {% endif %}
+{% endfor %}
