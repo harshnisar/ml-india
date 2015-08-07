@@ -1,0 +1,17 @@
+
+
+Input: <br>
+{% for tag in site.data.tags %}
+  {% if tag.type == 'input' %}
+    {{ tag }}
+    <br>
+  {% endif %}
+{% endfor %}
+
+Output: <br>
+{% for tag in site.data.tags %}
+  {% if tag.type == 'output' %}
+    {{ tag }}
+  {% endif %}
+{% endfor %}
+
