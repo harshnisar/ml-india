@@ -1,8 +1,11 @@
 gender:
+  name: gender
   type: input
 
 skill:
+  name: skill
   type: input
 
 designation:
+  name: designation
   type: output
