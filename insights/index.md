@@ -18,7 +18,7 @@ comments: true
 ---
 
 ## Methodology and Sources
-Disclaimer: There is no guarantee that the results are completely accurate and we acknowledge that there are loopholes involved. The initiative is only to paint an overall picture and not demean any one instituition or person or country. On the contrary, we want to inspire and foster the eco-system in India. 
+Disclaimer: There is no guarantee that the results are completely accurate and we acknowledge that there are caveats and subtleties behind making these inferences. The initiative is only to paint an overall picture and not demean any one instituition or person or country. On the contrary, we want to inspire and foster the eco-system in India. 
 
 The data is gathered using a simple query on <a href="http://www.elsevier.com/online-tools/scopus">SCOPUS</a> followed by some elementary cleaning.
 
@@ -30,7 +30,7 @@ Please write to <a href='mailto:nisar.harsh@gmail.com'>me</a> if you have specif
 
 Please drop a comment and let us know what you think! 
 
-*India's Contribution to Machine Learning in the last 15 years* was made and ideated by <a href='http://twitter.com/NisarHogaya'>Harsh Nisar </a> & <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a>.
+*India's Contribution to Machine Learning in the last 15 years* was made and ideated by <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74" target="_blank"> Varun Aggarwal </a>, <a href='http://twitter.com/NisarHogaya' target="_blank">Harsh Nisar </a> & <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965" target="_blank">Shashank Srikant</a>.
 
 ---
 
