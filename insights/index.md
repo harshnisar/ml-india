@@ -18,9 +18,11 @@ comments: true
 ---
 
 ## Methodology and Sources
-Disclaimer: There is no guarantee that the results are completely correct and we acknowledge that there quite a lot of loopholes involved. The initiative is only to paint an overall picture and not demean any one instituition or person or country. On the contrary, we want to inspire and foster the eco-system in India. 
+Disclaimer: There is no guarantee that the results are completely accurate and we acknowledge that there are loopholes involved. The initiative is only to paint an overall picture and not demean any one instituition or person or country. On the contrary, we want to inspire and foster the eco-system in India. 
 
 The data is gathered using a simple query on <a href="http://www.elsevier.com/online-tools/scopus">SCOPUS</a> followed by some elementary cleaning.
+
+Only top tier conferences in ML or related fields are analysed.
 
 A loose definition of the word *Contribution* is used throughout the analyses. A contribution is simply the count of papers with atleast one of the authors *affiliated* with the respective country. Affiliation is based on the country specified in the authors affiliation data in SCOPUS.
 
