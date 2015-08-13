@@ -16,7 +16,7 @@ There is no consolidated resource for Data and Machine Learning which is centere
 
 ### Are you a research group working in ML/Data/Analytics?
 
-Write to us (email on the sidebar), or edit _includes/_research-groups.html in our GH repo and send a pull request!
+Write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!
 
 ---
 
