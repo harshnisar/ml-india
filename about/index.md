@@ -21,7 +21,7 @@ Currently, this group is maintained by <a href='http://twitter.com/NisarHogaya'>
 
 ---
 
-*Site powered by Jekyll, using Minimal Mistakes theme and hosted on Github and fuelled by machine-made dip-dip tea. If you find a bug, or want to suggest content, or have an issue please write to us or start an issue or PR on our GitHub Repo*
+*Site powered by Jekyll, using Minimal Mistakes theme and hosted on Github and fuelled by machine-made dip-dip tea. Logo courtesy thehinglishproject. If you find a bug, or want to suggest content, or have an issue please write to us or start an issue or PR on our GitHub Repo*
 
 ---
 
