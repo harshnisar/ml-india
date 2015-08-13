@@ -1,6 +1,5 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+excerpt: "Fostering the machine learning and data ecosystem in India"
 tags: [Jekyll, theme, responsive, blog, template]
-
 ---
