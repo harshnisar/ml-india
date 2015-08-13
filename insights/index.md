@@ -30,7 +30,7 @@ Please write to <a href='mailto:nisar.harsh@gmail.com'>me</a> if you have specif
 
 Please drop a comment and let us know what you think! 
 
-*India's Contribution to Machine Learning in the last 15 years* was made and ideated by <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74" target="_blank"> Varun Aggarwal </a>, <a href='http://twitter.com/NisarHogaya' target="_blank">Harsh Nisar </a> & <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965" target="_blank">Shashank Srikant</a>.
+*India's Contribution to Machine Learning in the last 15 years* was made and ideated by <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74" target="_blank"> Varun Aggarwal </a>, <a href='https://in.linkedin.com/pub/harsh-nisar/88/475/b83' target="_blank">Harsh Nisar </a> & <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965" target="_blank">Shashank Srikant</a>.
 
 ---
 
