@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Machine Learning India
+title:            Machine Learning India | Fostering data science and machine learning in India
 locale:           en_US
-url:              //ml-india.org 
+url:              http://ml-india.org 
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: ML-India
+  name: Machine Learning India
   avatar: bio-photo.jpg
-  bio: "Fostering the machine learning and data ecosystem in India"
+  bio: "Fostering data science and machine learning in India"
   disqus-shortname: ml-india
   twitter: ml_india
   facebook: 
