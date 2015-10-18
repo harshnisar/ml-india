@@ -16,8 +16,8 @@ GEM
     ffi (1.9.6)
     ffi (1.9.6-x64-mingw32)
     ffi (1.9.6-x86-mingw32)
-    hitimes (1.2.2)
-    hitimes (1.2.2-x86-mingw32)
+    hitimes (1.2.1)
+    hitimes (1.2.1-x86-mingw32)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
       colorator (~> 0.1)
@@ -65,7 +65,7 @@ GEM
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.10)
-    pygments.rb (0.6.2)
+    pygments.rb (0.5.0)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
     rb-fsevent (0.9.4)
@@ -90,3 +90,6 @@ DEPENDENCIES
   jekyll
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)
+
+BUNDLED WITH
+   1.10.6

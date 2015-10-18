@@ -12,8 +12,11 @@
 - title: Companies
   url: /ml-companies/
 
-- title: Research Groups
-  url: /research-groups/
+- title: People
+  url: /people/
+
+- title: ML Research Papers
+  url: /research-papers/
 
 - title: Mailing List
   url: https://groups.google.com/forum/?hl=en#!forum/ml-india
