@@ -7,14 +7,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 ---
 
-{% include _toc.html %}
-
-## Introduction
-
-There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.
-
-
----
 
 ## Machine Learning Research Groups in India
 
