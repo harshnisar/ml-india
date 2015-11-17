@@ -218,7 +218,6 @@ I am reminded of Minsky – Occam’s razor is a bad idea to understand
 intelligence – unfortunately intelligence isn’t simple to understand.
 
 [11]<a markdown="0" name="_ftn11"></a>
-
 [http://ikdd.acm.org](http://ikdd.acm.org)
 
 [12]<a markdown="0" name="_ftn12"></a>
