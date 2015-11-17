@@ -2,7 +2,7 @@
 layout: page
 title: Indian Companies and Startups in Machine Learning and Data
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Indina companies working int the field of machine learning, data and analytics"
+excerpt: "Indian companies working in the field of machine learning, data and analytics"
 comments: true
 
 ---
