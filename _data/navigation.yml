@@ -1,8 +1,5 @@
 # Site navigation links
 
-- title: Home
-  url: /
-
 - title: About
   url: /about/
 
@@ -15,7 +12,7 @@
 - title: People
   url: /people/
 
-- title: ML Research Papers
+- title: Research Papers
   url: /research-papers/
 
 - title: Mailing List
