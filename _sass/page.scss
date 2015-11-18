@@ -280,6 +280,9 @@ $button-size: 1.5rem;
 		p+p {
 			text-indent: 0;
 		}
+		a{
+			text-decoration: underline;
+		}
 	}
 }
 
@@ -442,6 +445,7 @@ $button-size: 1.5rem;
 /* Post content wrapper */
 .article-wrap {
 	// Dotted line underlines for links
+	a,
 	p > a,
 	li > a {
 		text-decoration: underline;
