@@ -10,6 +10,7 @@ _We lag…Indian academia does less machine learning papers than a single
 university in China and all the new companies do lesser than a single company
 in the USA._
 
+###The power of machine learning
 Machine learning is the science of _learning_ to do tasks by observing
 examples. It is transforming the world by enabling machines do all sorts of
 ‘intelligent’ tasks such as understanding images, human speech, predicting
@@ -39,6 +40,7 @@ neurosciences is helping us understand the probable basis and mechanism of
 intelligence better. These techniques have made a substantial business impact
 and there is today hope to better understand _intelligence_.
 
+### Machine learning a wholesome opportunity for India: Satisfies 6 important criteria
 In some way, it has never been so exciting! Where should India be, as
 machines are becoming more intelligent? It is simple – it should be making the
 most of the opportunity. We need to participate and contribute in high quality
@@ -50,15 +52,15 @@ world. Notwithstanding, there are number of local problems which machine learnin
 solve effectively. For instance, it can help find the poverty landscape in the
 country in a cheap way [[7](#_ftn7)] and whether interventions to such findings made
 a difference over time. Machine learning is not just a scientific or an
-academic pursuit. The economy and society can get great returns by the research
-and innovation in the area.
+academic pursuit. **The economy and society can get great returns by the research
+and innovation in the area.**
 
 India needs to work with the world as an equal partner to lead the next
 generation of innovation in machine learning. This has the potential to change the world,
 once again.
-The good news is that it doesn’t require expensive infrastructure – a person
+**The good news is that it doesn’t require expensive infrastructure – a person
 with just a laptop and say MATLAB can write 1000 (or lesser) lines of code
-which can revolutionize how things are done. [[8](#_ftn8)]
+which can revolutionize how things are done.** [[8](#_ftn8)]
 The fundamental skills required are those in math and coding, in which Indians
 do have an enviable past record. These need to be combined with tons of creativity, passion and a system’s
 approach to things.
@@ -82,8 +84,7 @@ already in the DNA and culture of India, may I, for the last 2000 years.
 
 What is more- it is cool, young and fashionable!
 
-We need to grab this opportunity! But, where are we today?
-
+### We need to grab this opportunity! But, where are we today?
 Before I delve into it objectively, let me mull over a sort of strange historic
 connection India has had with machine learning. The way of science in India was
 inductive and empirical – say calculations of which stars and planets will show
@@ -92,9 +93,9 @@ not have a proof or any formalism around it [[9](#_ftn9)].
 In contrast, the West brought in formal knowledge based methods and theories to
 _explain, prove_ and _generalize_ the empirical [[10](#_ftn10)].
 These were much more effective and reduced interest in the magical inductive
-results. Today, we find for a lot of more complex problems, these empirical
+results. **Today, we find for a lot of more complex problems, these empirical
 methods do much better than the formal ones – that is the learning in AI from
-the last couple of decades. We have come a full circle.
+the last couple of decades. We have come a full circle.**
 
 <figure>
     <a href="/images/unis overall.png"><img src="/images/unis overall.png"></a>
@@ -106,18 +107,18 @@ more details</figcaption>
 
 
 But India is lacking… Let us start by looking at academic research. We do find
-pockets of excellence. There is some critical mass of machine learning
-researchers in IISc. They can collaborate to tackle hard and interesting
+pockets of excellence. **There is some critical mass of machine learning
+researchers in IISc.** They can collaborate to tackle hard and interesting
 problems and publish world class results. Also, in some of the IITs, such as
 IIT Delhi, we find some people in machine learning including those who have
-returned with a foreign education. IKDD CODS [[11](#_ftn11)],
-a conference in data science with world class standards, started in India in 2013.
+returned with a foreign education. **IKDD CODS [[11](#_ftn11)],
+a conference in data science with world class standards, started in India in 2013.**
 
 Objectively, we looked at the total papers in the top 13 machine learning
-conferences in the last 15 years (see figure 1). All put together, India
+conferences in the last 15 years (see figure 1). **All put together, India
 produces lesser papers than a single world class university in China – the Tshingua university. We
 do one-third of Carnegie Mellon University of USA. Our total research papers
-have been 745, China is 3956 and USA is 19,000+.  We rank 15th by the number of
+have been 745, China is 3956 and USA is 19,000+.** We rank 15th by the number of
 documents we produce, with a Singapore, a Spain, an Israel and a Canada bettering
 us (see figure 2). We have a lot to catch up and only a disruptive mission
 based approach can make this happen.
@@ -130,35 +131,34 @@ for more details</figcaption>
 
 
 
-Let us look at industrial research, where the picture is even starker. China
+**Let us look at industrial research,** where the picture is even starker. China
 produces 10x more papers, with Singapore being twice and US being 50 times
 ahead. New companies [[12](#_ftn12)]
 are the engine of growth and have the potential to create disruption and maximum
-business value. In India, we could only find 12 papers from 5 startups in the
-last 15 years! One of it is Aspiring Minds - our work on programming assessment
+business value. **In India, we could only find 12 papers from 5 startups in the
+last 15 years!** One of it is Aspiring Minds - our work on programming assessment
 and spoken English assessment at KDD. Another notable is Strand Life Sciences,
 with some high quality work in Bioinformatics, Infibeam in e-commerce and S&I
 Engineering pushing the frontiers in computer vision. Both Strand and SI are
-companies that came out of IISc and are great examples to emulate. Compare this
+companies that came out of IISc and are great examples to emulate. **Compare this
 to USA or China: a Linkedin has 17, Facebook 15, a Baidu 22, Alibaba 4,
-Tencents 3, Renren 2 followed by a long tail of companies. No wonder MIT
+Tencents 3, Renren 2 followed by a long tail of companies.** No wonder MIT
 Technology Review’s top 50 smartest companies have 7 out of the top 10 from US,
-3 from China and none from India! One may note that much of the open source
+3 from China and none from India! One may note that much of the **open source
 software and libraries for storing, handling, searching and analyzing big data
-has come from new companies and not universities. The same is true for recommender
+has come from new companies and not universities.** The same is true for recommender
 systems to an extent [[13](#_ftn13)].
 
 Startups need to invest in research specifically in the area of machine
 learning. They need to follow the examples of (and even outperform)
-a Facebook, a Baidu, a Tencents and an Aspiring Minds. These companies have separate data
+a Facebook, a Baidu, a Tencents and an Aspiring Minds. **These companies have separate data
 science research groups. This will let them have a sustainable business edge,
-be disruptive and globally competitive. Otherwise, they we will be ripped off,
+be disruptive and globally competitive.** Otherwise, they we will be ripped off,
 once again [[14](#_ftn14)], by
 new innovations happening in other parts of the world. The speed of innovation
 and disruption is much faster now – we need to keep running to be at the same pace!
 
-So what do we need to do? Probably a lot… 
-
+### So what do we need to do? Probably a lot… 
 To make a small beginning, my colleagues and [I]() at Aspiring Minds, put together ‘ML India’ – a place for the machine learning
 community in India to interact, share, develop ideas, continuously assess
 itself and achieve new heights. No surprises, we take a data visualization [[15](#_ftn15)]
@@ -171,7 +171,7 @@ Wait for another post on what we can do to super accelerate our machine
 learning efforts. Till then check out how, for the first time in the world, we
 are teaching 12-15 year old kids in India supervised learning [[16](#_ftn16)]!
 
- 
+*- Varun Aggarwal with inputs from Shashank Srikant and Harsh Nisar*
 
 
 * * *
