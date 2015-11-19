@@ -173,7 +173,7 @@ are teaching 12-15 year old kids in India supervised learning [[16](#_ftn16)]!
 
 *- Varun Aggarwal with inputs from Shashank Srikant and Harsh Nisar*
 
-**To participate in a discussion on this, visit [https://www.linkedin.com/pulse/where-does-india-stand-machines-become-intelligent-varun-aggarwal](the same article on Linkedin)**
+**To participate in a discussion on this, view the article on [Linkedin](https://www.linkedin.com/pulse/where-does-india-stand-machines-become-intelligent-varun-aggarwal){:target="_blank"}**
 
 * * *
 
