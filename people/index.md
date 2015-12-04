@@ -19,16 +19,6 @@ $(document).ready(function(){
       alert("inside jquery function");
        $("#research_div").show();
         $("#faculty_and_professor").hide();
-        
-    $("#faculty_and_professor_link").click(function(){
-        $("#research_div").hide();
-        $("#faculty_and_professor").show();
-    });
-    
-    $("#research_group_link").click(function(){
-        $("#research_div").show();
-        $("#faculty_and_professor").hide();
-    });
  });
 </script>
 <ul class="nav nav-tabs">
