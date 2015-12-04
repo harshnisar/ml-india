@@ -9,16 +9,11 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 
 <ul class="nav nav-tabs">
-  <li class="active"><a href="{{ site.url }}/people/research-groups" onclick="javascript:DoSomething(1);"> Research Group</a></li>
-  <li><a href="{{ site.url }}/people/research-groups onclick="javascript:DoSomething(2);"> Faculty And Professors</a></li>
+  <li class="active"><a href="{{ site.url }}/people/research-groups" onclick="javascript:DoSomething();"> Research Group</a></li>
+  <li><a href="{{ site.url }}/people/research-groups onclick="javascript:DoSomething();"> Faculty And Professors</a></li>
 </ul>
 
-<div id="div_test">
-<h2>Div Testing</h2>
-</div>
 {% include _toc.html %}
-
-<div>
 <div>
 ## Introduction
 
