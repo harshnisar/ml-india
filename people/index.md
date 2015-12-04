@@ -13,8 +13,8 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 <ul class="nav nav-tabs">
-  <li class="active"><a href="{{ site.url }}/people/research-groups" onclick="javascript:DoSomething();"> Research Group</a></li>
-  <li><a href="{{ site.url }}/people/research-groups onclick="javascript:DoSomething();"> Faculty And Professors</a></li>
+  <li class="active"><a href="{{ site.url }}/people/research-groups"> Research Group</a></li>
+  <li><a href="{{ site.url }}/people/research-groups"> Faculty And Professors</a></li>
 </ul>
 
 {% include _toc.html %}
