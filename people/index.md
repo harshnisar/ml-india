@@ -13,19 +13,17 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   <script type="text/javascript">
-  function Diable()
-  {
-    $(document).ready(
-      function()
-      {
+  <script>
+$(document).ready(function(){
+    $("#research_group_link").click(function(){
         $("#research_div").hide();
-      }
-    ); 
-  }
+    });
+ });
+</script>
   </script>
 
 <ul class="nav nav-tabs">
-  <li><a href="#" class="active" onclick="Diable()"> Research Group</a></li>
+  <li><a href="#" class="active" id="research_group_link"> Research Group</a></li>
   <li><a href="#"> Faculty And Professors</a></li>
 </ul>
 
