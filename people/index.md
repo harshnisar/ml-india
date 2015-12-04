@@ -6,6 +6,9 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 
 ---
+
+{% include _toc.html %}
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -13,23 +16,21 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 <ul class="nav nav-tabs">
-  <li class="active"><a href="{{ site.url }}/people/research-groups"> Research Group</a></li>
-  <li><a href="{{ site.url }}/people/research-groups"> Faculty And Professors</a></li>
+  <li class="active"><a href="#"> Research Group</a></li>
+  <li><a href="#"> Faculty And Professors</a></li>
 </ul>
 
-{% include _toc.html %}
 <div>
 <h2> Introduction </h2>
 
 <p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
 
 <h3> Are you a research group working in ML/Data/Analytics?<h3>
-</div>
-Write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!
 
----
+<p>Write to <a href='/contact'>us</a>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
 
-## Machine Learning Research Groups in India
+
+<h2> Machine Learning Research Groups in India </h2>
 
 A list of research groups in India which are working in machine learning and data science.
 
