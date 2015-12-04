@@ -28,7 +28,9 @@ $(document).ready(function(){
 </ul>
 
 <div id="research_div">
+<markdown>
 ##Introduction
+</markdown>
 
 <p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
 
