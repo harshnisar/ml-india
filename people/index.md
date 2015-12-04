@@ -14,7 +14,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 <ul class="nav nav-tabs">
-  <li><a href="#"> Research Group</a></li>
+  <li><a href="#" class="active"> Research Group</a></li>
   <li><a href="#"> Faculty And Professors</a></li>
 </ul>
 
