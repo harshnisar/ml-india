@@ -24,12 +24,11 @@ $(document).ready(function(){
     $("#research_group_link").click(function(){
         $("#research_div").show();
         $("#faculty_and_professor").hide();
-        
     });
  });
 </script>
 <ul class="nav nav-tabs">
-  <li><a href="#" class="active" id="research_group_link"> Research Group</a></li>
+  <li><a href="#" id="research_group_link"> Research Group</a></li>
   <li><a href="#" id="faculty_and_professor_link"> Faculty And Professors</a></li>
 </ul>
 
@@ -68,7 +67,7 @@ A list of research groups in India which are working in machine learning and dat
 
 
 </div>
----
+
 
 
 
