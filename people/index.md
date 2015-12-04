@@ -15,7 +15,12 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <script type="text/javascript">
   function Diable()
   {
-    alert("inside js function"); 
+    $(document).ready(
+      function()
+      {
+        $("#research_div").hide();
+      }
+    ); 
   }
   </script>
 
