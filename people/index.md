@@ -31,7 +31,6 @@ $(document).ready(function(){
     });
  });
 </script>
-  </script>
 <ul class="nav nav-tabs">
   <li><a href="#" class="active" id="research_group_link"> Research Group</a></li>
   <li><a href="#" id="faculty_and_professor_link"> Faculty And Professors</a></li>
