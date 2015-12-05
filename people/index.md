@@ -18,12 +18,21 @@ $(document).ready(function(){
  });
  function hideDiv(flag)
  {
-   alert(flag);
+   if(flag==1)
+   {
+     document.getElementById("research_div").style.display="inline";
+     document.getElementById("faculty_and_professor").style.display="none";
+   }
+   else
+   {
+     document.getElementById("research_div").style.display="none";
+     document.getElementById("faculty_and_professor").style.display="inline";
+   }
  }
 </script>
 <ul class="nav nav-tabs">
   <li><a href="#" id="research_group_link" onclick="hideDiv(1)"> Research Group</a></li>
-  <li><a href="#" id="faculty_and_professor_link"> Faculty And Professors</a></li>
+  <li><a href="#" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></li>
 </ul>
 
 <div id="research_div">
