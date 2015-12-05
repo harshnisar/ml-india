@@ -31,7 +31,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <li><a href="#" class="active" id="research_group_link" onclick="hideDiv(1)"> Research Group</a></li>
   <li><a href="#" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></li>
 </ul>
-
+<div>
 <div id="faculty_and_professor">
 
 <h3> Are you professor/faculty in ML/Data/Analytics? <h3>
@@ -56,7 +56,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 <h3> Are you a research group working in ML/Data/Analytics?<h3>
 
-<p>Write to <a href='/contact'>us</a>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
+<p>Write to </p><a href='/contact'>us</a> <p>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
 
 
 <h2> Machine Learning Research Groups in India </h2>
@@ -68,6 +68,6 @@ A list of research groups in India which are working in machine learning and dat
 
 </div>
 
-
+</div>
 
 {% include _subscribe.html %}
