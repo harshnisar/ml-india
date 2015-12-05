@@ -13,17 +13,16 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   
   <script>
 $(document).ready(function(){
-   alert("inside jquery");
    $("#research_div").show();
    $("#faculty_and_professor").hide();
  });
- function hideDiv()
+ function hideDiv(flag)
  {
-   alert("inside hideDiv");
+   alert(flag);
  }
 </script>
 <ul class="nav nav-tabs">
-  <li><a href="#" id="research_group_link" onclick="hideDiv()"> Research Group</a></li>
+  <li><a href="#" id="research_group_link" onclick="hideDiv(1)"> Research Group</a></li>
   <li><a href="#" id="faculty_and_professor_link"> Faculty And Professors</a></li>
 </ul>
 
