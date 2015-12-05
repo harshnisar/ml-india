@@ -16,6 +16,11 @@ $(document).ready(function(){
    alert("inside jquery");
    $("#research_div").show();
    $("#faculty_and_professor").hide();
+   
+   $("#faculty_and_professor_link").click(function(){
+        $("#research_div").hide();
+        $("#faculty_and_professor").show();
+    });
  });
 </script>
 <ul class="nav nav-tabs">
