@@ -17,9 +17,13 @@ $(document).ready(function(){
    $("#research_div").show();
    $("#faculty_and_professor").hide();
  });
+ function hideDiv()
+ {
+   alert("inside hideDiv");
+ }
 </script>
 <ul class="nav nav-tabs">
-  <li><a href="#" id="research_group_link"> Research Group</a></li>
+  <li><a href="#" id="research_group_link" onclick="hideDiv()"> Research Group</a></li>
   <li><a href="#" id="faculty_and_professor_link"> Faculty And Professors</a></li>
 </ul>
 
