@@ -31,6 +31,23 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <li><a href="#" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></li>
 </ul>
 
+
+<div id="faculty_and_professor">
+
+<h3> Are you professor/faculty in ML/Data/Analytics? <h3>
+
+<p>If your name is not mentioned or link to your website is missing, please write to </p><a href='/contact'>us</a><p>, or edit <i>includes/<i>research-groups.html in our GH repo and send a pull request!</p>
+
+
+<h2> Machine Learning professors in India
+
+
+{% include _ml-faculty.html %}
+
+
+</div>
+
+
 <div id="research_div">
 
 {% include _toc.html %}
@@ -54,21 +71,6 @@ A list of research groups in India which are working in machine learning and dat
 
 </div>
 
-
-<div id="faculty_and_professor">
-
-<h3> Are you professor/faculty in ML/Data/Analytics? <h3>
-
-<p>If your name is not mentioned or link to your website is missing, please write to </p><a href='/contact'>us</a><p>, or edit <i>includes/<i>research-groups.html in our GH repo and send a pull request!</p>
-
-
-<h2> Machine Learning professors in India
-
-
-{% include _ml-faculty.html %}
-
-
-</div>
 
 
 {% include _subscribe.html %}
