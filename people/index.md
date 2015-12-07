@@ -29,11 +29,15 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 </ul>
 
 <div id="research_div">
+<p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
+
+<h3>Are you a research group working in ML/Data/Analytics?</h3>
+
+<p>Write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!</p>
+
 <h2>Machine Learning Research Groups in India</h2>
 
 <p>A list of research groups in India which are working in machine learning and data science.</p>
-
-<p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
 
 {% include _research-groups.html %}
 
