@@ -11,7 +11,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   var n = current_url.indexOf("machine-learning-faculty-india");
   if(n!=-1)
   {
-    alert("Faculty and Professionals");
       hideDiv(2);
   }
   else
@@ -23,7 +22,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
  {
    if(flag==1)
    {
-     alert("Research Group hide div");
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("research_group_td").style.backgroundColor = "#FF9966";
@@ -31,7 +29,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
    }
    else if(flag==2)
    {
-     alert("Faculty and Professionals_hide_div");
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
      document.getElementById("research_group_td").style.backgroundColor = "#FFFFFF"
