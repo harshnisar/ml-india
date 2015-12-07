@@ -27,7 +27,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <li><a href="#" id="research_group_link" onclick="hideDiv(1)"> Research Group</a></li>
   <li><a href="#" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></li>
 </ul>
-
+<h1>Indian research groups in the field of machine learning and data science</h1>
 <div id="research_div">
 <h2>Introduction</h2>
 
@@ -46,8 +46,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 </div>
 
 <div id="faculty_and_professor">
-<h1>Indian research groups in the field of machine learning and data science</h1>
-
 <h3>Are you professor/faculty in ML/Data/Analytics?</h3>
 
 <p>If your name is not mentioned or link to your website is missing, please write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!</p>
