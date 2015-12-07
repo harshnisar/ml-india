@@ -24,7 +24,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
  }
 </script>
 <ul class="nav nav-tabs">
-  <li><a href="#" id="research_group_link" onclick="hideDiv(1)"> Research Group</a></li>
+  <li><a href="#" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></li>
   <li><a href="#" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></li>
 </ul>
 <h1>Indian research groups in the field of machine learning and data science</h1>
