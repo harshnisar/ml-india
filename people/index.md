@@ -65,7 +65,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 </div>
 
 <div id="faculty_and_professor">
-<h1>Indian faculty and professionals in the field of machine learning and data science</h1>
+<h1>Indian faculty and professors in the field of machine learning and data science</h1>
 
 <h3>Are you professor/faculty in ML/Data/Analytics?</h3>
 
