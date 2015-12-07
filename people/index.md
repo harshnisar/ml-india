@@ -26,8 +26,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("research_group_link").style.color='blue';
      document.getElementById("faculty_and_professor_link").style.color='black';
-     document.getElementById("research_group_td").style.backgroundColor = "#FF9966";
-     document.getElementById("faculty_and_professors_td").style.backgroundColor = "#FFFFFF";
    }
    else if(flag==2)
    {
@@ -35,8 +33,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
      document.getElementById("faculty_and_professor").style.display="inline";
      document.getElementById("research_group_link").style.color='black';
      document.getElementById("faculty_and_professor_link").style.color='blue';
-     document.getElementById("research_group_td").style.backgroundColor = "#FFFFFF"
-     document.getElementById("faculty_and_professors_td").style.backgroundColor = "#FF9966";
    }
  }
 </script>
