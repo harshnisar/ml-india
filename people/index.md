@@ -31,6 +31,29 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <li><a href="#" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></li>
 </ul>
 
+<div id="research_div">
+
+{% include _toc.html %}
+
+<h2>Introduction</h2>
+
+
+<p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
+
+<h3> Are you a research group working in ML/Data/Analytics?<h3>
+
+<p>Write to </p><a href='/contact'>us</a><p>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
+
+
+<h2> Machine Learning Research Groups in India </h2>
+
+A list of research groups in India which are working in machine learning and data science.
+
+
+{% include _research-groups.html %}
+
+</div>
+
 
 <div id="faculty_and_professor">
 
@@ -44,30 +67,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 {% include _ml-faculty.html %}
 
-
-</div>
-
-
-<div id="research_div">
-
-{% include _toc.html %}
-
-<h2>Introduction</h2>
-
-
-<p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
-
-<h3> Are you a research group working in ML/Data/Analytics?<h3>
-
-<p>Write to <a href='/contact'>us</a>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
-
-
-<h2> Machine Learning Research Groups in India </h2>
-
-A list of research groups in India which are working in machine learning and data science.
-
-
-{% include _research-groups.html %}
 
 </div>
 
