@@ -49,9 +49,7 @@ A list of research groups in India which are working in machine learning and dat
 
 
 <div id="faculty_and_professor">
-<h1>Indian Research groups in the field of machine learning and data science<h1>
-
-<h3> Are you professor/faculty in ML/Data/Analytics? <h3>
+<p><b>Faculty And Professor</b></p>
 
 </div>
 
