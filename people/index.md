@@ -34,16 +34,9 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 <div id="research_div">
 <h1>Indian Research groups in the field of machine learning and data science<h1>
-<div id="drawer">
-<ul id="markdown-toc">
-  <li><a href="#introduction">Introduction</a>    <ul>
-      <li><a href="#are-you-a-research-group-working-in-mldataanalytics">Are you a research group working in ML/Data/Analytics?</a></li>
-    </ul>
-  </li>
-  <li><a href="#machine-learning-research-groups-in-india">Machine Learning Research Groups in India</a></li>
-</ul>
 
-  </div>
+{% include _toc.html %}
+
 <h2>Introduction</h2>
 
 
