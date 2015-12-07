@@ -8,6 +8,8 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   $(document).ready(function(){
     $("#research_div").show();
     $("#faculty_and_professor").hide();
+    $("#research_group_td").css('backgroundColor', '#333366');
+    $("#faculty_and_professors_td").css('backgroundColor', '#FFFFFF');
   });
  function hideDiv(flag)
  {
@@ -15,18 +17,22 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
    {
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
+     document.getElementById("research_group_td").style.backgroundColor = "#333366";
+     document.getElementById("faculty_and_professors_td").style.backgroundColor = "#FFFFFF";
    }
    else if(flag==2)
    {
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
+     document.getElementById("research_group_td").style.backgroundColor = "#FFFFFF"
+     document.getElementById("faculty_and_professors_td").style.backgroundColor = "#333366";
    }
  }
 </script>
 <table>
     <tr>
-        <td><a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></td>
-        <td><a href="#machine-learning-faculty-india" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></td>
+        <td id="research_group_td"><a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></td>
+        <td id="faculty_and_professors_td"><a href="#machine-learning-faculty-india" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></td>
     </tr>
 </table>
 <h1>Indian research groups in the field of machine learning and data science</h1>
