@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: 
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Indian faculty and research groups in machine learning and data science"
 ---
@@ -45,15 +45,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 </table>
 
 <div id="research_div">
-<h1>Indian research groups in the field of machine learning and data science</h1>
-
-<h2>Introduction</h2>
-
-<p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
-
-<h3>Are you a research group working in ML/Data/Analytics?</h3>
-
-<p>Write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!</p>
 <hr>
 <h2>Machine Learning Research Groups in India</h2>
 
@@ -65,11 +56,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 </div>
 
 <div id="faculty_and_professor">
-<h1>Indian faculty and professors in the field of machine learning and data science</h1>
-
-<h3>Are you professor/faculty in ML/Data/Analytics?</h3>
-
-<p>If your name is not mentioned or link to your website is missing, please write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!</p>
 <hr>
 <h2>Machine Learning professors in India</h2>
 
