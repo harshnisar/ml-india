@@ -5,12 +5,8 @@ modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Indian faculty and research groups in machine learning and data science"
 ---
   <script>
-  $(document).ready(function(){
-    $("#research_div").show();
-    $("#faculty_and_professor").hide();
-    $("#research_group_td").css('background-color', '#FF9966');
-    $("#faculty_and_professors_td").css('background-color', '#FFFFFF');
-  });
+ function pageSet()
+ {
   var current_url=document.URL;
   var n = current_url.indexOf("machine-learning-faculty-india");
   if(n!=-1)
@@ -18,10 +14,16 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
     alert("Faculty and Professionals");
       hideDiv(2);
   }
+  else
+  {
+    hideDiv(1);
+  }
+ }
  function hideDiv(flag)
  {
    if(flag==1)
    {
+     alert("Research Group hide div");
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("research_group_td").style.backgroundColor = "#FF9966";
@@ -37,6 +39,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
    }
  }
 </script>
+<body onload="pageSet()">
 <table>
     <tr>
         <td id="research_group_td" align="center"><a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></td>
@@ -76,4 +79,4 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 
 {% include _subscribe.html %}
-
+</body>
