@@ -39,8 +39,9 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 
 <div id="faculty_and_professor">
-<p><b>Faculty And Professor</b></p>
+<p>If your name is not mentioned or link to your website is missing, please write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!</p>
 
+{% include _ml-faculty.html %}
 </div>
 
 
