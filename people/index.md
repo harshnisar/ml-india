@@ -11,6 +11,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   
   <script>
+  
  function hideDiv(flag)
  {
    if(flag==1)
@@ -32,9 +33,17 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 </ul>
 
 <div id="research_div">
-
-{% include _toc.html %}
 <h1>Indian Research groups in the field of machine learning and data science<h1>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#introduction">Introduction</a>    <ul>
+      <li><a href="#are-you-a-research-group-working-in-mldataanalytics">Are you a research group working in ML/Data/Analytics?</a></li>
+    </ul>
+  </li>
+  <li><a href="#machine-learning-research-groups-in-india">Machine Learning Research Groups in India</a></li>
+</ul>
+
+  </div>
 <h2>Introduction</h2>
 
 
@@ -42,7 +51,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 <h3> Are you a research group working in ML/Data/Analytics?</h3>
 
-<p>Write to<a href='/contact'>us</a>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
+<p>Write to <a href='/contact'>us</a>, or edit includes research-groups.html in our GH repo and send a pull request!</p>
 
 
 <h2> Machine Learning Research Groups in India </h2>
