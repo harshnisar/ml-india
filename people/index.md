@@ -36,13 +36,14 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 <h3>Are you a research group working in ML/Data/Analytics?</h3>
 
 <p>Write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!</p>
-
+<hr>
 <h2>Machine Learning Research Groups in India</h2>
 
 <p>A list of research groups in India which are working in machine learning and data science.</p>
 
 {% include _research-groups.html %}
-
+<hr>
+<hr>
 </div>
 
 <div id="faculty_and_professor">
