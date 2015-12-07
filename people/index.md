@@ -31,43 +31,17 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <li><a href="#" class="active" id="research_group_link" onclick="hideDiv(1)"> Research Group</a></li>
   <li><a href="#" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></li>
 </ul>
-<div>
+
 <div id="faculty_and_professor">
 
-<h3> Are you professor/faculty in ML/Data/Analytics? <h3>
 
-<p>If your name is not mentioned or link to your website is missing, please write to </p><a href='/contact'>us</a><p>, or edit <i>includes/<i>research-groups.html in our GH repo and send a pull request!</p>
-
-
-<h2> Machine Learning professors in India
-
-
-{% include _ml-faculty.html %}
-
-
+<p><b>Faculty And Professors Div</b></p>
 </div>
 
 <div id="research_div">
 
-<h2>Introduction</h2>
-
-
-<p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
-
-<h3> Are you a research group working in ML/Data/Analytics?<h3>
-
-<p>Write to </p><a href='/contact'>us</a> <p>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
-
-
-<h2> Machine Learning Research Groups in India </h2>
-
-A list of research groups in India which are working in machine learning and data science.
-
-
-{% include _research-groups.html %}
-
+<p><b>Research Group Div</b></p>
 </div>
 
-</div>
 
 {% include _subscribe.html %}
