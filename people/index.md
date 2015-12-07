@@ -39,7 +39,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 <body onload="pageSet()">
 <ul class="nav nav-tabs">
   <li><a href="#research-groups" id="research_group_link" onclick="hideDiv(1)> Research Group</a></li>
-  <li><a href="#machine-learning-faculty-india" id="faculty_and_professor_link" onclick="hideDiv(2)> Faculty And Professors</a></li>
+  <li><a href="#machine-learning-faculty-india" id="faculty_and_professor_link" onclick="hideDiv(2)" > Faculty And Professors</a></li>
 </ul>
 
 <div id="research_div">
