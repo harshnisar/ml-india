@@ -6,13 +6,21 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 ---
   <script>
   var current_url=document.URL;
-  alert(current_url);
-  $(document).ready(function(){
-    $("#research_div").show();
-    $("#faculty_and_professor").hide();
-    $("#research_group_td").css('backgroundColor', '#FF9966');
-    $("#faculty_and_professors_td").css('backgroundColor', '#FFFFFF');
-  });
+  var n = current_url.indexOf("machine-learning-faculty-india");
+  if(n!=-1)
+  {
+        document.getElementById("research_div").style.display="none";
+        document.getElementById("faculty_and_professor").style.display="inline";
+        document.getElementById("research_group_td").style.backgroundColor = "#FFFFFF"
+        document.getElementById("faculty_and_professors_td").style.backgroundColor = "#FF9966"; 
+  }
+  else
+  {
+      document.getElementById("research_div").style.display="inline";
+      document.getElementById("faculty_and_professor").style.display="none";
+      document.getElementById("research_group_td").style.backgroundColor = "#FF9966";
+      document.getElementById("faculty_and_professors_td").style.backgroundColor = "#FFFFFF";
+  }
  function hideDiv(flag)
  {
    if(flag==1)
