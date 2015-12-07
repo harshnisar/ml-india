@@ -5,9 +5,6 @@ modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Indian faculty and research groups in machine learning and data science"
 ---
   <script>
-  $('#tb2').DataTable({
-    "pageLength" : 15,
-  });
  function pageSet()
  {
   var current_url=document.URL;
