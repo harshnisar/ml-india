@@ -43,10 +43,12 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 <h3>Are you professor/faculty in ML/Data/Analytics?</h3>
 
 <p>If your name is not mentioned or link to your website is missing, please write to <a href='/contact'>us</a>, or edit _includes/_research-groups.html in our GH repo and send a pull request!</p>
-
+<hr>
 <h2>Machine Learning professors in India</h2>
 
 {% include _ml-faculty.html %}
+<hr>
+<hr>
 </div>
 
 
