@@ -31,8 +31,8 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 </script>
 <table>
     <tr>
-        <td id="research_group_td" align="centre"><a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></td>
-        <td id="faculty_and_professors_td" align="centre"><a href="#machine-learning-faculty-india" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></td>
+        <td id="research_group_td" align="center"><a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></td>
+        <td id="faculty_and_professors_td" align="center"><a href="#machine-learning-faculty-india" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></td>
     </tr>
 </table>
 <h1>Indian research groups in the field of machine learning and data science</h1>
