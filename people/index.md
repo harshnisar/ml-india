@@ -6,7 +6,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 ---
   <script>
   var current_url=document.URL;
-  alert("current_url");
+  alert(current_url);
   $(document).ready(function(){
     $("#research_div").show();
     $("#faculty_and_professor").hide();
