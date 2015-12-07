@@ -40,7 +40,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 <p>There is no consolidated resource for Data and Machine Learning which is centered around the Indian ecosystem. In our aim of fostering the Indian ML eco-system we've curated a few reserouces which are India centric.</p>
 
-<h3> Are you a research group working in ML/Data/Analytics?<h3>
+<h3> Are you a research group working in ML/Data/Analytics?</h3>
 
 <p>Write to </p><a href='/contact'>us</a><p>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
 
