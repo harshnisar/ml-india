@@ -42,7 +42,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 <h3> Are you a research group working in ML/Data/Analytics?</h3>
 
-<p>Write to </p><a href='/contact'>us</a><p>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
+<p>Write to<a href='/contact'>us</a>, or edit <i>includes<i>research-groups.html in our GH repo and send a pull request!</p>
 
 
 <h2> Machine Learning Research Groups in India </h2>
@@ -59,7 +59,7 @@ A list of research groups in India which are working in machine learning and dat
 
 <h3> Are you professor/faculty in ML/Data/Analytics? <h3>
 
-<p>If your name is not mentioned or link to your website is missing, please write to </p><a href='/contact'>us</a><p>, or edit <i>includes/<i>research-groups.html in our GH repo and send a pull request!</p>
+<p>If your name is not mentioned or link to your website is missing, please write to <a href='/contact'>us</a>, or edit <i>includes/<i>research-groups.html in our GH repo and send a pull request!</p>
 
 
 <h2> Machine Learning professors in India
