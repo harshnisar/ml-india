@@ -15,7 +15,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   var n = current_url.indexOf("machine-learning-faculty-india");
   if(n!=-1)
   {
-      document.getElementById('faculty_and_professor_link').click();
+      hideDiv(2);
   }
  function hideDiv(flag)
  {
