@@ -5,15 +5,17 @@ modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Indian faculty and research groups in machine learning and data science"
 ---
   <script>
+  $(document).ready(function(){
+    $("#research_div").show();
+    $("#faculty_and_professor").hide();
+    $("#research_group_td").css('background-color', '#FF9966');
+    $("#faculty_and_professors_td").css('background-color', '#FFFFFF');
+  });
   var current_url=document.URL;
   var n = current_url.indexOf("machine-learning-faculty-india");
   if(n!=-1)
   {
       document.getElementById('faculty_and_professor_link').click();
-  }
-  else
-  {
-      document.getElementById('research_group_link').click();
   }
  function hideDiv(flag)
  {
