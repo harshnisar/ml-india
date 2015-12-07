@@ -31,8 +31,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 <div id="research_div">
 <h1>Indian Research groups in the field of machine learning and data science<h1>
 
-{% include _toc.html %}
-
 <h2>Introduction</h2>
 
 
@@ -47,9 +45,6 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 
 A list of research groups in India which are working in machine learning and data science.
 
-
-{% include _research-groups.html %}
-
 </div>
 
 
@@ -61,9 +56,6 @@ A list of research groups in India which are working in machine learning and dat
 
 
 <h2> Machine Learning professors in India
-
-
-{% include _ml-faculty.html %}
 
 
 </div>
