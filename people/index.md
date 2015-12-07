@@ -11,12 +11,14 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   
   <script>
-  
+  $(document).ready(function(){
+    $("#research_div").show();
+    $("#faculty_and_professor").hide();
+  });
  function hideDiv(flag)
  {
    if(flag==1)
    {
-     alert();
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
    }
