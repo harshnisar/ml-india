@@ -25,7 +25,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
 </script>
 <table>
     <tr>
-        <td><a href="{{ site.url }}/people/research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></td>
+        <td><a href="http://suyash906.github.io/ml-india//people/research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></td>
         <td><a href="#" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></td>
     </tr>
 </table>
