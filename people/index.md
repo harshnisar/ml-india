@@ -68,14 +68,14 @@ input:checked + label {
    {
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
-     window.location.href = "http://suyash906.github.io/ml-india/people/#research-groups";
+     window.location.href = "http://ml-india.org/people/#research-groups";
    }
    else if(flag==2)
    {
       
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
-     window.location.href = "http://suyash906.github.io/ml-india/people/#machine-learning-faculty-india";
+     window.location.href = "http://ml-india.org/people/#machine-learning-faculty-india";
    }
  }
 </script>
@@ -85,19 +85,10 @@ input:checked + label {
     
   <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
   <label for="tab2">Faculty And Professors</label> 
-<!--
-<table>
-    <tr>
-        <td id="research_group_td" width="50%" align="center"><a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a></td>
-        <td id="faculty_and_professors_td" width="50%" align="center"><a href="#machine-learning-faculty-india" id="faculty_and_professor_link" onclick="hideDiv(2)"> Faculty And Professors</a></td>
-    </tr>
-</table>
--->
+
 <div id="research_div">
 <hr>
 <h2>Machine Learning Research Groups in India</h2>
-
-<p>A list of research groups in India which are working in machine learning and data science.</p>
 
 {% include _research-groups.html %}
 <hr>
