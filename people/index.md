@@ -37,11 +37,11 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
  }
 </script>
 <body onload="pageSet()">
-<div style="float:left;width:50%;cursor:pointer">
+<div style="float:left;width:50%;cursor:pointer;box-shadow:0px 0px 0px 1px black;">
   <a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a>
 </div>
 
-<div style="float:right;width:50%;cursor:pointer" onclick="hideDiv(2)">
+<div style="float:right;width:50%;cursor:pointer;box-shadow:0px 1px 0px 1px black;" onclick="hideDiv(2)">
   <a href="#machine-learning-faculty-india" id="faculty_and_professor_link" > Faculty And Professors</a>
 </div>
 <!--
