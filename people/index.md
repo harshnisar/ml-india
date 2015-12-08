@@ -98,7 +98,7 @@ input:checked + label {
 
 <div id="faculty_and_professor">
 <hr>
-<h2>Machine Learning professors in India</h2>
+<h2>Machine Learning Faculty/Professors in India</h2>
 
 {% include _ml-faculty.html %}
 <hr>
