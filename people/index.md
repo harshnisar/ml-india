@@ -26,6 +26,8 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("research_group_link").style.color='blue';
      document.getElementById("faculty_and_professor_link").style.color='black';
+     document.getElementById("rsch_div").style.boxShadow="0px 0px 0px 1px blac";
+     document.getElementById("ml_div").style.boxShadow="0px 1px 0px 1px black";
    }
    else if(flag==2)
    {
@@ -33,15 +35,17 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
      document.getElementById("faculty_and_professor").style.display="inline";
      document.getElementById("research_group_link").style.color='black';
      document.getElementById("faculty_and_professor_link").style.color='blue';
+     document.getElementById("rsch_div").style.boxShadow="0px 1px 0px 1px black";
+     document.getElementById("ml_div").style.boxShadow="0px 0px 0px 1px black";
    }
  }
 </script>
 <body onload="pageSet()">
-<div style="float:left;width:50%;cursor:pointer;box-shadow:0px 0px 0px 1px black;">
+<div id="rsch_div" style="float:left;width:50%;cursor:pointer;box-shadow:0px 0px 0px 1px black;">
   <a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a>
 </div>
 
-<div style="float:right;width:50%;cursor:pointer;box-shadow:0px 1px 0px 1px black;" onclick="hideDiv(2)">
+<div id="ml-div" style="float:right;width:50%;cursor:pointer;box-shadow:0px 1px 0px 1px black;" onclick="hideDiv(2)">
   <a href="#machine-learning-faculty-india" id="faculty_and_professor_link" > Faculty And Professors</a>
 </div>
 <!--
