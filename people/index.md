@@ -80,7 +80,7 @@ input:checked + label {
  }
 </script>
 <body onload="pageSet()">
-  <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)" checked >
+  <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
   <label for="tab1">Research Group</label>
     
   <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
