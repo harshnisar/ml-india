@@ -50,17 +50,21 @@ input:checked + label {
  function pageSet()
  {
   var current_url=document.URL;
+  alert(current_url);
   var n = current_url.indexOf("machine-learning-faculty-india");
+  var n1 = current_url.indexOf("research-groups");
+  var n2 = str1.localeCompare("");
   if(n!=-1)
   {
       document.getElementById("tab2").checked = true;
       hideDiv(2);
   }
-  else
+  else if(n1!=-1)
   {
     document.getElementById("tab1").checked = true;
     hideDiv(1);
   }
+  else if(current_url)
  }
  function hideDiv(flag)
  {
