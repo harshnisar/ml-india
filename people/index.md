@@ -58,10 +58,12 @@ input:checked + label {
   var n = current_url.indexOf("machine-learning-faculty-india");
   if(n!=-1)
   {
+      document.getElementById("tab2").checked = true;
       hideDiv(2);
   }
   else
   {
+    document.getElementById("tab1").checked = true;
     hideDiv(1);
   }
  }
