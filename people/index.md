@@ -68,7 +68,6 @@ input:checked + label {
    {
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
-     alert("wait");
      window.location.href = "http://suyash906.github.io/ml-india/people/#research-groups";
    }
    else if(flag==2)
@@ -76,7 +75,6 @@ input:checked + label {
       
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
-     alert("wait");
      window.location.href = "http://suyash906.github.io/ml-india/people/#machine-learning-faculty-india";
    }
  }
