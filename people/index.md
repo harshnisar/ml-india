@@ -79,6 +79,7 @@ input:checked + label {
    }
  }
 </script>
+
 <body onload="pageSet()">
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
   <label for="tab1" >Research Group</label>
