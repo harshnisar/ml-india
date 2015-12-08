@@ -16,6 +16,16 @@ input {
   display: none;
 }
 
+label {
+  display: inline-block;
+  margin: 0 0 -1px;
+  padding: 15px 25px;
+  font-weight: 600;
+  text-align: center;
+  color: #555;
+  border: 1px solid transparent;
+}
+
 label:before {
   font-family: fontawesome;
   font-weight: normal;
@@ -33,11 +43,6 @@ input:checked + label {
   border: 1px solid #ddd;
   border-top: 2px solid orange;
   border-bottom: 1px solid #fff;
-}
-
-#tab1:checked ~ #content1,
-#tab2:checked ~ #content2{
-  display: block;
 }
     </style>
     
@@ -73,10 +78,10 @@ input:checked + label {
 </script>
 <body onload="pageSet()">
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
-  <label for="tab1" style="display: inline-block;margin: 0 0 -1px;padding: 15px 25px;font-weight: 600;text-align: center;color: #bbb;border: 1px solid transparent;">Research Group</label>
+  <label for="tab1" >Research Group</label>
     
   <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
-  <label for="tab2" style="display: inline-block;margin: 0 0 -1px;padding: 15px 25px;font-weight: 600;text-align: center;color: #bbb;border: 1px solid transparent;">Faculty And Professors</label> 
+  <label for="tab2">Faculty And Professors</label> 
 <!--
 <table>
     <tr>
