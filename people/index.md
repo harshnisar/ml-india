@@ -51,6 +51,10 @@ input:checked + label {
  {
   var current_url=document.URL;
   var n = current_url.indexOf("machine-learning-faculty-india");
+  if(current_url.match("machine-learning-faculty-india$"))
+  {
+        alert("success");
+  }
   if(n!=-1)
   {
       document.getElementById("tab2").checked = true;
