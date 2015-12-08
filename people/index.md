@@ -51,7 +51,7 @@ input:checked + label {
  {
   var current_url=document.URL;
   var n = current_url.indexOf("machine-learning-faculty-india");
-  if(current_url.match("machine-learning-faculty-india$"))
+  if(current_url.match("people/$")||current_url.match("people$"))
   {
         alert("success");
   }
