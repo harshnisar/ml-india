@@ -68,14 +68,14 @@ input:checked + label {
    {
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
-     window.location.href = "http://suyash906.github.io/ml-india/people/#research-groups";
+     window.location.href = "http://ml-india.org/people/#research-groups";
    }
    else if(flag==2)
    {
       
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
-     window.location.href = "http://suyash906.github.io/ml-india/people/#machine-learning-faculty-india";
+     window.location.href = "http://ml-india.org/people/#machine-learning-faculty-india";
    }
  }
 </script>
