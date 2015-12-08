@@ -4,6 +4,53 @@ title:
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Indian faculty and research groups in machine learning and data science"
 ---
+<style>
+      
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input {
+  display: none;
+}
+
+label {
+  display: inline-block;
+  margin: 0 0 -1px;
+  padding: 15px 25px;
+  font-weight: 600;
+  text-align: center;
+  color: #bbb;
+  border: 1px solid transparent;
+}
+
+label:before {
+  font-family: fontawesome;
+  font-weight: normal;
+  margin-right: 10px;
+}
+
+
+label:hover {
+  color: #888;
+  cursor: pointer;
+}
+
+input:checked + label {
+  color: #555;
+  border: 1px solid #ddd;
+  border-top: 2px solid orange;
+  border-bottom: 1px solid #fff;
+}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2{
+  display: block;
+}
+    </style>
+    
   <script>
  function pageSet()
  {
@@ -24,30 +71,20 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
    {
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
-     document.getElementById("research_group_link").style.color='blue';
-     document.getElementById("faculty_and_professor_link").style.color='black';
-     document.getElementById("rsch_div").style.boxShadow="0px 0px 0px 1px black";
-     document.getElementById("ml_div").style.boxShadow="0px 1px 0px 1px black";
    }
    else if(flag==2)
    {
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
-     document.getElementById("research_group_link").style.color='black';
-     document.getElementById("faculty_and_professor_link").style.color='blue';
-     document.getElementById("rsch_div").style.boxShadow="0px 1px 0px 1px black";
-     document.getElementById("ml_div").style.boxShadow="0px 0px 0px 1px black";
    }
  }
 </script>
 <body onload="pageSet()">
-<div id="rsch_div" style="float:left;width:50%;cursor:pointer;box-shadow:0px 0px 0px 1px black;">
-  <a href="#research-groups" id="research_group_link" name="ResearchGroup" onclick="hideDiv(1)"> Research Group</a>
-</div>
-
-<div id="ml-div" style="float:right;width:50%;cursor:pointer;box-shadow:0px 1px 0px 1px black;" onclick="hideDiv(2)">
-  <a href="#machine-learning-faculty-india" id="faculty_and_professor_link" > Faculty And Professors</a>
-</div>
+  <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)" checked >
+  <label for="tab1">Research Group</label>
+    
+  <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
+  <label for="tab2">Faculty And Professors</label> 
 <!--
 <table>
     <tr>
