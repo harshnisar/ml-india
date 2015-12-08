@@ -26,7 +26,7 @@ excerpt: "Indian faculty and research groups in machine learning and data scienc
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("research_group_link").style.color='blue';
      document.getElementById("faculty_and_professor_link").style.color='black';
-     document.getElementById("rsch_div").style.boxShadow="0px 0px 0px 1px blac";
+     document.getElementById("rsch_div").style.boxShadow="0px 0px 0px 1px black";
      document.getElementById("ml_div").style.boxShadow="0px 1px 0px 1px black";
    }
    else if(flag==2)
