@@ -53,7 +53,7 @@ input:checked + label {
   alert(current_url);
   var n = current_url.indexOf("machine-learning-faculty-india");
   var n1 = current_url.indexOf("research-groups");
-  var n2 = str1.localeCompare("");
+  var n2 = str1.localeCompare("http://suyash906.github.io/ml-india/people/");
   if(n!=-1)
   {
       document.getElementById("tab2").checked = true;
@@ -64,7 +64,11 @@ input:checked + label {
     document.getElementById("tab1").checked = true;
     hideDiv(1);
   }
-  else if(current_url)
+  else if(n2==0)
+  {
+     document.getElementById("tab1").checked = true;
+      hideDiv(1);   
+  }
  }
  function hideDiv(flag)
  {
