@@ -64,10 +64,10 @@ input:checked + label {
     document.getElementById("tab1").checked = true;
     hideDiv(1);
   }
-  else if(n2==0)
+  else
   {
-     document.getElementById("tab1").checked = true;
-      hideDiv(1);   
+      document.getElementById("tab1").checked = true;
+    hideDiv(1);  
   }
  }
  function hideDiv(flag)
