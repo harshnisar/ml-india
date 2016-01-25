@@ -11,8 +11,9 @@ permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
-  sass_dir: _sass
-  style: compressed
+  sass_dir: _sass 
+  line_numbers: butt
+
 gems:
   - jekyll-sitemap
 

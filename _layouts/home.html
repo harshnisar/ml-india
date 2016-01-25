@@ -7,7 +7,11 @@
 {% include _head.html %}
 <meta name="google-site-verification" content="IAlemopAlQIxptnE5TySSeasWkx333CyAsLh7ZB9YAc" />
 
-
+<style>
+#index article p{
+  font-size: 1rem !important;
+}
+</style>
 </head>
 
 <body class="home">
@@ -45,7 +49,7 @@
      <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h3>
       {% else %}
         <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-        <p>{{ post.content }}</p>
+        <p style="font-size:1rem !important;">{{ post.content }}</p>
       {% endif %}
     </article>
     {% endfor %}
@@ -58,13 +62,13 @@
   <h4>Share on</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=http://ml-india.org/india-ml-conf-2015/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=http://ml-india.org/ml-india-interview-manish-gupta/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://ml-india.org/india-ml-conf-2015/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://ml-india.org/ml-india-interview-manish-gupta/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=http://ml-india.org/india-ml-conf-2015/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=http://ml-india.org/ml-india-interview-manish-gupta/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
   </ul>
 </div>
