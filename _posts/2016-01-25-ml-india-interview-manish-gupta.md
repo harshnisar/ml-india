@@ -204,9 +204,9 @@ frontiers of both, theory and practice of machine learning.
 **ML-India:** Do you have any take on talent pool that India is
 producing through university?
 
-I am very optimistic. I am positively surprised by again the kind of
-response that we got to the research challenge and two out of the top ten
-entries really seem to be very neat peace of work which is like new ideas on
+I am very optimistic. I was positively surprised by the kind of
+response that we got for the research challenge. Two out of the top ten
+entries were very neat peace of work which were totally new ideas on
 how to solve that problem. We have a special program called [budding
 scientist program](http://www.xrci.xerox.com/xerox-budding-scientists) where we give undergraduates a two year
 appointment and very challenging problems to work on and then encourage them to
