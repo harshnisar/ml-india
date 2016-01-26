@@ -46,7 +46,7 @@ conference for video (multimedia) where we addressed the problem of
 automatically creating table of content for online lecture videos. We had two
 papers in [Intelligent User Interface (IUI)](http://iui.acm.org/2016/),
 one of the best conferences for showcasing working in human computer
-interfaces; and a couple in [ICASSP](https://en.wikipedia.org/wiki/International_Conference_on_Acoustics,_Speech,_and_Signal_Processing)or [Interspeech](http://www.isca-speech.org/iscaweb/index.php/conferences),
+interfaces; and a couple in [ICASSP](https://en.wikipedia.org/wiki/International_Conference_on_Acoustics,_Speech,_and_Signal_Processing) or [Interspeech](http://www.isca-speech.org/iscaweb/index.php/conferences),
 the best conferences for [speech
 processing related work](https://www.icsi.berkeley.edu/icsi/gazette/2012/09/speech), where we published our work done in
 education-related products. 
