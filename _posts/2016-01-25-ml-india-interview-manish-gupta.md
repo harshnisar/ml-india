@@ -11,6 +11,15 @@ As part of the new year's initiatives on ML India, we promised you that we will 
 
 We interviewed today ​Dr. Manish Gupta. He is Vice President at Xerox Corporation and Director of Xerox Research Centre in India. Previously, Manish has served as Managing Director, Technology Division at Goldman Sachs India, and has held various leadership positions with IBM, including that of Director, IBM Research - India. Manish holds a Ph.D. in Computer Science from the University of Illinois at Urbana Champaign and is a distinguished IIT-Delhi alumnus.
 
+Manish talks about four areas which Xerox is innovating in - Education, Healthcare, Transportation and the services vertical. He describes how challenges in each of these domains can be posed as hard computer science and specifically, machine learning problems in areas as diverse as vision, NLP and speech. He talks of how his group is pushing the boundaries by having their own modifications to deep neural networks.
+
+Manish on ..
+- The flavor of problems being tackled at XRCI
+- Innovation in active healthcare
+- Education and smart chat bots
+- Startups space in India
+- Outreach programs by XRCI
+
 **ML-India:** Hi Manish.
 Thanks a lot for agreeing to talk to us on such a short notice. We understand
 you must be having a busy schedule.
