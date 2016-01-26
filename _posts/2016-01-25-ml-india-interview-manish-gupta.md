@@ -17,13 +17,9 @@ Manish talks about four areas which Xerox is innovating in - Education, Healthca
 Manish on:
 
  - <a href="#problem_tackled_at_XRCI">The flavor of problems being tackled at XRCI</a>
- 
  - <a href="#healthcare_innovation_XRCI">Innovation in active healthcare</a>
- 
  - <a href="#education_chat_bots_XRCI">Education and smart chat bots</a>
- 
  - <a href="#startups_India">Startups space in India</a>
- 
  - <a href="#outreach_program_XRCI">Outreach programs by XRCI</a>
 
 **ML-India:** Hi Manish.
