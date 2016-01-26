@@ -14,6 +14,7 @@ We interviewed today ​Dr. Manish Gupta. He is Vice President at Xerox Corporat
 Manish talks about four areas which Xerox is innovating in - Education, Healthcare, Transportation and the services vertical. He describes how challenges in each of these domains can be posed as hard computer science and specifically, machine learning problems in areas as diverse as vision, NLP and speech. He talks of the problem in of automatically preparing the table of contents of a video, parsing equations described in lecture videos, tweaking deep neural networks to create intelligent chat bots and more.
 
 Manish on ..
+
  - <a href="#problem_tackled_at_XRCI">The flavor of problems being tackled at XRCI</a>
  - <a href="#healthcare_innovation_XRCI">Innovation in active healthcare</a>
  - <a href="#education_chat_bots_XRCI">Education technology and smart chat bots</a>
