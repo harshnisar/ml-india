@@ -32,7 +32,7 @@ its first day. I may have to head back to it in sometime. Hope that’s fine.
 hear. We’ll be keen to know more about it and will chat about it in a while. Sure,
 we’ll keep a tab on the time. We wanted to start off with understanding what
 problems are of interest to Xerox research.
-<a name="problem_tackled_at_XRCI">
+<a name="problem_tackled_at_XRCI"></a>
 **Manish:** Sure. Today, a
 vast section of our population is underserved in the most fundamental services like
 health care, transportation and education. 
@@ -72,7 +72,7 @@ industry verticals. Example of this is customer care contact centre.
 I could probably
 talk about each of them in some detail, which will help give your readers a
 good grasp of the kind of specific problems we’re pursuing.
-</a>
+
 **ML-India:** Sounds good!
 
 **Manish:** I’ll start with
