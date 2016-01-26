@@ -9,16 +9,14 @@ comments: true
 
 As part of the new year's initiatives on ML India, we promised you that we will be talking to leading researchers and academics in the field of machine learning to understand their work better. We start off this series by putting out the first interview we had! We have a couple of more very interesting interviews of academics from IIT-Delhi, IISc, IIT Kharagpur and more. Stay tuned!
 
-<img src="http://www.xrci.xerox.com/sites/default/files/Manish_1.jpg" align='left' style="margin:2px;">
 We interviewed today ​Dr. Manish Gupta. He is Vice President at Xerox Corporation and Director of Xerox Research Centre in India. Previously, Manish has served as Managing Director, Technology Division at Goldman Sachs India, and has held various leadership positions with IBM, including that of Director, IBM Research - India. Manish holds a Ph.D. in Computer Science from the University of Illinois at Urbana Champaign and is a distinguished IIT-Delhi alumnus.
 
-Manish talks about four areas which Xerox is innovating in - Education, Healthcare, Transportation and the services vertical. He describes how challenges in each of these domains can be posed as hard computer science and specifically, machine learning problems in areas as diverse as vision, NLP and speech. He talks of how his group is pushing the boundaries by having their own modifications to deep neural networks.
+Manish talks about four areas which Xerox is innovating in - Education, Healthcare, Transportation and the services vertical. He describes how challenges in each of these domains can be posed as hard computer science and specifically, machine learning problems in areas as diverse as vision, NLP and speech. He talks of the problem in of automatically preparing the table of contents of a video, parsing equations described in lecture videos, tweaking deep neural networks to create intelligent chat bots and more.
 
-Manish on:
-
+Manish on ..
  - <a href="#problem_tackled_at_XRCI">The flavor of problems being tackled at XRCI</a>
  - <a href="#healthcare_innovation_XRCI">Innovation in active healthcare</a>
- - <a href="#education_chat_bots_XRCI">Education and smart chat bots</a>
+ - <a href="#education_chat_bots_XRCI">Education technology and smart chat bots</a>
  - <a href="#startups_India">Startups space in India</a>
  - <a href="#outreach_program_XRCI">Outreach programs by XRCI</a>
 
@@ -77,6 +75,8 @@ I could probably
 talk about each of them in some detail, which will help give your readers a
 good grasp of the kind of specific problems we’re pursuing.
 
+<a href="#">[Top]</a>
+
 **ML-India:** Sounds good!
 
 <a name="healthcare_innovation_XRCI"></a>
@@ -126,6 +126,8 @@ and run our algorithms for a larger datasets and a larger class of cancer
 detection problems. This work has been submitted to a top-tier peer reviewed
 conference.
 
+<a href="#">[Top]</a>
+
 **ML-India:** That’s great to
 hear.
 
@@ -165,6 +167,8 @@ solving integer linear programming problems, coming up with greedy algorithms to
 get close to optimal solutions. All this is done in the backdrop of scheduling
 and routing problems.
 
+<a href="#">[Top]</a>
+
 **ML India:** That’s great. So from what we’ve heard, is
 it the business team pushing XRCI with challenging problems? How does it start?
 
@@ -201,6 +205,8 @@ again a shining example of guys who have been actually publishing papers at KDD
 and the likes. In due course of time I would imagine that others would follow
 suit.
 
+<a href="#">[Top]</a>
+
 **ML India:** What steps are Xerox taking? I see machine learning
 school being one such initiative. Is there any other initiative that you are
 trying to push forward so that you engage with the community at large?
@@ -221,6 +227,8 @@ for three years. What we are finding is that current state of art is not
 anywhere close to being good enough for the practical problems that we are
 dealing with and we’re collaborating with the best in the industry to push the
 frontiers of both, theory and practice of machine learning. 
+
+<a href="#">[Top]</a>
 
 **ML-India:** Do you have any take on talent pool that India is
 producing through university?
