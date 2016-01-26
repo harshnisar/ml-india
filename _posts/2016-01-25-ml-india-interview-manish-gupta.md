@@ -14,11 +14,11 @@ We interviewed today ​Dr. Manish Gupta. He is Vice President at Xerox Corporat
 Manish talks about four areas which Xerox is innovating in - Education, Healthcare, Transportation and the services vertical. He describes how challenges in each of these domains can be posed as hard computer science and specifically, machine learning problems in areas as diverse as vision, NLP and speech. He talks of how his group is pushing the boundaries by having their own modifications to deep neural networks.
 
 Manish on ..
-- <a href="#problem_tackled_at_XRCI">The flavor of problems being tackled at XRCI</a>
-- Innovation in active healthcare
-- Education and smart chat bots
-- Startups space in India
-- Outreach programs by XRCI
+ - <a href="#problem_tackled_at_XRCI">The flavor of problems being tackled at XRCI</a>
+ - <a href="#healthcare_innovation_XRCI">Innovation in active healthcare</a>
+ - <a href="#education_chat_bots_XRCI">Education and smart chat bots</a>
+ - <a href="#startups_India">Startups space in India</a>
+ - <a href="#outreach_program_XRCI">Outreach programs by XRCI</a>
 
 **ML-India:** Hi Manish.
 Thanks a lot for agreeing to talk to us on such a short notice. We understand
@@ -32,7 +32,9 @@ its first day. I may have to head back to it in sometime. Hope that’s fine.
 hear. We’ll be keen to know more about it and will chat about it in a while. Sure,
 we’ll keep a tab on the time. We wanted to start off with understanding what
 problems are of interest to Xerox research.
+
 <a name="problem_tackled_at_XRCI"></a>
+
 **Manish:** Sure. Today, a
 vast section of our population is underserved in the most fundamental services like
 health care, transportation and education. 
@@ -74,6 +76,8 @@ talk about each of them in some detail, which will help give your readers a
 good grasp of the kind of specific problems we’re pursuing.
 
 **ML-India:** Sounds good!
+
+<a name="healthcare_innovation_XRCI"></a>
 
 **Manish:** I’ll start with
 healthcare.We are targeting two
@@ -122,6 +126,8 @@ conference.
 
 **ML-India:** That’s great to
 hear.
+
+<a name="education_chat_bots_XRCI"></a>
 
 **Manish:** In the education space, we have built just the product to provide
 what I spoke of in the introduction. It’s called [TutorSpace](http://www.xrci.xerox.com/tutorSpace-at-scale-personalized-learning){:target="_blank"}
@@ -175,6 +181,8 @@ and other half is relatively medium term.
 **ML India:** You mention working with lots of startups. What
 is your take on startups innovating in the machine learning space?
 
+<a name="startups_India"></a>
+
 **Manish:** In our case
 specifically, we try to connect with those startups which do not have much
 depth in machine learning. They bring to the table agility, market access and products.
@@ -195,7 +203,9 @@ suit.
 school being one such initiative. Is there any other initiative that you are
 trying to push forward so that you engage with the community at large?
 
-We are
+<a name="outreach_program_XRCI"></a>
+
+**Manish:** We are
 organizing a [winter school
 in machine learning](http://xrci.xerox.com/xerox-research-innovation-challenge){:target="_blank"} where we have ten teams spending a fully paid
 two week internship at XRCI, where they will be working on problem of
@@ -213,7 +223,7 @@ frontiers of both, theory and practice of machine learning.
 **ML-India:** Do you have any take on talent pool that India is
 producing through university?
 
-I am very optimistic. I was positively surprised by the kind of
+**Manish:** I am very optimistic. I was positively surprised by the kind of
 response that we got for the research challenge. Two out of the top ten
 entries were very neat peace of work which were totally new ideas on
 how to solve that problem. We have a special program called [budding
