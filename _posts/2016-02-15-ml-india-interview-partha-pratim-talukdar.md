@@ -81,7 +81,7 @@ The effort was unique, which motivated me to extend that work over here in our l
 
 **ML-India**: How do you find the general quality of graduate students that you have worked with?
 
-**Partha**: I am quite satisfied and happy with the quality of the students that I have worked with, but we need more of that. There is much larger demand than the supply. We need more outreach programs to expose undergraduates for research oriented internships similar to the one I had during my undergrad. As compared to the west, I don't think there is much of a difference in the quality of students or research work. It is more advantageous in a way that we don't have to thrive for funding as in the west and can focus more on research.
+**Partha**: I am quite satisfied and happy with the quality of the students that I have worked with, but we need more of that. The demand is much larger than the supply. We need more outreach programs to expose undergraduates for research oriented internships similar to the one I had during my undergrad. As compared to the west, I don't think there is much of a difference in the quality of students or research work. It is more advantageous in a way that we don't have to thrive for funding as in the west and can focus more on research.
 
 **ML-India**: How do you split your time between teaching and research? Do you find it challenging?
 
