@@ -7,7 +7,7 @@ comments: true
 ---
 
 <img src="http://talukdar.net/IMG_3074.jpg" align='left' style="margin-right:4px;width:30%">
-We interviewed today Prof. Partha Pratim Talukdar. He is an assistant professor, [Dept. of Computational and Data Sciences](http://www.cds.iisc.in/){:target="_blank"} and [Dept. of Computer Science and Automation](http://www.csa.iisc.ernet.in/){:target="_blank"} in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from UPenn. Partha has been working in the field of ML, NLP and Big Data.
+We interviewed today [Prof. Partha Pratim Talukdar](http://www.talukdar.net/){:target="_blank"}. He is an assistant professor, [Dept. of Computational and Data Sciences](http://www.cds.iisc.in/){:target="_blank"} and [Dept. of Computer Science and Automation](http://www.csa.iisc.ernet.in/){:target="_blank"} in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from UPenn. Partha has been working in the field of ML, NLP and Big Data.
 
 Partha’s current work focuses on creating knowledge graph from unstructured data available on the internet. Partha talks in detail on ..
 
@@ -53,9 +53,9 @@ The effort was unique, which motivated me to extend that work over here in our l
 
 **Partha**: Evaluation of a knowledge graph is a very critical and important aspect while developing them. There are two ways of evaluating a knowledge graph, 1. Intrinsic evaluation measure: Once the knowledge graph has been prepared by the algorithm, one can go to each of the K fragments of the knowledge graph and evaluate whether what it has learned is correct or wrong, aggregate all of the statistics and then get a graph level accuracy. 2. Extrinsic evaluation measure: See how well knowledge graph performs on a specific application. We can plug a particular version of the knowledge graph to the application and observe how it improves the performance of the system. In a way, it's an indirect feedback. For intrinsic evaluation, there are a lot of interesting challenges. Let's say my knowledge graph has 10 million edges and I use humans or crowdsourcing, where I have to pay the evaluator something for each evaluation, but I have a limited budget. This raises another interesting question of how can I utilize my constrained resources to the best evaluate my knowledge graph. This is a parallel paradigm of crowdsourcing which interestingly has not been explored earlier. We are working on this problem of getting the best out of a constrained budget in crowdsourcing.
 
-**ML-India**: Is [Prof. Narhari](http://lcm.csa.iisc.ernet.in/hari/){:target="_blank"} also working on the same problem but from game theory standpoint?
+**ML-India**: Is [Prof. Narahari](http://lcm.csa.iisc.ernet.in/hari/){:target="_blank"} also working on the same problem but from a game theory standpoint?
 
-**Partha**: Yes, their lab is also working on the same crowdsourcing problem but not related to knowledge graphs.
+**Partha**: Yes, their lab also works on problems in crowdsourcing and mechanism design in general. But they do not currently focus on problems related to knowledge graphs.
 
 <a href="#">[Top]</a>
 
