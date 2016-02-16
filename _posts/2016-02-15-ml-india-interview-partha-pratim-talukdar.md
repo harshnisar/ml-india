@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "ML-India interview series - Prof. Partha Pratim Talukdar, Assistant Professor, Indian Institute of Science (IISc)"
-excerpt: "We interviewed today Prof. Partha Pratim Talukdar. He is an assistant professor, Dept. of Computational and Data Sciences and Dept. of Computer Science and Automation in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from University of Pennsylvania. Partha has been working in the field of ML, NLP and Big Data."
+excerpt: "We interviewed today Prof. Partha Pratim Talukdar. He is an assistant professor, Dept. of Computational and Data Sciences and Dept. of Computer Science and Automation in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from UPenn. Partha has been working in the field of ML, NLP and Big Data."
 tags: [india, machine learning, data science, interview, partha pratim talukdar]
 comments: true
 ---
 
 <img src="http://talukdar.net/IMG_3074.jpg" align='left' style="margin-right:4px;width:30%">
-We interviewed today Prof. Partha Pratim Talukdar. He is an assistant professor, Dept. of Computational and Data Sciences and Dept. of Computer Science and Automation in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from University of Pennsylvania. Partha has been working in the field of ML, NLP and Big Data.
+We interviewed today Prof. Partha Pratim Talukdar. He is an assistant professor, Dept. of Computational and Data Sciences and Dept. of Computer Science and Automation in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from UPenn. Partha has been working in the field of ML, NLP and Big Data.
 
 Partha’s current work focuses on creating knowledge graph from unstructured data available on the internet. Partha talks in detail on ..
 
@@ -15,7 +15,7 @@ Partha’s current work focuses on creating knowledge graph from unstructured da
  - <a href="#partha_on_knowledge_graphs">Knowledge graphs from unstructured data. </a>
  - <a href="#partha_on_crowdsourcing">Crowdsourcing</a>
  - <a href="#partha_group_furture_research_directions">His group’s future research directions</a>
- - <a href="#partha_views_initiatives">His views and initiatives for ML-space in India.</a>
+ - <a href="#partha_views_initiatives">His views and initiatives for ML in India.</a>
 
 **ML-India**: What is your undergraduate background and what initiated you in the field of ML?
 
@@ -79,23 +79,23 @@ The effort was unique, which motivated me to extend that work over here in our l
 
 **Partha**: I haven't been here for too long. But from what I have seen in IISc and other research labs, I am optimistic and there is a positive gradient and things are moving in the right direction. Also, because of the development of industries in these areas there is a strong interest to develop and use these techniques. It is an exciting time to be in this area in India. People are working on really interesting problems and we are in a good position to do some contribution.
 
-**ML-India**: How do you find the general quality of graduate students that you have interacted or worked with?
+**ML-India**: How do you find the general quality of graduate students that you have worked with?
 
 **Partha**: I am quite satisfied and happy with the quality of the students that I have worked with, but we need more of that. There is much larger demand than the supply. We need more outreach programs to expose undergraduates for research oriented internships similar to the one I had during my undergrad. As compared to the west, I don't think there is much of a difference in the quality of students or research work. It is more advantageous in a way that we don't have to thrive for funding as in the west and can focus more on research.
 
-**ML-India**: You also have to take a coursework for graduate students, what's the split of teaching versus research and other activities?
+**ML-India**: How do you split your time between teaching and research? Do you find it challenging?
 
 **Partha**: Here at IISc, which is primarily a graduate school, we have two courses maximum per year. Also, if you co-teach the load comes down even more. Over the time, I have realized that the teaching is the best way of improving your knowledge. I have thought about different topics from different angles while teaching which I hadn't thought of earlier. The enthusiasm of the students to work with me gives me an extra boost, students are giving up better options to work with me. The enthusiasm of the students as well as such interesting research challenges gives you an extra energy.
 
 <a name="partha_views_initiatives"></a>
 
-**ML-India**: Do you think there are any low-hanging fruits that can be utilized to bring quick change in the system?
+**ML-India**: Do you think there are any low-hanging fruits that can be utilized to bring quick changes in the system?
 
 **Partha**: We need to increase the number of good quality students in this field. We need to motivate good students to pursue research in Indian institutions. I have seen things on both sides and I think we can offer some good value in terms of training students. I see a lot of undergrads applying abroad, I would like to see them apply to IISc and other Indian institutions. I don't think training available here, for graduates, is any way less than what’s offered outside. So, I try to focus on these outreach events and inform undergraduates about the possibilities over here. I try to go to undergraduate colleges for talks and seminars. Also, there should be more research internships and participation in conferences. Summer/winter schools in ML and other topics are definitely important and should be repeated more often because the amount of training that is available in different universities may not be uniform. We should also try to invite international speakers, who are pioneers in their fields, for seminars and talks. Students these days are putting an effort to learn from online courses but they need to take the more important next step and take up some projects where they can apply the learned knowledge. So its equally important to have more internships in the field.
 
 <a href="#">[Top]</a>
 
-**ML-India**: Are there any other research groups that are working on similar problems in India or abroad?
+**ML-India**: Are there any other research groups that are working on similar problems?
 
 **Partha**: There are multiple research groups interested on different aspects of this spectrum. There are also some researchers in IIT-D, IIT-B, NELL at CMU etc. who are working in these fields. We also have industrial partnership with Google, Accenture, Bosch-India and NVIDIA. We are also interested in doing some collaborative projects. In my own career, I have benefitted largely from industry collaborations and most of the time they do have a lot of interesting datasets.
 
