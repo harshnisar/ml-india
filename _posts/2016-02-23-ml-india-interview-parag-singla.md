@@ -10,16 +10,13 @@ comments: true
 
 [Prof. Parag](http://www.cse.iitd.ac.in/~parags/){:target="_blank"} is an assistant professor in the Dept. of Computer Science in IIT-Delhi. He did his undergraduate studies from IIT-Bombay in Computer Science and completed his PhD. in Markov Logic: Theory, Algorithms and Applications from the University of Washington. Parag has been working in the field of AI and ML. 
 
+
 Parag’s work focuses on Statistical Relational Learning (SRL), Machine Learning and Lifted Inference. Parag talks in detail on ..
 
 - <a href="#parag_research_areas">His research areas.</a>
-
 - <a href="#parag_on_lifted_inference_learning">Lifted Inference Learning</a>
-
 - <a href="#parag_future_research_directions">His future research directions.</a>
-
 - <a href="#parag_views_on_ML_space">His views on ML-space in India.</a>
-
 - <a href="#parag_some_quick_changes_ML_space">Some quick changes which can benefit ML research in colleges.</a>
 
 **ML-India**: To begin with, congratulations to your group for having three publications at NIPS this year! We want to start off by understanding what motivated you to get into this field?
