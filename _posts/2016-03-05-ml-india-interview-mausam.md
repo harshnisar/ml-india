@@ -18,9 +18,7 @@ Durative Actions from the University of Washington.
 
 Mausam's work focuses on Multi-Document Summarization, Automated Planning, Machine Learning, Probabilistic Reasoning and Heuristic Search. 
 
-
-
-
+<br><br><br>
 Mausam on ..
 
  - <a href="#research_areas">His research areas.</a>
