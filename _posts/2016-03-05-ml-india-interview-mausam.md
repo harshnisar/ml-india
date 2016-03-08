@@ -174,10 +174,9 @@ between. It's really hard to keep them engaged.
 are the research groups in India interested in these problems?
 
 
-**Mausam:** In crowdsourcing, Dr.
-Y.Narhari is working on it from game theory standpoint. I am not aware of any
-other group. In information retrieval, Dr. Sunita, Dr. Ganesh and Dr. Soumen
-LINKS are also trying to figure out similar questions. But their work is more from
+**Mausam:** In crowdsourcing, [Dr.
+Y.Narhari](http://lcm.csa.iisc.ernet.in/hari/){:target="_blank"} is working on it from game theory standpoint. I am not aware of any
+other group. In information retrieval, [Dr. Sunita](https://www.cse.iitb.ac.in/~sunita/){:target="_blank"}, [Dr. Ganesh](https://www.cse.iitb.ac.in/~ganesh/){:target="_blank"} and [Dr. Soumen](https://www.cse.iitb.ac.in/~soumen/){:target="_blank"} are also trying to figure out similar questions. But their work is more from
 the databases angle where they are trying to learn information from tables and
 web. They have done some work in text as well, infact we have a paper coming up
 in AAAI this year where we have collaborated with Dr. Sunita. As I mentioned
@@ -245,7 +244,7 @@ was so impressed that it made me want to enroll in it as a student! Similar scho
 in machine learning keep on happening. Last year TCS had also organized one called TCS-Tactics. [NMI had organized one which was
 around reinforcement learning and optimization algorithms](http://math.iisc.ernet.in/~nmi/MLDM.php). A recent
 initiative which I am quite happy about involves opening of advanced graduate
-level courses to students from across universities. [Prof. M. Balakrishnan](http://www.cse.iitd.ernet.in/~mbala/) [LINK}
+level courses to students from across universities. [Prof. M. Balakrishnan](http://www.cse.iitd.ernet.in/~mbala/){:target="_blank"}
 started a course where students from other IITs could enroll and attend it
 online. The larger idea is for universities not be limited by the faculty they
 have in core, advanced topics. The government of India is also taking up some
