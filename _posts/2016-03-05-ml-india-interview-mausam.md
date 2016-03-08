@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "ML-India interview series - Dr.Mausam, Associate Professor, Indian Insititute of Technology-Delhi (IIT-D)"
-excerpt: "We interviewed today ​Dr. Manish Gupta. He is Vice President at Xerox Corporation and Director of Xerox Research Centre in India. Previously, Manish has served as Managing Director, Technology Division at Goldman Sachs India, and has held various leadership positions with IBM, including that of Director, IBM Research - India. Manish holds a Ph.D. in Computer Science from the University of Illinois at Urbana Champaign and is a distinguished IIT-Delhi alumnus.
+title: "ML-India interview series - Dr. Mausam, Associate Professor, Indian Insititute of Technology-Delhi (IIT-D)"
+excerpt: "Prof. Mausam is an associate professor the Dept. of Computer Science in IIT-Delhi and an affiliate faculty
+at the University of Washington. He did his undergraduate from IIT-Delhi in
+Computer Science and completed his PhD. in Stochastic Planning with Concurrent,
+Durative Actions from the University of Washington. 
 "
 tags: [india, machine learning, data science, interview, mausam, IIT-D, indian institute of technology delhi]
 comments: true
