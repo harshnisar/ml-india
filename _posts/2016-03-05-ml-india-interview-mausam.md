@@ -16,7 +16,10 @@ at the University of Washington. He did his undergraduate from IIT-Delhi in
 Computer Science and completed his PhD. in Stochastic Planning with Concurrent,
 Durative Actions from the University of Washington. 
 
-Mausam's work focuses on Multi-Document Summarization, Automated Planning, Machine Learning, Probabilistic Reasoning and Heuristic Search. Mausam on ..
+Mausam's work focuses on Multi-Document Summarization, Automated Planning, Machine Learning, Probabilistic Reasoning and Heuristic Search. 
+
+
+Mausam on ..
 
  - <a href="#research_areas">His research areas.</a>
  - <a href="#research_crowdsourcing">Research in Crowdsourcing</a>
