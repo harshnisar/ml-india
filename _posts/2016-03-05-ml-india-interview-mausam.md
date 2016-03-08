@@ -7,7 +7,6 @@ tags: [india, machine learning, data science, interview, mausam, IIT-D, indian i
 comments: true
 ---
 
-
 <img src="http://homes.cs.washington.edu/~mausam/mausam-head.jpg" align='left' style="margin-right:4px;">
 Prof. Mausam is an associate professor the Dept. of Computer Science in IIT-Delhi and an affiliate faculty
 at the University of Washington. He did his undergraduate from IIT-Delhi in
@@ -19,14 +18,8 @@ Mausam on ..
  - <a href="#research_crowdsourcing">Research in Crowdsourcing</a>
  - <a href="#research_information_retrieval">Research in Information retrieval</a>
  - <a href="#research_education">Research in Education</a>
- - <a href="#initiatives_in_ML_IIT_delhi">His initiatives in ML-space and by IIT-Delhi.</a>
+ - <a href="#about_research_ML_India">About the research in ML in India</a>
 
-<a name=""></a>
-<a href="#">[Top]</a>
-<a name=""></a>
-<a href="#">[Top]</a>
-<a name=""></a>
-<a href="#">[Top]</a>
 
 **ML-India:**
 What is your undergraduate background and what initiated you in the field of
@@ -77,8 +70,13 @@ some top people, so just try to excel in the particular field that you are
 interested in.
 
 
+<a name="research_areas"></a>
+
+
 **ML-India:**
 Can you talk a little about the research problems that you are working on?
+
+<a name="research_crowdsourcing"></a>
 
 
 **Mausam:** As I have mentioned
@@ -111,17 +109,21 @@ them. Our preliminary experience suggests that these optimized workflows are
 more economical and yield higher quality output.
 
 
+<a name="research_information_retrieval"></a>
+
 The other area is information extraction, where
 the system should read the text and try to extract the meaning of the sentence.
 There can be many applications where you want to understand the meaning of
 sentences such as in automated summarization of news and automated essay
-assessments. We use ML and linguistic knowledge to do this. We hope to overcome the
-"knowledge-acquisition" by automatically extracting information from
+assessments. We use ML and linguistic knowledge to do this. We hope to overcome the state of the art research in
+knowledge-acquisition by automatically extracting information from
 natural language text in a domain-independent manner. We work on improving the
 quality of Open IE extractors by pushing their precision and recall. Our
 most recent Open IE extractor is publically [available](https://github.com/knowitall/openie) on GitHub. We are currently extending it to process noun phrases
 and numeric extractions better. A recent paper on this work [Numerical Relation
 Extraction with Minimal Supervision.](http://homes.cs.washington.edu/~mausam/papers/aaai16a.pdf)
+
+<a href="#">[Top]</a>
 
 
 ML-India: That’s really cool. I think it connects with some
@@ -130,6 +132,8 @@ interviewed him](file:///D:/ML%20-%20India/transcripts/ml-india.org/ml-india-int
 
 Mausam: Yes, we have collaborated on some of
 this work. 
+
+<a name="research_education"></a>
 
 
 Recently, I have begun working in the field of
@@ -176,6 +180,8 @@ in AAAI this year where we have collaborated with Dr. Sunita. As I mentioned
 before, Dr. Partha is also working in this area.
 
 
+<a name="about_research_ML_India"></a>
+
 **ML-India:**
 Given you have the advantage of seeing research in both IIT-D and UWash, what
 are your thoughts on the ecosystem here?
@@ -221,6 +227,8 @@ conferences gets you to be up to date with the goings on in the world. My
 advisor once sent me to a conference just to understand what the hot topics were
 in our field of research in spite of us not having submitted any paper in that
 conference.
+
+<a href="#">[Top]</a>
 
 
 **ML-India:** Any
