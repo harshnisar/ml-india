@@ -10,13 +10,14 @@ tags: [india, machine learning, data science, interview, mausam, IIT-D, indian i
 comments: true
 ---
 
-<img src="http://homes.cs.washington.edu/~mausam/mausam-head.jpg" align='left' style="margin-right:4px;">
+<img src="http://homes.cs.washington.edu/~mausam/mausam-head.jpg" align='left' style="margin-right:4px;width:30%">
 Prof. Mausam is an associate professor the Dept. of Computer Science in IIT-Delhi and an affiliate faculty
 at the University of Washington. He did his undergraduate from IIT-Delhi in
 Computer Science and completed his PhD. in Stochastic Planning with Concurrent,
 Durative Actions from the University of Washington. 
 
-Mausam on ..
+Mausam's work focuses on Multi-Document Summarization, Automated Planning, Machine Learning, Probabilistic Reasoning and Heuristic Search. Mausam on ..
+
  - <a href="#research_areas">His research areas.</a>
  - <a href="#research_crowdsourcing">Research in Crowdsourcing</a>
  - <a href="#research_information_retrieval">Research in Information retrieval</a>
@@ -190,8 +191,7 @@ Given you have the advantage of seeing research in both IIT-D and UWash, what
 are your thoughts on the ecosystem here?
 
 
-**Mausam: **I
-often think about this and I've realized that IIT-D is a very nice system by
+**Mausam:** I often think about this and I've realized that IIT-D is a very nice system by
 and large. There is lot of freedom given to the advisor here. One advantage in
 IITs is that the funding is being provided by the government whereas in the US
 each faculty member has to work for funding their projects. The advisor’s
@@ -267,5 +267,5 @@ undergrads here are doing very good work which is comparable to US, but I don't
 think that system is there yet to attract them to continue graduate-level work.
 It takes time; I’m optimistic of getting there.
 
-**ML-India: **It was great chatting with you, Mausam.Thank you for your time and words. All the very
+**ML-India:** It was great chatting with you, Mausam.Thank you for your time and words. All the very
 best to you from ML-India!
