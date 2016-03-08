@@ -135,7 +135,7 @@ Extraction with Minimal Supervision.](http://homes.cs.washington.edu/~mausam/pap
 
 ML-India: That’s really cool. I think it connects with some
 of the work which Partha is working on. [We’d recently
-interviewed him](file:///D:/ML%20-%20India/transcripts/ml-india.org/ml-india-interview-partha-pratim-talukdar/).
+interviewed him](http://ml-india.org/ml-india-interview-partha-pratim-talukdar/).
 
 Mausam: Yes, we have collaborated on some of
 this work. 
