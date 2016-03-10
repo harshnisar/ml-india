@@ -10,7 +10,8 @@ _India lags…Indian academia does less machine learning papers than a single
 university in China and all the new companies do lesser than a single company
 in the USA._
 
-###The power of machine learning
+### The power of machine learning
+
 Machine learning is the science of _learning_ to do tasks by observing
 examples. It is transforming the world by enabling machines do all sorts of
 ‘intelligent’ tasks such as understanding images, human speech, predicting

@@ -274,8 +274,8 @@ $button-size: 1.5rem;
 				margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
 			}
 		}
-		p {
-			@include font-rem(14);
+		p{
+			text-align:justify;
 		}
 		p+p {
 			text-indent: 0;
