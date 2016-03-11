@@ -4,6 +4,8 @@ title: "ML-India interview series - Prof. Parag Singla, Assistant Professor, Ind
 excerpt: "We interviewed today Prof. Parag Singla. He is an assistant professor in the Dept. of Computer Science in IIT-Delhi. He did his undergraduate studies from IIT-Bombay in Computer Science and completed his PhD. in Markov Logic: Theory, Algorithms and Applications from the University of Washington. Parag has been working in the field of AI and ML. "
 tags: [india, machine learning, data science, interview, parag singla, IIT-D]
 comments: true
+
+tags_relevant: [interview]
 ---
 
 <img src="http://www.cse.iitd.ac.in/~parags/images/parag-bw.jpg" align='left' style="margin-right:4px;width:30%">

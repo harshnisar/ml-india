@@ -8,6 +8,8 @@ Durative Actions from the University of Washington.
 "
 tags: [india, machine learning, data science, interview, mausam, IIT-D, indian institute of technology delhi]
 comments: true
+
+tags_relevant: [interview]
 ---
 
 <img src="http://homes.cs.washington.edu/~mausam/mausam-head.jpg" align='left' style="margin-right:4px;width:30%">

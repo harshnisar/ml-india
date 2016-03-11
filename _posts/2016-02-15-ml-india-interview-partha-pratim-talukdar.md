@@ -4,6 +4,7 @@ title: "ML-India interview series - Prof. Partha Pratim Talukdar, Assistant Prof
 excerpt: "We interviewed today Prof. Partha Pratim Talukdar. He is an assistant professor, Dept. of Computational and Data Sciences and Dept. of Computer Science and Automation in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from UPenn. Partha has been working in the field of ML, NLP and Big Data."
 tags: [india, machine learning, data science, interview, partha pratim talukdar]
 comments: true
+tags_relevant: [interview]
 ---
 
 <img src="http://talukdar.net/IMG_3074.jpg" align='left' style="margin-right:4px;width:30%">
