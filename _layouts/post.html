@@ -33,6 +33,9 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+
+
+
   <article class="post" style='text-align:justify;'>
     <div class="headline-wrap">
       {% if page.link %}
@@ -56,7 +59,8 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
-  {% if site.related_posts.size > 0 %}
+{% include _toc_related.html %}
+  <!-- {% if site.related_posts.size > 0 %}
   <div class="related-articles">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
     <ul>
@@ -65,8 +69,8 @@
     {% endfor %}
     </ul>
     <hr />
-  </div><!-- /.related-articles -->
-  {% endif %}
+  </div>
+  {% endif %} -->
   <footer>
     {% include _footer.html %}
   </footer>

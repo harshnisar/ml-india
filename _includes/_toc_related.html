@@ -1,0 +1,20 @@
+{% if site.related_posts.size > 0 %}
+
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3><i class="fa fa-book"></i>Related Articles</h3>
+  </header>
+<div id="drawer" markdown="1">
+
+    <ul id="markdown-toc">
+    {% for post in site.related_posts limit:3 %}
+      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+
+
+</div>
+</section><!-- /#table-of-contents -->
+
+{% endif %}
