@@ -1,11 +1,3 @@
----
-layout: page-table
-title: ML Chapter
-modified: 2016-03-11T13:23:02.362000-04:00
-excerpt: "ML Chapter"
----
-
-
 <style>
       
 *, *:before, *:after {
@@ -52,58 +44,37 @@ input:checked + label {
  function pageSet()
  {
   var current_url=document.URL;
-  var n = current_url.indexOf("machine-learning-faculty-india");
-  if(n!=-1)
-  {
-      document.getElementById("tab2").checked = true;
-      hideDiv(2);
-  }
-  else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("research-groups$"))
+  if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("banglore$"))
   {
       document.getElementById("tab1").checked = true;
-      hideDiv(1);  
   }
  }
  function hideDiv(flag)
  {
    if(flag==1)
    {
-     document.getElementById("research_div").style.display="inline";
-     document.getElementById("faculty_and_professor").style.display="none";
-     window.location.href = "http://ml-india.org/people/#research-groups";
-   }
-   else if(flag==2)
-   {
-      
-     document.getElementById("research_div").style.display="none";
-     document.getElementById("faculty_and_professor").style.display="inline";
-     window.location.href = "http://ml-india.org/people/#machine-learning-faculty-india";
+     document.getElementById("banglore_div").style.display="inline";
+     window.location.href = "http://ml-india.org/people/#banglore";
    }
  }
 </script>
 
 <body onload="pageSet()">
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
-  <label for="tab1" >Research Group</label>
-    
-  <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
-  <label for="tab2">Faculty And Professors</label> 
+  <label for="tab1" >Banglore</label>
 
-<div id="research_div">
+<div id="banglore_div">
 <hr>
-<h2>Machine Learning Research Groups in India</h2>
+<h2>List of meetups: </h2>
+<ol>
+      <li>27th February, 2016. Discussion of the paper: A Machine Learning Approach to Twitter User Classification by Pennacchiotti et al.<a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2886/3262" target="blank">[link]</a>
+      <br>
+      Read a blog entry related to it <a href="http://suyash1003.github.io/ml-india/ml-india-bangalore-chapter/">here</a>.
+      </li>
+<ol>
 
-<hr>
-<hr>
 </div>
 
-<div id="faculty_and_professor">
-<hr>
-<h2>Machine Learning Faculty/Professors in India</h2>
-
-<hr>
-<hr>
-</div>
 
 
 {% include _subscribe.html %}
