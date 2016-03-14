@@ -45,41 +45,22 @@ input:checked + label {
 }
 </style>
     
-<script>
+
+  <script>
  function pageSet()
  {
       var current_url=document.URL;
-      var lastPart = current_url.substr(url.lastIndexOf('/') + 1);
-      alert("url is"+lastPart);
-      if(lastPart=="ml-chapter/" || lastPart== "ml-chapter" || lastPart== "ml-chapter/#bangalore")
-      {
-            alert("inside if 1");
-      }
-      else
-      {
-            alert("inside else 1");
-      }
-      /*
+  
       if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("bangalore$"))
       {
-            document.getElementById("tab1").checked = true;
-      }
-      */
-      if(currentUrl.indexOf('ml-chapter/') == (currentUrl.length -11) || currentUrl.indexOf('ml-chapter') == (currentUrl.length -10) || currentUrl.indexOf('ml-chapter/#bangalore') == (currentUrl.length -21))
-      {
-            alert("inside if 2");
-            document.getElementById("tab1").checked = true;
-      }
-       else
-      {
-            alert("inside else 2");
-      }
+      document.getElementById("tab1").checked = true;
+  }
  }
  function hideDiv(flag)
  {
    if(flag==1)
    {
-     document.getElementById("bangalore_div").style.display="inline";
+     document.getElementById("banglaore_div").style.display="inline";
      window.location.href = "http://suyash1003.github.io/ml-india/ml-chapter/#bangalore";
    }
  }
