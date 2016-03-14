@@ -79,7 +79,7 @@ input:checked + label {
 <ol>
 <hr>
 </div>
-
+<hr>
 
 
 {% include _subscribe.html %}
