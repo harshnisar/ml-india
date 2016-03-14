@@ -52,6 +52,7 @@ input:checked + label {
       var current_url=document.URL;
       if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("bangalore$"))
       {
+            alert("inside if of pageSet");
             document.getElementById("tab1").checked = true;
       }
  }
