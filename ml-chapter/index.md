@@ -54,7 +54,7 @@ input:checked + label {
    if(flag==1)
    {
      document.getElementById("banglore_div").style.display="inline";
-     window.location.href = "http://ml-india.org/people/#banglore";
+     window.location.href = "http://suyash1003.github.io/ml-india/ml-chapter/#banglore";
    }
  }
 </script>
