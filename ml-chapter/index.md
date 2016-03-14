@@ -58,9 +58,10 @@ input:checked + label {
  }
  function hideDiv(flag)
  {
+       alert("inside hide div");
    if(flag==1)
    {
-      alert("inside if of hide div");
+      
      document.getElementById("bangalore_div").style.display="inline";
      window.location.href = "http://suyash1003.github.io/ml-india/ml-chapter/#bangalore";
    }
