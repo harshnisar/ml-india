@@ -49,8 +49,20 @@ input:checked + label {
  function pageSet()
  {
       var current_url=document.URL;
+      var lastPart = current_url.substr(url.lastIndexOf('/') + 1);
+      if(lastPart=="ml-chapter/" || lastPart== "ml-chapter" || lastPart== "ml-chapter/bangalore")
+      {
+            alert("inside if 1");
+      }
+      /*
       if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("bangalore$"))
       {
+            document.getElementById("tab1").checked = true;
+      }
+      */
+      if(currentUrl.indexOf('ml-chapter/') == (currentUrl.length -11) || currentUrl.indexOf('ml-chapter') == (currentUrl.length -10) || currentUrl.indexOf('ml-chapter/bangalore') == (currentUrl.length -20))
+      {
+            alert("inside if 2");
             document.getElementById("tab1").checked = true;
       }
  }
