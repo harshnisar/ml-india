@@ -50,7 +50,8 @@ input:checked + label {
  {
       var current_url=document.URL;
       var lastPart = current_url.substr(url.lastIndexOf('/') + 1);
-      if(lastPart=="ml-chapter/" || lastPart== "ml-chapter" || lastPart== "ml-chapter/bangalore")
+      alert(lastPart);
+      if(lastPart=="ml-chapter/" || lastPart== "ml-chapter" || lastPart== "ml-chapter/#bangalore")
       {
             alert("inside if 1");
       }
