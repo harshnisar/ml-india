@@ -61,7 +61,7 @@ input:checked + label {
       if(flag==1)
       {
             document.getElementById("bangalore_div").style.display="inline";
-            window.location.href = "http://suyash1003.github.io/ml-india/ml-chapter/#bangalore";
+            window.location.href = "http://ml-india.org/ml-chapter/#bangalore";
       }
  }
 </script>
@@ -75,7 +75,7 @@ input:checked + label {
 <ol >
       <li style="margin-left:15px;">27th February, 2016. Discussion of the paper: A Machine Learning Approach to Twitter User Classification by Pennacchiotti et al.<a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2886/3262" target="blank">[link]</a>
       <br>
-      Read a blog entry related to it <a href="http://suyash1003.github.io/ml-india/ml-india-bangalore-chapter/" target="blank">here</a>.
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter/" target="blank">here</a>.
       </li>
 <ol>
 <hr>
