@@ -52,19 +52,17 @@ input:checked + label {
       var current_url=document.URL;
       if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("bangalore$"))
       {
-            alert("inside if of pageSet");
             document.getElementById("tab1").checked = true;
+            hideDiv(1);
       }
  }
  function hideDiv(flag)
  {
-       alert("inside hide div");
-   if(flag==1)
-   {
-      
-     document.getElementById("bangalore_div").style.display="inline";
-     window.location.href = "http://suyash1003.github.io/ml-india/ml-chapter/#bangalore";
-   }
+      if(flag==1)
+      {
+            document.getElementById("bangalore_div").style.display="inline";
+            window.location.href = "http://suyash1003.github.io/ml-india/ml-chapter/#bangalore";
+      }
  }
 </script>
 
