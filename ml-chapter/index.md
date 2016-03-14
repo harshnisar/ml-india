@@ -46,6 +46,26 @@ input:checked + label {
 }
     </style>
     
+      <script>
+ function pageSet()
+ {
+      alert("inside pageSet()");
+      var current_url=document.URL;
+  
+      if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("banglore$"))
+      {
+      document.getElementById("tab1").checked = true;
+  }
+ }
+ function hideDiv(flag)
+ {
+   if(flag==1)
+   {
+     document.getElementById("banglore_div").style.display="inline";
+     window.location.href = "http://suyash1003.github.io/ml-india/ml-chapter/#banglore";
+   }
+ }
+</script>
 
 
 <body>
