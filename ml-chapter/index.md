@@ -48,7 +48,7 @@ input:checked + label {
 <script>
  function pageSet()
  {
-      alert("inside pageSet()");
+      alert("inside function");
       var current_url=document.URL;
   
       if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("banglore$"))
@@ -58,6 +58,7 @@ input:checked + label {
  }
  function hideDiv(flag)
  {
+      alert("inside hide Div function");
    if(flag==1)
    {
      document.getElementById("banglore_div").style.display="inline";
@@ -67,7 +68,7 @@ input:checked + label {
 </script>
 
 
-<body onload="pageSet()">
+<body onload="hideDiv(1)">
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
   <label for="tab1" >Banglore</label>
 
