@@ -48,9 +48,7 @@ input:checked + label {
 <script>
  function pageSet()
  {
-      alert("inside function");
       var current_url=document.URL;
-  
       if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("banglore$"))
       {
             document.getElementById("tab1").checked = true;
@@ -58,7 +56,6 @@ input:checked + label {
  }
  function hideDiv(flag)
  {
-      alert("inside hide Div function");
    if(flag==1)
    {
      document.getElementById("banglore_div").style.display="inline";
@@ -80,7 +77,7 @@ input:checked + label {
       Read a blog entry related to it <a href="http://suyash1003.github.io/ml-india/ml-india-bangalore-chapter/">here</a>.
       </li>
 <ol>
-
+<hr>
 </div>
 
 
