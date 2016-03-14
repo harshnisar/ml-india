@@ -67,8 +67,8 @@ input:checked + label {
 </script>
 
 
-<body>
-  <input id="tab1" type="radio" name="tabs">
+<body onload="pageSet()">
+  <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
   <label for="tab1" >Banglore</label>
 
 <div id="banglore_div">
