@@ -11,7 +11,6 @@ excerpt: "ML Chapter"
   padding: 0;
   box-sizing: border-box;
 }
-ml-chapter/
 input {
   display: none;
 }
@@ -44,9 +43,9 @@ input:checked + label {
   border-top: 2px solid orange;
   border-bottom: 1px solid #fff;
 }
-    </style>
+</style>
     
-      <script>
+<script>
  function pageSet()
  {
       alert("inside pageSet()");
@@ -54,8 +53,8 @@ input:checked + label {
   
       if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("banglore$"))
       {
-      document.getElementById("tab1").checked = true;
-  }
+            document.getElementById("tab1").checked = true;
+      }
  }
  function hideDiv(flag)
  {
