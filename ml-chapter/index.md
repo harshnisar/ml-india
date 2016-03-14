@@ -50,8 +50,8 @@ input:checked + label {
  function pageSet()
  {
       var current_url=document.URL;
-      var lastPart = current_url.substr(current_url.lastIndexOf('/') + 1);
-      alert(current_url.substr(current_url.lastIndexOf('/') + 1));
+      var lastPart = current_url.substr(current_url.lastIndexOf("/") + 1);
+      alert(current_url.lastIndexOf("/") + 1);
       if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("bangalore$"))
       {
       document.getElementById("tab1").checked = true;
