@@ -44,6 +44,7 @@ input:checked + label {
  function pageSet()
  {
   var current_url=document.URL;
+  alert(current_url);
   if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("banglore$"))
   {
       document.getElementById("tab1").checked = true;
