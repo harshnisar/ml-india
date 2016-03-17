@@ -61,7 +61,7 @@ input:checked + label {
       if(flag==1)
       {
             document.getElementById("bangalore_div").style.display="inline";
-            window.location.href = "http://ml-india.org/ml-chapter/#bangalore";
+            window.location.hash = "bangalore";
       }
  }
 </script>
