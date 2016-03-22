@@ -5,6 +5,7 @@ excerpt: "We interviewed today ​Dr. Manish Gupta. He is Vice President at Xero
 "
 tags: [india, machine learning, data science, interview, manish gupta]
 comments: true
+tags_relevant: [interview]
 ---
 
 As part of the new year's initiatives on ML India, we promised you that we will be talking to leading researchers and academics in the field of machine learning to understand their work better. We start off this series by putting out the first interview we had! We have a couple of more very interesting interviews of academics from IIT-Delhi, IISc, IIT Kharagpur and more. Stay tuned!
