@@ -34,13 +34,13 @@ Spread the word to yourself/your friends from Bangalore enroll for the meetups.
 </figure>
 
 <figure class="half">
-    <a href="C:\Users\Guest\Downloads\bangalore-2-images\IMG_5895.jpg"><img src="C:\Users\Guest\Downloads\bangalore-2-images\IMG_5895.jpg"></a>
+    <a href="/images/IMG_5895.jpg"><img src="/images/IMG_5895.jpg"></a>
     <a href="C:\Users\Guest\Downloads\bangalore-2-images\IMG_5899.jpg"><img src="C:\Users\Guest\Downloads\bangalore-2-images\IMG_5899.jpg"></a>
     <figcaption></figcaption>
 </figure>
 
 <figure class="half">
-    <a href="Users\Guest\Downloads\bangalore-2-images\IMG_5902.jpg"><img src="Users\Guest\Downloads\bangalore-2-images\IMG_5902.jpg"></a>
+    <a href="C:\Users\Guest\Downloads\bangalore-2-images\IMG_5902.jpg"><img src="C:\Users\Guest\Downloads\bangalore-2-images\IMG_5902.jpg"></a>
     <a href="C:\Users\Guest\Downloads\bangalore-2-images\IMG_5903.jpg"><img src="C:\Users\Guest\Downloads\bangalore-2-images\IMG_5903.jpg"></a>
     <figcaption></figcaption>
 </figure>
