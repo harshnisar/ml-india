@@ -28,7 +28,7 @@ Spread the word to yourself/your friends from Bangalore enroll for the meetups.
 
 
 <figure class="half">
-    <a href="/images/IMG_5893.jpg"><img src="/images/IMG_5893.jpg"></a>
+    <a href="/images/IMG_5893.JPG"><img src="/images/IMG_5893.JPG"></a>
     <a href="/images/IMG_5894.jpg"><img src="/images/IMG_5894.jpg"></a>
     <figcaption></figcaption>
 </figure>
