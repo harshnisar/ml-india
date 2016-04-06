@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML-India: Bangalore chapter"
+title: "ML-India: Bangalore chapter: Second Meetup"
 excerpt: "ML-India is pleased to inform that the second ML-India meetup in its Bangalore chapter was held last Saturday (2nd April). A big shout out to Sritualsi Edpugnati who is leading this initiative in Bangalore.
 "
 tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
@@ -29,19 +29,19 @@ Spread the word to yourself/your friends from Bangalore enroll for the meetups.
 
 <figure class="half">
     <a href="/images/IMG_5893.JPG"><img src="/images/IMG_5893.JPG"></a>
-    <a href="/images/IMG_5894.jpg"><img src="/images/IMG_5894.jpg"></a>
+    <a href="/images/IMG_5894.JPG"><img src="/images/IMG_5894.JPG"></a>
     <figcaption></figcaption>
 </figure>
 
 <figure class="half">
-    <a href="/images/IMG_5895.jpg"><img src="/images/IMG_5895.jpg"></a>
-    <a href="/images/IMG_5899.jpg"><img src="/images/IMG_5899.jpg"></a>
+    <a href="/images/IMG_5895.JPG"><img src="/images/IMG_5895.JPG"></a>
+    <a href="/images/IMG_5899.JPG"><img src="/images/IMG_5899.JPG"></a>
     <figcaption></figcaption>
 </figure>
 
 <figure class="half">
-    <a href="/images/IMG_5902.jpg"><img src="/images/IMG_5902.jpg"></a>
-    <a href="/images/IMG_5903.jpg"><img src="/images/IMG_5903.jpg"></a>
+    <a href="/images/IMG_5902.JPG"><img src="/images/IMG_5902.JPG"></a>
+    <a href="/images/IMG_5903.JPG"><img src="/images/IMG_5903.JPG"></a>
     <figcaption></figcaption>
 </figure>
 
