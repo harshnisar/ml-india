@@ -26,24 +26,4 @@ Spread the word to yourself/your friends from Bangalore enroll for the meetups.
 
 [Click here](http://www.meetup.com/Machine-Learning-India-Bangalore/){:target="_blank"} to join the group.
 
-
-<figure class="half">
-    <a href="/images/IMG_5893.JPG"><img src="/images/IMG_5893.JPG"></a>
-    <a href="/images/IMG_5894.JPG"><img src="/images/IMG_5894.JPG"></a>
-    <figcaption></figcaption>
-</figure>
-
-<figure class="half">
-    <a href="/images/IMG_5895.JPG"><img src="/images/IMG_5895.JPG"></a>
-    <a href="/images/IMG_5899.JPG"><img src="/images/IMG_5899.JPG"></a>
-    <figcaption></figcaption>
-</figure>
-
-<figure class="half">
-    <a href="/images/IMG_5902.JPG"><img src="/images/IMG_5902.JPG"></a>
-    <a href="/images/IMG_5903.JPG"><img src="/images/IMG_5903.JPG"></a>
-    <figcaption></figcaption>
-</figure>
-
-
 If you wish to start a chapter of ML-India in your city, we would be more than happy to help you out and get it started. <a href="mailto:varun@aspiringminds.com" target="_top">Write us a mail</a>!
