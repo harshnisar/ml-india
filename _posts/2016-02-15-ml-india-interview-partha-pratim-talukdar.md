@@ -8,7 +8,7 @@ tags_relevant: [interview]
 ---
 
 <img src="http://talukdar.net/IMG_3074.jpg" align='left' style="margin-right:4px;width:30%">
-We interviewed today [Prof. Partha Pratim Talukdar](http://www.talukdar.net/){:target="_blank"}. He is an assistant professor, [Dept. of Computational and Data Sciences](http://www.cds.iisc.in/){:target="_blank"} and [Dept. of Computer Science and Automation](http://www.csa.iisc.ernet.in/){:target="_blank"} in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from UPenn. Partha has been working in the field of ML, NLP and Big Data.
+We interviewed today [Prof. Partha Pratim Talukdar](http://www.talukdar.net/){:target="_blank"}. He is an assistant professor, [Dept. of Computational and Data Sciences](http://www.cds.iisc.in/){:target="_blank"} and [Dept. of Computer Science and Automation](http://www.csa.iisc.ernet.in/){:target="_blank"} in IISc. He did his undergraduate from BITS-Pilani in Computer Science and completed his PhD. in Graph-based Weakly-Supervised Methods for Information Extraction & Integration from UPenn. Partha has been working in the field of ML, NLP and Big Data.  
 
 Partha’s current work focuses on creating knowledge graphs from unstructured data available on the internet. Partha talks in detail on ..
 
