@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Bangalore chapter: Second Meetup"
-excerpt: "ML-India is pleased to inform that the second ML-India meetup in its Bangalore chapter was held last Saturday (2nd April). A big shout out to Sritualsi Edpugnati who is leading this initiative in Bangalore.
+excerpt: "ML-India is pleased to inform that the second machine learning meetup in its Bangalore chapter was held last Saturday (2nd April). The meetup involved discussion on Borde and Kwik algorithms as well as Kaggle problems.
 "
 tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
 
