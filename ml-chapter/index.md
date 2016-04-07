@@ -77,7 +77,7 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter/" target="blank">here</a>.
       </li>
-      
+      <br>
       <li style="margin-left:15px;">2nd April, 2016. Discussion of Borde and Kwik algorithms, and Kaggle problems.
       
       <br>
