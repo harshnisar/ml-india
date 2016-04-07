@@ -73,9 +73,15 @@ input:checked + label {
 <h2>List of meetups: </h2>
 <div id="bangalore_div">
 <ol >
-      <li style="margin-left:15px;">27th February, 2016. Discussion of the paper: A Machine Learning Approach to Twitter User Classification by Pennacchiotti et al.<a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2886/3262" target="blank">[link]</a>
+      <li style="margin-left:15px;">2nd April, 2016. Discussion of Borde and Kwik algorithms, and Kaggle problems.</a>
       <br>
-      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter/" target="blank">here</a>.
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-second-meetup/" target="blank">here</a>.
+      </li>
+      
+      <li style="margin-left:15px;">2nd April, 2016. Discussion of Borde and Kwik algorithms, and Kaggle problems.
+      
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-second-meetup/" target="blank">here</a>.
       </li>
 <ol>
 <hr>
