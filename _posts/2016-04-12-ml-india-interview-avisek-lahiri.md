@@ -21,7 +21,7 @@ Parag talks in detail on ..
 
 - <a href="#avisek_research_proj">His research project.</a>
 - <a href="#avisek_data_annotation">Data Annotation Methods.</a>
-- <a href="#avisek_live_projects">Some live projects in his lab</a>
+- <a href="#avisek_live_projects">Some live projects in his lab.</a>
 - <a href="#avisek_views_on_ML_space">Current ecosystem of ML in India.</a>
 
 
@@ -50,7 +50,7 @@ Regarding the state of the art, a recently published [JMLR](http://jmlr.org/){:t
 
 <a href="#">[Top]</a>
 
-a name="avisek_data_annotation"></a>
+<a name="avisek_data_annotation"></a>
 
 **ML-India**: This is a very interesting problem but how do you get your data annotated? This is a problem in supervised machine learning, meaning it depends on a lot of labeled information?
 
@@ -63,14 +63,14 @@ Solving the image captioning problem using low or limited data is the recent ‘
 There are other ways of using previous knowledge or knowledge in other domains using learning techniques like ‘[transfer learning](ftp://ftp.cs.wisc.edu/machine-learning/shavlik-group/torrey.handbook09.pdf){:target="_blank"}’, ‘[multitask task learning](http://www.cs.cornell.edu/~caruana/mlj97.pdf){:target="_blank"}’ and ‘[semi supervised learning](http://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006){:target="_blank"}’. We are also exploring these fields and have seen some promising results.
 
 <a href="#">[Top]</a>
-a name="avisek_live_projects"></a>
+<a name="avisek_live_projects"></a>
 
 **ML-India**:  What are some other problems being solved in your lab?
 
 **Avisek**: Although all the projects in our [lab](http://www.ecdept.iitkgp.ernet.in/index.php/home/labs/vision){:target="_blank"} are centered on computer vision, the scope of these projects is really diverse. One group of students is working on medical image analysis, which is different from  traditional computer vision in the sense that you work with images of CT-scans and X-rays. One particular application being worked on is cancer detection using mammogram images as an input. Another interesting project on which a bunch of students are working is studying the dynamics of bacteria. The project is interdisciplinary and requires working on nano-scale images using specialized equipment. Then, there are other projects related to pattern recognition in signal processing. One of the projects includes detecting the health of railway lines by analyzing the wave patterns generated in them.
 
 <a href="#">[Top]</a>
-a name="avisek_views_on_ML_space"></a>
+<a name="avisek_views_on_ML_space"></a>
 
 **ML-India**:  What are your thoughts on the current ecosystem to study machine learning in India? Do you think a congenial environment exists between academia and industry to foster the growth of machine learning?
 
