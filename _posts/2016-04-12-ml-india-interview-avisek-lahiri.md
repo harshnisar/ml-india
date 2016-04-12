@@ -2,7 +2,7 @@
 layout: post
 title: "ML-India interview series - Mr. Avisek Lahiri, doctoral student, Indian Institute of Technology-Kharagpur (IIT-KGP)"
 excerpt: "We interviewed Mr. Avisek Lahiri, who is a doctoral student at IIT Kharagpur. He joined IIT Kharagpur in 2013 as a master's student in computer vision lab, where he worked on reducing video related errors in video conferences.
-After having worked in the field of [computer vision](https://en.wikipedia.org/wiki/Computer_vision){:target="_blank"}, machine learning caught his attention and he joined the same department as a PhD student. He is a recipient of many awards and accolades like the Google India PhD Fellowship, Viterbi India internship, ACM India sponsorship and a research fellowship from ISRO, among others. "
+After having worked in the field of computer vision, machine learning caught his attention and he joined the same department as a PhD student. He is a recipient of many awards and accolades like the Google India PhD Fellowship, Viterbi India internship, ACM India sponsorship and a research fellowship from ISRO, among others. "
 tags: [india, machine learning, data science, interview, avisek lahiri, IIT-KGP]
 comments: true
 
