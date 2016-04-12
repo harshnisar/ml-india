@@ -10,7 +10,7 @@ tags_relevant: [interview]
 
 <img src="https://sites.google.com/site/aviseklahiri/_/rsrc/1428328988283/home/photo.jpg" align='left' style="margin-right:4px;width:30%">
 
-[Mr. Avisek](https://sites.google.com/site/aviseklahiri/home){:target="_blank"} is a doctoral student at IIT Kharagpur. He joined IIT Kharagpur in 2013 as a master's student in [computer vision lab](http://www.ecdept.iitkgp.ernet.in/index.php/home/labs/vision){:target="_blank"}, where he worked on reducing video related errors in video conferences.
+[Avisek](https://sites.google.com/site/aviseklahiri/home){:target="_blank"} is a doctoral student at IIT Kharagpur. He joined IIT Kharagpur in 2013 as a master's student in [computer vision lab](http://www.ecdept.iitkgp.ernet.in/index.php/home/labs/vision){:target="_blank"}, where he worked on reducing video related errors in video conferences.
 After having worked in the field of [computer vision](https://en.wikipedia.org/wiki/Computer_vision){:target="_blank"}, machine learning caught his attention and he joined the same department as a PhD student. He is a recipient of many awards and accolades like the Google India PhD Fellowship, Viterbi India internship, ACM India sponsorship and a research fellowship from ISRO, among others.
 <br>
 <br>
