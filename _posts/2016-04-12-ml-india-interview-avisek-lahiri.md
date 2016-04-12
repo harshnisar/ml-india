@@ -10,7 +10,7 @@ tags_relevant: [interview]
 
 <img src="https://sites.google.com/site/aviseklahiri/_/rsrc/1428328988283/home/photo.jpg" align='left' style="margin-right:4px;width:30%">
 
-[Mr. Avisek](https://sites.google.com/site/aviseklahiri/home){:target="_blank"} is a doctoral student at IIT Kharagpur. He joined IIT Kharagpur in 2013 as a master's student in computer vision lab, where he worked on reducing video related errors in video conferences.
+[Mr. Avisek](https://sites.google.com/site/aviseklahiri/home){:target="_blank"} is a doctoral student at IIT Kharagpur. He joined IIT Kharagpur in 2013 as a master's student in [computer vision lab](http://www.ecdept.iitkgp.ernet.in/index.php/home/labs/vision){:target="_blank"}, where he worked on reducing video related errors in video conferences.
 After having worked in the field of [computer vision](https://en.wikipedia.org/wiki/Computer_vision){:target="_blank"}, machine learning caught his attention and he joined the same department as a PhD student. He is a recipient of many awards and accolades like the Google India PhD Fellowship, Viterbi India internship, ACM India sponsorship and a research fellowship from ISRO, among others.
 <br>
 <br>
@@ -55,7 +55,7 @@ There are other ways of using previous knowledge or knowledge in other domains u
 
 **ML-India**:  What are some other problems being solved in your lab?
 
-**Avisek**: Although all the projects in our lab are centered on computer vision, the scope of these projects is really diverse. One group of students is working on medical image analysis, which is different from  traditional computer vision in the sense that you work with images of CT-scans and X-rays. One particular application being worked on is cancer detection using mammogram images as an input. Another interesting project on which a bunch of students are working is studying the dynamics of bacteria. The project is interdisciplinary and requires working on nano-scale images using specialized equipment. Then, there are other projects related to pattern recognition in signal processing. One of the projects includes detecting the health of railway lines by analyzing the wave patterns generated in them.
+**Avisek**: Although all the projects in our [lab](http://www.ecdept.iitkgp.ernet.in/index.php/home/labs/vision){:target="_blank"} are centered on computer vision, the scope of these projects is really diverse. One group of students is working on medical image analysis, which is different from  traditional computer vision in the sense that you work with images of CT-scans and X-rays. One particular application being worked on is cancer detection using mammogram images as an input. Another interesting project on which a bunch of students are working is studying the dynamics of bacteria. The project is interdisciplinary and requires working on nano-scale images using specialized equipment. Then, there are other projects related to pattern recognition in signal processing. One of the projects includes detecting the health of railway lines by analyzing the wave patterns generated in them.
 
 <a href="#">[Top]</a>
 
