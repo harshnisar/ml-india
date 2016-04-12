@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "ML-India interview series - Mr. Avisek Lahiri, doctoral student, Indian Institute of Technology-Kharagpur (IIT-KGP)"
-excerpt: "We interviewed Mr. Avisek Lahiri, who is a doctoral student at IIT Kharagpur. He joined IIT Kharagpur in 2013 as a master's student in computer vision lab, where he worked on reducing video related errors in video conferences.
-After having worked in the field of computer vision, machine learning caught his attention and he joined the same department as a PhD student. He is a recipient of many awards and accolades like the Google India PhD Fellowship, Viterbi India internship, ACM India sponsorship and a research fellowship from ISRO, among others. "
+excerpt: "We interviewed Mr. Avisek Lahiri, who is a doctoral student at IIT Kharagpur. He joined IIT Kharagpur in 2013 as a master's student in computer vision lab. After having worked in the field of computer vision, machine learning caught his attention and he joined the same department as a PhD student. He is a recipient of many awards and accolades like the Google India PhD Fellowship, Viterbi India internship, ACM India sponsorship and a research fellowship from ISRO, among others. "
 tags: [india, machine learning, data science, interview, avisek lahiri, IIT-KGP]
 comments: true
 
@@ -52,6 +51,8 @@ Solving the image captioning problem using low or limited data is the recent ‘
 
 There are other ways of using previous knowledge or knowledge in other domains using learning techniques like ‘[transfer learning](ftp://ftp.cs.wisc.edu/machine-learning/shavlik-group/torrey.handbook09.pdf){:target="_blank"}’, ‘[multitask task learning](http://www.cs.cornell.edu/~caruana/mlj97.pdf){:target="_blank"}’ and ‘[semi supervised learning](http://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006){:target="_blank"}’. We are also exploring these fields and have seen some promising results.
 
+<a href="#">[Top]</a>
+
 **ML-India**:  What are some other problems being solved in your lab?
 
 **Avisek**: Although all the projects in our lab are centered on computer vision, the scope of these projects is really diverse. One group of students is working on medical image analysis, which is different from  traditional computer vision in the sense that you work with images of CT-scans and X-rays. One particular application being worked on is cancer detection using mammogram images as an input. Another interesting project on which a bunch of students are working is studying the dynamics of bacteria. The project is interdisciplinary and requires working on nano-scale images using specialized equipment. Then, there are other projects related to pattern recognition in signal processing. One of the projects includes detecting the health of railway lines by analyzing the wave patterns generated in them.
@@ -81,7 +82,7 @@ One area, in my opinion, where we need improvement is foreign collaborations in 
   
 **ML-India**: Thank you for your time, Avisek. All the very best to you from ML-India!
 
-<a href="#">[Top]</a>
+
 
 
 
