@@ -12,7 +12,7 @@ tags_relevant: [interview]
 ---
 
 <img src="http://homes.cs.washington.edu/~mausam/mausam-head.jpg" align='left' style="margin-right:4px;width:30%">
-Prof. [Mausam] (http://homes.cs.washington.edu/~mausam/){:target="_blank"} is an associate professor at the Dept. of Computer Science in IIT-Delhi and an affiliate faculty
+[Prof. Mausam] (http://homes.cs.washington.edu/~mausam/){:target="_blank"} is an associate professor at the Dept. of Computer Science in IIT-Delhi and an affiliate faculty
 at the University of Washington. He got his undergraduate degree from IIT-Delhi in
 Computer Science in 2001 and completed his PhD. work titled Stochastic Planning with Concurrent, Durative Actions from the University of Washington in 2007. 
 
