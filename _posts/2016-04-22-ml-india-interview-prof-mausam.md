@@ -12,7 +12,7 @@ tags_relevant: [interview]
 ---
 
 <img src="http://homes.cs.washington.edu/~mausam/mausam-head.jpg" align='left' style="margin-right:4px;width:30%">
-Prof. Mausam is an associate professor at the Dept. of Computer Science in IIT-Delhi and an affiliate faculty
+[Prof. Mausam] (http://homes.cs.washington.edu/~mausam/){:target="_blank"} is an associate professor at the Dept. of Computer Science in IIT-Delhi and an affiliate faculty
 at the University of Washington. He got his undergraduate degree from IIT-Delhi in
 Computer Science in 2001 and completed his PhD. work titled Stochastic Planning with Concurrent, Durative Actions from the University of Washington in 2007. 
 
@@ -73,13 +73,13 @@ very economical and yield a higher quality output than manually controlled workf
 
 Another area of research I am involved with is information extraction (IE), where the machine reads natural language text and extracts the information expressed in it. There can be many downstream applications for this such as in question answering, automated summarization of news and even in automated essay assessments. We use a combination of ML and linguistics to do IE at large scales. 
 
-Our model, Open IE, overcomes the well-known knowledge-acquisition bottleneck by automatically extracting not just the arguments but also the relation between them from large text corpora in a domain-independent manner. I am currently working on improving the quality of Open IE extractors by pushing their precision and recall. We are currently extending it to process noun phrases and numeric extractions better. A recent paper on this work [Numerical Relation Extraction with Minimal Supervision.](http://homes.cs.washington.edu/~mausam/papers/aaai16a.pdf) Our
-most recent Open IE extractor is publically [available](https://github.com/knowitall/openie) on GitHub. 
+Our model, Open IE, overcomes the well-known knowledge-acquisition bottleneck by automatically extracting not just the arguments but also the relation between them from large text corpora in a domain-independent manner. I am currently working on improving the quality of Open IE extractors by pushing their precision and recall. We are currently extending it to process noun phrases and numeric extractions better. A recent paper on this work [Numerical Relation Extraction with Minimal Supervision.](http://homes.cs.washington.edu/~mausam/papers/aaai16a.pdf){:target="_blank"} Our
+most recent Open IE extractor is publically [available](https://github.com/knowitall/openie){:target="_blank"} on GitHub. 
 
 <a href="#">[Top]</a>
 
 
-ML-India: That’s really cool. I think it connects with some of the work which Partha is working on. [We’d recently interviewed him](http://ml-india.org/ml-india-interview-partha-pratim-talukdar/).
+ML-India: That’s really cool. I think it connects with some of the work which Partha is working on. [We’d recently interviewed him](http://ml-india.org/ml-india-interview-partha-pratim-talukdar/){:target="_blank"}.
 
 Mausam: Yes, we are motivated by similar dreams of making machines read large texts and gather valuable world knowledge. 
 
@@ -116,12 +116,12 @@ and large. There is a lot of freedom given to the faculty members here. One adva
 IITs is that significant funding is being provided by the government, whereas in the US each faculty member has to work hard to fund their projects. The advisor’s salary and the students’ salaries have to be taken out from the funding. This hassle sometimes dries out some research agendas, which are not of current commercial interest. This model is also helpful since the researchers are forced to be always on the top of their game. On the other hand, the Indian system helps us pursue our research agendas without worrying about funding. Additionally, it is really great that many students are paid by corporates like Microsoft, Google, TCS, IBM etc. through fellowships. 
 
 
-People often lament about the quality of graduate students in India. But, I have always maintained that the best of students won't stay here if the best of faculty is not available here. We can’t put the cart before the horse. A lot of good work can happen in an area if there is a critical mass of serious researchers in that field. We have started such an attempt at IIT-D, where we established the data analytics and intelligence research group [DAIR]((http://www.cse.iitd.ac.in/dair). It comprises four faculty members having complementary skill sets who are going after various technically challenging problems. 
+People often lament about the quality of graduate students in India. But, I have always maintained that the best of students won't stay here if the best of faculty is not available here. We can’t put the cart before the horse. A lot of good work can happen in an area if there is a critical mass of serious researchers in that field. We have started such an attempt at IIT-D, where we established the data analytics and intelligence research group [DAIR]((http://www.cse.iitd.ac.in/dair){:target="_blank"}. It comprises four faculty members having complementary skill sets who are going after various technically challenging problems. 
 
 One strength of University of Washington was continual exposure -- 
 there used to be a lot of talks, about 3-4 interesting research talks in a week. A lot
 of knowledge is exchanged during these talks and you get to know about different
- research projects from all across the globe, and that makes it easier for you to retain the ideas useful for your own research. This aspect lags in the Indian system. We are doing our bit by inviting people to our weekly [DAIR seminar series](http://www.cse.iitd.ac.in/dair/index.php/events) and also inviting people from outside IIT-D to attend them.
+ research projects from all across the globe, and that makes it easier for you to retain the ideas useful for your own research. This aspect lags in the Indian system. We are doing our bit by inviting people to our weekly [DAIR seminar series](http://www.cse.iitd.ac.in/dair/index.php/events){:target="_blank"} and also inviting people from outside IIT-D to attend them.
 
 
 There is also some bureaucracy one has to wade through to get things done here. The situation is improving, but things are not as hassle free as in the systems outside. 
@@ -137,7 +137,7 @@ in our field of research in spite of us not having submitted any paper to that c
 
 
 **Mausam:** Yes. Xerox research recently held a winter school in machine learning and I was there to give a talk. It was a very well organized school; the best of the researchers were there and I was so impressed that it made me want to enroll in it as a student! Similar schools
-in machine learning keep on happening. Last year TCS had also organized one called TCS-Tactics. NMI had organized one which was about [reinforcement learning and optimization algorithms](http://math.iisc.ernet.in/~nmi/MLDM.php). 
+in machine learning keep on happening. Last year TCS had also organized one called TCS-Tactics. NMI had organized one which was about [reinforcement learning and optimization algorithms](http://math.iisc.ernet.in/~nmi/MLDM.php){:target="_blank"}. 
 
 A recent initiative which I am quite happy about involves opening of advanced graduate
 level courses to students from across universities. [Prof. M. Balakrishnan](http://www.cse.iitd.ernet.in/~mbala/){:target="_blank"}
