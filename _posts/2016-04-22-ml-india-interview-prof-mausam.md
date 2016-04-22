@@ -12,7 +12,7 @@ tags_relevant: [interview]
 ---
 
 <img src="http://homes.cs.washington.edu/~mausam/mausam-head.jpg" align='left' style="margin-right:4px;width:30%">
-[Prof. Mausam](http://homes.cs.washington.edu/~mausam/){:target="_blank"} is an associate professor at the Dept. of Computer Science in IIT-Delhi and an affiliate faculty
+[Prof. Mausam](http://homes.cs.washington.edu/~mausam/){:target="_blank"} is an associate professor at the [Dept. of Computer Science](http://www.cse.iitd.ernet.in/){:target="_blank"} in IIT-Delhi and an affiliate faculty
 at the University of Washington. He got his undergraduate degree from IIT-Delhi in
 Computer Science in 2001 and completed his PhD. work titled Stochastic Planning with Concurrent, Durative Actions from the University of Washington in 2007. 
 
@@ -101,7 +101,7 @@ This is very interesting. We were talking to Dr. Richard Baraniuk who is working
 
 
 **Mausam:** In crowdsourcing, [Dr.Y.Narhari](http://lcm.csa.iisc.ernet.in/hari/){:target="_blank"} is working on it from game theory standpoint. I am not aware of any
-other group. In information extraction, [Dr. Sunita](https://www.cse.iitb.ac.in/~sunita/){:target="_blank"}, [Dr. Ganesh](https://www.cse.iitb.ac.in/~ganesh/){:target="_blank"} and [Dr. Soumen](https://www.cse.iitb.ac.in/~soumen/){:target="_blank"} are also trying to work on similar questions. But their work is more from the databases angle where they are trying to learn information from tables and web. They have done some work in text as well, infact we have a paper coming up in AAAI this year where I have collaborated with Dr. Sunita and Dr. Ganesh. As I mentioned before, Dr. Partha is also working in this area.
+other group. In information extraction, [Dr. Sunita](https://www.cse.iitb.ac.in/~sunita/){:target="_blank"}, [Dr. Ganesh](https://www.cse.iitb.ac.in/~ganesh/){:target="_blank"} and [Dr. Soumen](https://www.cse.iitb.ac.in/~soumen/){:target="_blank"} are also trying to work on similar questions. But their work is more from the databases angle where they are trying to learn information from tables and web. They have done some work in text as well, infact we have a paper coming up in [AAAI](http://www.aaai.org/home.html){:target="_blank"} this year where I have collaborated with Dr. Sunita and Dr. Ganesh. As I mentioned before, Dr. Partha is also working in this area.
 
 
 <a name="about_research_ML_India"></a>
@@ -116,7 +116,7 @@ and large. There is a lot of freedom given to the faculty members here. One adva
 IITs is that significant funding is being provided by the government, whereas in the US each faculty member has to work hard to fund their projects. The advisor’s salary and the students’ salaries have to be taken out from the funding. This hassle sometimes dries out some research agendas, which are not of current commercial interest. This model is also helpful since the researchers are forced to be always on the top of their game. On the other hand, the Indian system helps us pursue our research agendas without worrying about funding. Additionally, it is really great that many students are paid by corporates like Microsoft, Google, TCS, IBM etc. through fellowships. 
 
 
-People often lament about the quality of graduate students in India. But, I have always maintained that the best of students won't stay here if the best of faculty is not available here. We can’t put the cart before the horse. A lot of good work can happen in an area if there is a critical mass of serious researchers in that field. We have started such an attempt at IIT-D, where we established the data analytics and intelligence research group [DAIR]((http://www.cse.iitd.ac.in/dair){:target="_blank"}. It comprises four faculty members having complementary skill sets who are going after various technically challenging problems. 
+People often lament about the quality of graduate students in India. But, I have always maintained that the best of students won't stay here if the best of faculty is not available here. We can’t put the cart before the horse. A lot of good work can happen in an area if there is a critical mass of serious researchers in that field. We have started such an attempt at IIT-D, where we established the data analytics and intelligence research group [DAIR](http://www.cse.iitd.ac.in/dair){:target="_blank"}. It comprises four faculty members having complementary skill sets who are going after various technically challenging problems. 
 
 One strength of University of Washington was continual exposure -- 
 there used to be a lot of talks, about 3-4 interesting research talks in a week. A lot
@@ -136,7 +136,7 @@ in our field of research in spite of us not having submitted any paper to that c
 **ML-India:** Any specific activities in ML in India that has caught your attention?
 
 
-**Mausam:** Yes. Xerox research recently held a winter school in machine learning and I was there to give a talk. It was a very well organized school; the best of the researchers were there and I was so impressed that it made me want to enroll in it as a student! Similar schools
+**Mausam:** Yes. [Xerox](http://www.xrci.xerox.com/){:target="_blank"} research recently held a winter school in machine learning and I was there to give a talk. It was a very well organized school; the best of the researchers were there and I was so impressed that it made me want to enroll in it as a student! Similar schools
 in machine learning keep on happening. Last year TCS had also organized one called TCS-Tactics. NMI had organized one which was about [reinforcement learning and optimization algorithms](http://math.iisc.ernet.in/~nmi/MLDM.php){:target="_blank"}. 
 
 A recent initiative which I am quite happy about involves opening of advanced graduate
