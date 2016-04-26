@@ -34,7 +34,7 @@ ML?
 
 
 **Mausam:** I did my undergraduate studies in Computer Science from IIT-Delhi but we did not have any ML teacher at the time. I had a course on AI but I had not taken it. During the first
-quarter of my graduate studies I took my course on AI, but I didn't know what to expect from it. As part of our coursework, teams had to create bots which would compete with each other in the game of Chess. Our bot faced a Chinese team in the finals and we won! The Chinese team later found out that their code had a small bug and asked for a rematch. We had a rematch and we won again! In hindsight, one thing that really hooked me onto AI was that I found its balance between theory and practice really engaging. 
+quarter of my graduate studies I took my first course on AI, but I didn't know what to expect from it. As part of our coursework, teams had to create bots which would compete with each other in the game of Chess. Our bot faced a Chinese team in the finals and we won! The Chinese team later found out that their code had a small bug and asked for a rematch. We had a rematch and we won again! In hindsight, one thing that really hooked me onto AI was that I found its balance between theory and practice really engaging. 
 
 During my undergraduate studies in IIT-D, I noticed that our department had a really strong research agenda in theoretical computer science and though I enjoyed it thoroughly, I was not quite satisfied pursuing core theoretical research. On the other hand, systems and networks research had many visible applications in everyday life, but I wasn’t sure about that as my research area either. I guess I had sort of an open mind when it came to choosing a specialization and pleasantly found out that AI and ML attracted me the most. My advice to students is the same - keep an open mind and explore as many concepts as possible during your undergrad. It would help make an informed choice in grad school.
 
@@ -43,11 +43,11 @@ During my undergraduate studies in IIT-D, I noticed that our department had a re
 You did your PhD during 2001-2007, which was the golden era for all sorts of ML/AI technologies. So, was that also a compelling reason to get into ML or was your motivation totally disconnected from the whole pursuit?
 
 
-**Mausam:** I was not that affected by the other developments at the time, as, for me, my research areas were solely a function of what I wished to pursue further. I chose ML/AI because I thought that I would be happy doing work in this area. But, I can see that “what’s hot” can be a reason for a choosing a specific research area for many people. I personally believe that because PhD is a long hiatus, one should always choose a topic, which they are highly passionate about. 
+**Mausam:** I was not that affected by the other developments at the time, as, for me, my research areas were solely a function of what I wished to pursue further. I chose ML/AI because I thought that I would be happy doing work in this area. But I can see that “what’s hot” can be a reason for a choosing a specific research area for many people. I personally believe that since a PhD is a long haul, one should always choose a topic which they are highly passionate about. 
 
-In fact, I zeroed in on my research topic early in 2002, and all the hype around ML started around 2005. When I was introduced to AI, it was sort of like its pre-golden era. Self-driving cars hadn't crossed the Mojave desert, Watson hadn’t won jeopardy against humans, deep learning hadn't revolutionized machine learning. During that time, AI was not even that hot a topic, but my advisor was a core AI guy. And from his and my vantage point, ML is basically a part of AI. 
+In fact, I zeroed in on my research topic early in 2002 and all the hype around ML started around 2005. When I was introduced to AI, it was its pre-golden era. Self-driving cars hadn't crossed the Mojave desert, Watson hadn’t won jeopardy against humans and deep learning hadn't revolutionized machine learning. During that time, AI was not even that hot a topic, but my advisor was a core AI guy. And from his and my vantage point, ML is essentially a part of AI. 
 
-I would say that I was kinda lucky that suddenly ML/AI became huge and a lot of researchers and companies got interested in it. My personal belief is that we should work in the field that we are good at and enjoy doing. Every field has some top people who are making significant advances in the area. We should just try to excel in our chosen field and aim to become one of those top people.
+I would say that I was kinda lucky that ML/AI suddenly became huge and a lot of researchers and companies got interested in it. My personal belief is that we should work in the field that we are good at and enjoy doing. Every field has some top people who are making significant advances in the area. We should just try to excel in our chosen field and aim to become one of those top people.
 
 
 <a name="research_areas"></a>
@@ -156,5 +156,11 @@ think that system is ready to attract them to continue their graduate-level work
 It takes time; I’m optimistic of getting there.
 
 **ML-India:** It was great chatting with you, Mausam.Thank you for your time and words. All the very best to you from ML-India!
+
+
+
+
+
+
 
 
