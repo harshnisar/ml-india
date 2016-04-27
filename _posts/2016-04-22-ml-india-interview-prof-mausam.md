@@ -79,9 +79,9 @@ most recent Open IE extractor is publically [available](https://github.com/knowi
 <a href="#">[Top]</a>
 
 
-ML-India: That’s really cool. I think it connects with some of the work which Partha is working on. [We’d recently interviewed him](http://ml-india.org/ml-india-interview-partha-pratim-talukdar/){:target="_blank"}.
+**ML-India:** That’s really cool. I think it connects with some of the work which Partha is working on. [We’d recently interviewed him](http://ml-india.org/ml-india-interview-partha-pratim-talukdar/){:target="_blank"}.
 
-Mausam: Yes, we are motivated by similar dreams of making machines read large texts and gather valuable world knowledge. 
+**Mausam:** Yes, we are motivated by similar dreams of making machines read large texts and gather valuable world knowledge. 
 
 <a name="research_education"></a>
 
