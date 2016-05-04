@@ -10,9 +10,9 @@ tags_relevant: [chapter, meetup, bangalore]
 comments: true
 ---
 
-ML-India is pleased to inform that the third ML-India meetup in its Bangalore chapter, hosted by Sritulasi, was held last Saturday (2nd April).
+ML-India is pleased to inform that the third ML-India meetup in its Bangalore chapter was held last Saturday (2nd April).
 
-The event went well. They had a speaker - [Venkata Pingali](https://in.linkedin.com/in/pingali){:target="_blank"}, founder of [Scribble Data](http://www.scribbledata.io/){:target="_blank"}. He gave out good insights into how disciplined data scientists have to be in their processes, since their
+The meetup organized by Sritulasi involved a discussion on the significance of the role of a data scientist and a workshop on Neural Networks. They had a speaker - [Venkata Pingali](https://in.linkedin.com/in/pingali){:target="_blank"}, founder of [Scribble Data](http://www.scribbledata.io/){:target="_blank"}. He gave out good insights into how disciplined data scientists need to be in their processes, since their
 insights and results will lead to a real life impact like firing people, reallocating budgets etc. 
 
 To provide a streamlined process for working with data and building models on top of it, he built a tool - dgit (essentially data git), which audits every modification and action that has been taken with the data. It was quite an interesting talk.
