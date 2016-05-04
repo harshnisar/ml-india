@@ -15,17 +15,15 @@ ML-India is pleased to inform that the third ML-India meetup in its Bangalore ch
 The event went well. They had a speaker - [Venkata Pingali](https://in.linkedin.com/in/pingali){:target="_blank"}, founder of [Scribble Data](http://www.scribbledata.io/){:target="_blank"}. He gave out good insights into how disciplined data scientists have to be in their processes, since their
 insights and results will lead to a real life impact like firing people, reallocating budgets etc. 
 
-To provide a streamlined process for working with data and building models on top of it, he built a tool - dgit (essentially data git), which audits every modification and action you have taken with the data. It was quite an interesting talk.
+To provide a streamlined process for working with data and building models on top of it, he built a tool - dgit (essentially data git), which audits every modification and action that has been taken with the data. It was quite an interesting talk.
 
  
-
 After the talk, they held a workshop. One of the participants of the meetup group, Vadiraj, volunteered to host the workshop on [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network){:target="_blank"}.
 He put together an [ipython notebook](https://github.com/Vakuma/neural_network_workshop){:target="_blank"} including some theory and working code of implementing neural
 networks for digit classification on MNIST dataset. The ipython notebook was shared with the group. 
-
  
 
-The participation, response and feedback from the participants was very encouraging! The audience enjoyed the discussion. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread
+The participation, response and feedback from the participants was very encouraging! The audience enjoyed the discussion. We’ll keep up with having such interesting meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread
 the word to your friends from Bangalore to enroll for the meetups.
 
 
