@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Bangalore chapter: Third Meetup"
-excerpt: "ML-India is pleased to inform that the third machine learning meetup in its Bangalore chapter was held last Saturday (30th April). The meetup involved discussion on Borde and Kwik algorithms as well as Kaggle problems.
+excerpt: "ML-India is pleased to inform that the third machine learning meetup in its Bangalore chapter was held last Saturday (30th April). The meetup involved discussion on the significance of the role of a data scientist and as well as a workshop on Neural Networks.
 "
 tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
 
@@ -30,14 +30,14 @@ the word to your friends from Bangalore to enroll for the meetups.
 
 
 <figure class="half">
-    <a href="/images/FullSizeRender (3).JPG"><img src="/images/FullSizeRender (3).JPG"></a>
-    <a href="/images/FullSizeRender (2).JPG"><img src="/images/FullSizeRender (2).JPG"></a>
+    <a href="/images/FullSizeRender (3).jpg"><img src="/images/FullSizeRender (3).jpg"></a>
+    <a href="/images/FullSizeRender (2).jpg"><img src="/images/FullSizeRender (2).jpg"></a>
     <figcaption></figcaption>
 </figure>
 
 <figure class="half">
-    <a href="/images/FullSizeRender.JPG"><img src="/images/FullSizeRender.JPG"></a>
-    <a href="/images/FullSizeRender (1).JPG"><img src="/images/FullSizeRender (1).JPG"></a>
+    <a href="/images/FullSizeRender.jpg"><img src="/images/FullSizeRender.jpg"></a>
+    <a href="/images/FullSizeRender (1).jpg"><img src="/images/FullSizeRender (1).jpg"></a>
     <figcaption></figcaption>
 </figure>
 
