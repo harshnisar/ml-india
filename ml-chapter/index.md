@@ -83,6 +83,7 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-second-meetup/" target="blank">here</a>.
       </li>
+      <br>
        <li style="margin-left:15px;">30th April, 2016. Discussion on the significance of the role of a data scientist and as well as a workshop on Neural Networks.
       
       <br>
