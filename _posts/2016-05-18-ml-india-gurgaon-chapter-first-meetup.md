@@ -16,6 +16,7 @@ They had around 15 participants and started with some ice-breaking introductions
 After the ice-breaking session, they began with the introduction on machine learning pipeline and its fundamentals. This built the required momentum for everyone to get their hands dirty on the actual machine learning problem. They had a practical hands-on session on data interpretation and analysis followed by simple model building using Linear-Regression.
 
 Some interesting high-level points of discussion were:
+
 1. We should look at data and try to identify outliers.
 2. There are different visualization tools out there like bar charts, scatter, box plots and quartile ranges to get a sense of your data.
 3. How should we handle sparse data?
