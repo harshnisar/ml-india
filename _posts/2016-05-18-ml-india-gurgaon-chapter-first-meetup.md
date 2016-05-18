@@ -9,7 +9,7 @@ tags_relevant: [chapter, meetup, bangalore]
 
 comments: true
 ---
-ML-India is pleased to announce that its Gurgaon chapter has kicked off and the first meetup was held last Saturday (14 May) . The aim is to hold frequent meetups where machine learning enthusiasts can meet and discuss the latest in the field.
+ML-India is pleased to announce that it has kicked off its Gurgaon chapter and the first meetup was held last Saturday (14 May) . The aim is to hold frequent meetups where machine learning enthusiasts can meet and discuss the latest in the field.
 
 They had around 15 participants and started with some ice-breaking introductions about everyone's job-experience and interests. There were people from a motley of interest-areas and range of experiences like banking, software development and budding entrepreneurs. In particular, a senior SDE, who showed up, wanted to learn and apply these concepts in his projects. One more guy, who recently  graduated college, just wanted to explore Data Science. Another guy, who is an entrepreneur, wanted to apply this knowledge to solve the problem of education and health in India. A banking professional, working in the field for 7+ years, was looking forward to apply this knowledge to decide which stocks to buy/ sell.
 
