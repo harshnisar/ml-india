@@ -8,7 +8,6 @@ comments: true
 tags_relevant: [conferences, india]
 ---
 <HEAD>
-<meta http-equiv="refresh"
-content="0;
-URL=http://ml-india.org/india-ml-conf-2015/">
+<META HTTP-EQUIV="refresh"
+content="0;URL=http://ml-india.org/india-ml-conf-2015/">
 </HEAD>
