@@ -22,7 +22,7 @@ Some interesting high-level points of discussion were:
 3. How should we handle sparse data?
 4. The basic machine learning pipeline to build a predictive model.
 
-They stopped there, as per the plan, and decided to extend this to the next meetup to avoid overwhelming the participants. However, the participants were very keen on knowing more and wanted the session to continue. Saurabh said "What follows this is what we really want to learn. It would be great if you can give us an overview of the concepts on cross-val and decision trees". Others acknowledged his views. They then maneuvered the participants through the concepts of test/train and the importance of cross-val for model selection/ hyperparameters-tuning on decision trees.
+They stopped there, as per the plan, and decided to extend this to the next meetup to avoid overwhelming the participants. However, the participants were very keen on knowing more and wanted the session to continue. One of the participants said "What follows this is what we really want to learn. It would be great if you can give us an overview of the concepts on cross-val and decision trees". Others acknowledged his views. They then maneuvered the participants through the concepts of test/train and the importance of cross-val for model selection/ hyperparameters-tuning on decision trees.
 
 A mutual decision to conduct meetups once-a-fortnight was made. Multiple suggestions and ideas were floated for the agenda of next meetup. Some of them were: 
 
