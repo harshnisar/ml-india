@@ -32,22 +32,17 @@ A mutual decision to conduct meetups once-a-fortnight was made. Multiple suggest
 
 The participation, response and feedback from the participants was very encouraging! The audience enjoyed the discussion. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Delhi/NCR to enroll for the meetups.
 <figure class="half">
-    <a href="/images/IMG_5893.JPG"><img src="/images/IMG_5893.JPG"></a>
-    <a href="/images/IMG_5894.JPG"><img src="/images/IMG_5894.JPG"></a>
+    <a href="/images/DSC_0090.jpg"><img src="/images/DSC_0090.jpg"></a>
+    <a href="/images/DSC_0089.jpg"><img src="/images/DSC_0089.jpg"></a>
     <figcaption></figcaption>
 </figure>
 
 <figure class="half">
-    <a href="/images/IMG_5895.JPG"><img src="/images/IMG_5895.JPG"></a>
-    <a href="/images/IMG_5899.JPG"><img src="/images/IMG_5899.JPG"></a>
+    <a href="/images/DSC_0075.jpg"><img src="/images/DSC_0075.jpg"></a>
+    <a href="/images/DSC_0087.jpg"><img src="/images/DSC_0087.jpg"></a>
     <figcaption></figcaption>
 </figure>
 
-<figure class="half">
-    <a href="/images/IMG_5902.JPG"><img src="/images/IMG_5902.JPG"></a>
-    <a href="/images/IMG_5903.JPG"><img src="/images/IMG_5903.JPG"></a>
-    <figcaption></figcaption>
-</figure>
 
 [Click here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
 
