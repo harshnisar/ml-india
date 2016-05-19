@@ -47,5 +47,7 @@ The participation, response and feedback from the participants was very encourag
 
 [Click here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
 
+Earlier, we had also started the Banglore chapter which has conducted multiple interesting meetups. Read about them [here](http://ml-india.org/ml-chapter/#bangalore){:target="_blank"}.
+
 If you wish to start a chapter of ML-India in your city, we would be more than happy to help you out and get it started. <a href="mailto:varun@aspiringminds.com" target="_top">Write us a mail</a>!
 
