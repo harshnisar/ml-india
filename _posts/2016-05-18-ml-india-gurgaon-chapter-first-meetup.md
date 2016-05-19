@@ -13,12 +13,12 @@ ML-India is pleased to announce that it has kicked off its Gurgaon chapter and t
 
 They had around 15 participants and started with some ice-breaking introductions about everyone's job-experience and interests. There were people from a motley of interest-areas and range of experiences like banking, software development and budding entrepreneurs. In particular, a senior SDE, who showed up, wanted to learn and apply these concepts in his projects. One more guy, who recently  graduated college, just wanted to explore Data Science. Another guy, who is an entrepreneur, wanted to apply this knowledge to solve the problem of education and health in India. A banking professional, working in the field for 7+ years, was looking forward to apply this knowledge to decide which stocks to buy/ sell.
 
-After the ice-breaking session, they began with the introduction on machine learning pipeline and its fundamentals. This built the required momentum for everyone to get their hands dirty on the actual machine learning problem. They had a practical hands-on session on data interpretation and analysis followed by simple model building using Linear-Regression.
+After the ice-breaking session, they began with the introduction on machine learning pipeline and its fundamentals. This built the required momentum for everyone to get their hands dirty on the actual machine learning problem. They had a practical hands-on session on data interpretation and analysis followed by simple model building using [Linear-Regression](https://en.wikipedia.org/wiki/Linear_regression){:target="_blank"}.
 
 Some interesting high-level points of discussion were:
 
 1. We should look at data and try to identify outliers.
-2. There are different visualization tools out there like bar charts, scatter, box plots and quartile ranges to get a sense of your data.
+2. There are different visualization tools out there like bar charts, scatter, box plots and [quartile ranges](https://en.wikipedia.org/wiki/Interquartile_range){:target="_blank"} to get a sense of your data.
 3. How should we handle sparse data?
 4. The basic machine learning pipeline to build a predictive model.
 
