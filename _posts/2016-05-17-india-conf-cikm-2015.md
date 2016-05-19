@@ -5,6 +5,5 @@ excerpt: "CIKM is a top-tier ACM conference in the areas of information retrieva
 tags: [india, machine learning, data science, ACL, 2015, UAI, KDD, CIKM]
 comments: true
 link: http://ml-india.org/india-ml-conf-2015/
-
 tags_relevant: [conferences, india]
 ---
