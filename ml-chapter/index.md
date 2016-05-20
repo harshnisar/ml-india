@@ -111,6 +111,7 @@ input:checked + label {
      
 <hr>
 
-
+</div>
 {% include _subscribe.html %}
+
 </body>
