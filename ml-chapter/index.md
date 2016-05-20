@@ -103,7 +103,7 @@ input:checked + label {
 </div>
 <div id="gurgaon_div">
 <ol >
-     <li style="margin-left:15px;">14th May, 2016. Introduction to machine learning pipeline and its fundamentals. A hands-on session on data interpretation and analysis followed by simple model building using Linear-Regression.<a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2886/3262" target="blank">[link]</a>
+     <li style="margin-left:15px;">14th May, 2016. Introduction to machine learning pipeline and its fundamentals. A hands-on session on data interpretation and analysis followed by simple model building using Linear-Regression.
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-first-meetup/" target="blank">here</a>.
       </li>
