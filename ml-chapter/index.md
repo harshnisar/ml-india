@@ -61,10 +61,12 @@ input:checked + label {
       if(flag==1)
       {
             document.getElementById("bangalore_div").style.display="inline";
+            document.getElementById("gurgaon_div").style.display="none";
             window.location.hash = "bangalore";
       }
       if(flag==2)
       {
+            document.getElementById("bangalore_div").style.display="none";
             document.getElementById("gurgaon_div").style.display="inline";
             window.location.hash = "gurgaon";
       }
