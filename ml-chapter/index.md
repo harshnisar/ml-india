@@ -63,12 +63,19 @@ input:checked + label {
             document.getElementById("bangalore_div").style.display="inline";
             window.location.hash = "bangalore";
       }
+      if(flag==2)
+      {
+            document.getElementById("gurgaon_div").style.display="inline";
+            window.location.hash = "gurgaon";
+      }
  }
 </script>
 
 <body onload="pageSet()">
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
   <label for="tab1" >Bangalore</label>
+   <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
+  <label for="tab2" >Gurgaon</label>
 <hr>
 <h2>List of meetups: </h2>
 <div id="bangalore_div">
@@ -89,9 +96,17 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-third-meetup/" target="blank">here</a>.
       </li>
-<ol>
+</ol>
 <hr>
 </div>
+<div id="gurgaon_div">
+<ol >
+     <li style="margin-left:15px;">14th May, 2016. Introduction to machine learning pipeline and its fundamentals. A hands-on session on data interpretation and analysis followed by simple model building using Linear-Regression.<a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2886/3262" target="blank">[link]</a>
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-first-meetup/" target="blank">here</a>.
+      </li>
+      <br>
+     
 <hr>
 
 
