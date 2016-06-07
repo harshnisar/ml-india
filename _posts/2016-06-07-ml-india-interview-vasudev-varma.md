@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India interview series - Vasudev Varma, Professor and Dean (Research & Development), Indian Institute of Information Technology-Hyderabad (IIIT-H), India"
-excerpt: "Vasudeva Varma is a professor and the Dean (Research & Development) at IIIT Hyderabad, India. He obtained his Ph.D from the Department of Computer and Information Sciences, University of Hyderabad in 1996. His research interests are in the broad areas of Information Retrieval, Extraction and Access. More specifically: social media analysis, cross language information access, summarization and semantic search. 
+excerpt: "Vasudeva Varma is a professor and the Dean (Research & Development) at IIIT Hyderabad, India. He obtained his PhD from the Department of Computer and Information Sciences, University of Hyderabad in 1996. His research interests are in the broad areas of Information Retrieval, Extraction and Access. More specifically: social media analysis, cross language information access, summarization and semantic search. 
 "
 tags: [india, machine learning, data science, interview, vasudeva, IIIT-H, indian institute of information technology hyderabad]
 comments: true
@@ -10,7 +10,7 @@ tags_relevant: [interview]
 ---
 
 <img src="https://www.iiit.ac.in/~vv/Home_files/DSC_0320.jpg" align='left' style="margin-right:4px;width:30%">
-[Vasudeva Varma](https://www.iiit.ac.in/~vv/Home.html){:target="_blank"}is a professor and the Dean (Research & Development) at IIIT Hyderabad, India. He obtained his Ph.D from the Department of Computer and Information Sciences, University of Hyderabad in 1996. 
+[Vasudeva Varma](https://www.iiit.ac.in/~vv/Home.html){:target="_blank"} is a professor and the Dean (Research & Development) at IIIT Hyderabad, India. He obtained his Ph.D from the Department of Computer and Information Sciences, University of Hyderabad in 1996. 
 
 His research interests are in the broad areas of Information Retrieval, Extraction and Access. More specifically, social media analysis, cross language information access, summarization and semantic search. He also works in the areas of Cloud Computing and Reuse in software engineering.
 
