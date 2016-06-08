@@ -93,7 +93,8 @@ The idea was to provide everything that is required to improve their chances of 
 
   
 
-**Vasudeva:** As soon as you create a marketplace for technology, you also need to give the advantage to the companies that are licensing this technology. They should be able to stand easily on the shoulders of the work done by the researchers and be able to quickly add value to it, which is what we focus on. Another value that we wanted to add is that not many ecosystem players are aware of the impact of deep technology companies. So we need investors who can think in this direction and larger partner companies that could consume the products from the deep technology companies. So, an investor ecosystem, partner ecosystem and consumer ecosystem need to be developed, which is a challenge. We are working with players in the industry and in the investing market to promote and nurture these companies.
+**Vasudeva:** As soon as you create a marketplace for technology, you also need to give the advantage to the companies that are licensing this technology. <img src="http://s32.postimg.org/xjza82wxx/investor_ecosystem.jpg" align='right' style="margin-right:4px;width:30%">
+They should be able to stand easily on the shoulders of the work done by the researchers and be able to quickly add value to it, which is what we focus on. Another value that we wanted to add is that not many ecosystem players are aware of the impact of deep technology companies. So we need investors who can think in this direction and larger partner companies that could consume the products from the deep technology companies. So, an investor ecosystem, partner ecosystem and consumer ecosystem need to be developed, which is a challenge. We are working with players in the industry and in the investing market to promote and nurture these companies.
 
   
 
