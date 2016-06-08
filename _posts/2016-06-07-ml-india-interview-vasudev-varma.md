@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML-India interview series - Vasudev Varma, Professor and Dean (Research & Development), Indian Institute of Information Technology-Hyderabad (IIIT-H), India"
+title: "ML-India interview series - Vasudev Varma, Professor and Dean (Research & Development), International Institute of Information Technology-Hyderabad (IIIT-H), India"
 excerpt: "Vasudeva Varma is a professor and the Dean (Research & Development) at IIIT Hyderabad, India. He obtained his PhD from the Department of Computer and Information Sciences, University of Hyderabad in 1996. His research interests are in the broad areas of Information Retrieval, Extraction and Access. More specifically: social media analysis, cross language information access, summarization and semantic search. 
 "
 tags: [india, machine learning, data science, interview, vasudeva, IIIT-H, indian institute of information technology hyderabad]
@@ -15,7 +15,7 @@ tags_relevant: [interview]
 His research interests are in the broad areas of Information Retrieval, Extraction and Access. More specifically, social media analysis, cross language information access, summarization and semantic search. He also works in the areas of Cloud Computing and Reuse in software engineering.
 
 
-<br><br>
+<br>
 Vasudeva on ..
 
  - <a href="#work_exp">His past work experience.</a>
@@ -62,7 +62,7 @@ Vasudeva on ..
 **ML India:** Could you talk about the inception and evolution of SETU Software Systems and what are the various problem statements being tackled under it?
 
   
-
+<img src="http://s32.postimg.org/42dtd48n9/veooz.jpg" align='right' style="margin-right:4px;width:30%">
 **Vasudeva:** [SETU (now Veooz)](https://www.veooz.com/){:target="_blank"} started in a very interesting manner. My first PhD student, Dr. Prasad Pingali, was working on the Indian language retrieval problem. We wanted to execute this on a large scale from the get go. We developed a crawler that crawled through all Indian language content around 2003-2004, a period when platforms like [Hadoop](http://hadoop.apache.org/){:target="_blank"} and [Nutch](http://nutch.apache.org/){:target="_blank"} were not very popular. We were essentially crawling all Indian language content possible all across the world. Be it the Indian scripts like Devanagri or content written in Romanised scripts. There are lots of variations in the way that Indian languages exist and are used, and solving those problems was very hard. We used some of the popular techniques that processed speech into text to solve these problems and published our [work](http://web2py.iiit.ac.in/research_centres/publications/view_publication/inproceedings/1270){:target="_blank"} in conferences like [WWW](http://www2016.ca/){:target="_blank"}.When we were demonstrating this particular technology in our annual R&D showcase, Rediff’s CTO caught a look at this and said that this was gonna be big since it was giving beautiful results when tested on random queries. He immediately offered the licence and resources for its development and we happened to start SETU at that point in time. From here on, we quickly went on to create commercialized enterprise solutions for all Indian language content and also most of the world language content which share similar characteristics of Indian languages. We have built search engines for roughly 200 languages completely based on statistical methods and machine learning.
 
   
@@ -80,7 +80,7 @@ There is a continuation to this competition called [TAC](http://www.nist.gov/tac
 **ML India:** Could you talk about the genesis of [IIIT-H Foundation](http://iiith.org/){:target="_blank"} and how it got executed into something that we see today? And, also about one of the initiative [Aavishkar](http://iiith.org/accelerator.html){:target="_blank"}, which incubates ML in core technology based start-ups?
 
   
-
+<img src="http://s32.postimg.org/vyph39lfp/iiithf.jpg" align='left' style="margin-right:4px;width:30%">
 **Vasudeva:** When IIIT-H started in 1998, one of the guiding principles that were set was that it was supposed to function and act like Stanford to Silicon Valley and MIT to the Boston area. Essentially, it was supposed to work with the entrepreneurial ecosystem and the industry very closely.
 
 We started IIIT-H Foundation as an incubator alone initially. We started the [Centre for Innovation and Entrepreneurship (CIE)](https://www.iiit.ac.in/research/centres/){:target="_blank"} in 2008 and SETU was the first company to be incubated there. IIIT-H has been very strong in the research environment. We nurtured many companies, one was on speech, one on computer vision and some on text analysis. After 2-3 years we were around 15 companies and we made a major call to provide this environment to people who really wanted to set up their companies. That is where we literally grew and by 2014 we were around 72 companies, which made IITH Foundation, the largest academic incubator in the country. It worked really well and created a dynamic and vibrant environment in the campus. It was at this time when the government saw this and T-Hub was started with IIIT-H, ISB and NALSAR, and many of our companies were transferred to T-Hub.
