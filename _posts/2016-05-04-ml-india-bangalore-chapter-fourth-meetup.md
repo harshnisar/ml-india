@@ -15,7 +15,7 @@ The discussion revolved around basics of [Deep Learning](https://en.wikipedia.or
 
 The slide deck presented by Arijit can be found [here](https://drive.google.com/folderview?id=0B5e-wnFrLgTETktvdERDdlNtWEk&usp=sharing).
 
-The response and feedback from the participants was very encouraging! They had around 25 people participating in the meetup this time. The participants were very active and some of them who are using these concepts in their corporate projects had a lot of questions. They were very thankful for the organizer for taking these topics up and were keen on attending such meetup in the future.
+The response and feedback from the participants was very encouraging! They had around 25 people participating in the meetup this time. The participants were very active and some of them who are using these concepts in their corporate projects had a lot of questions. They were very thankful for the organizer for taking these topics up and were keen on attending such meetups in the future.
 
 We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
 
@@ -25,6 +25,7 @@ We’ll keep up with having such engaging meetups on ML, and having researchers 
     <a href="/images/IMG_20160528_131612.jpg"><img src="/images/IMG_20160528_131612.jpg"></a>
     <figcaption></figcaption>
 </figure>
+
 
 
 Click [here](http://www.meetup.com/Machine-Learning-India-Bangalore/){:target="_blank"} to join the group.
