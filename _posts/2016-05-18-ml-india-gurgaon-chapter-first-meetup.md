@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML-India: Gurgaon chapter: First Meetup"
+title: "ML-India: Gurgaon chapter | First Meetup"
 excerpt: "ML-India is pleased to inform that the Gurgaon chapter held its first meetup last Saturday (14 May). The meetup involved introduction to the machine learning pipeline and a practical hands-on session on data interpretation and analysis. It was followed by simple model building using Linear-Regression.
 "
 tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
