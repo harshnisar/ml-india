@@ -9,6 +9,7 @@ tags_relevant: [chapter, meetup, bangalore]
 
 comments: true
 ---
+<br>
 ML-India is pleased to inform that the fourth ML-India meetup in its Bangalore chapter was held on 28 May 2016.
 
 The discussion revolved around basics of [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)s, [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network)s and [Multimodal Deep Learning](http://ai.stanford.edu/~ang/papers/icml11-MultimodalDeepLearning.pdf). They had a speaker - [Arijit Biswas](https://in.linkedin.com/in/arijit-biswas-46690236), research scientist at Xerox Research Centre India (XRCI). He gave a very comprehensive talk on the motivation behind Deep Learning. He took them through the basics of Neural Network and how does it work. Then they dived into Convolution Neural Network (CNN) which he suggested is focused mainly towards image recognition. They also discussed a case study on that. For video processing, where sequencing is important, he recommended the application of Recurrent Neural Networks (RNN) and explained how [LSTM (Long Short Term Memory)](https://en.wikipedia.org/wiki/Long_short-term_memory) networks work. Finally, he presented one of things he is currently working on - Multimodal Deep Learning at Xerox.
