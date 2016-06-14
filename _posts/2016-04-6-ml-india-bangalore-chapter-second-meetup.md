@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML-India: Bangalore chapter: Second Meetup"
+title: "ML-India: Bangalore chapter | Second Meetup"
 excerpt: "ML-India is pleased to inform that the second machine learning meetup in its Bangalore chapter was held last Saturday (2nd April). The meetup involved discussion on Borde and Kwik algorithms as well as Kaggle problems.
 "
 tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
