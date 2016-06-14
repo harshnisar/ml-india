@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML-India: Bangalore chapter: Fourth Meetup"
+title: "ML-India: Bangalore chapter | Fourth Meetup"
 excerpt: "ML-India is pleased to inform that the fourth machine learning meetup in its Bangalore chapter was on 28th May. The discussion revolved around basics of Deep Learning, CNNs, RNNs and Multimodal Deep Learning.
 "
 tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
