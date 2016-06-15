@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML-India interview series - Dr. Vasudev Varma, Professor and Dean (Research & Development), International Institute of Information Technology-Hyderabad (IIIT-H), India"
+title: "ML-India interview series - Dr. Vasudeva Varma, Professor and Dean (Research & Development), International Institute of Information Technology-Hyderabad (IIIT-H), India"
 excerpt: "Dr. Vasudeva Varma is a professor and the Dean (Research & Development) at IIIT Hyderabad, India. He obtained his PhD from the Department of Computer and Information Sciences, University of Hyderabad in 1996. His research interests are in the broad areas of Information Retrieval, Extraction and Access. More specifically: social media analysis, cross language information access, summarization and semantic search. 
 "
 tags: [india, machine learning, data science, interview, vasudeva, IIIT-H, indian institute of information technology hyderabad]

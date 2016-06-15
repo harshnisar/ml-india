@@ -98,6 +98,11 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-third-meetup/" target="blank">here</a>.
       </li>
+      <li style="margin-left:15px;">28th May, 2016. Discussion on the basics of Deep Learning and Neural Networks.
+      
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-fourth-meetup/" target="blank">here</a>.
+      </li>
 </ol>
 <hr>
 </div>
