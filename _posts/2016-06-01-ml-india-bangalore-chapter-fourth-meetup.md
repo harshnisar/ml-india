@@ -32,3 +32,4 @@ We’ll keep up with having such engaging meetups on ML, and having researchers 
 Click [here](http://www.meetup.com/Machine-Learning-India-Bangalore/){:target="_blank"} to join the group.
 
 If you wish to start a chapter of ML-India in your city, we would be more than happy to help you out and get it started. <a href="mailto:varun@aspiringminds.com" target="_top">Write us a mail</a>!
+ 
