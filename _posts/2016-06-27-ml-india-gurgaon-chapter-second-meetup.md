@@ -22,13 +22,13 @@ Some topics of discussion were:
 - Discussion on personalization vs biases - [Exploration
 vs Exploitation](https://www.researchgate.net/post/What_is_the_difference_between_exploration_vs_exploitation_intensification_vs_diversification_and_global_search_vs_local_search).
 - Different features that are utilized by search engines like Google.
-- Little digression toward [deep learning](https://en.wikipedia.org/wiki/Deep_learning); its pros
+- Little digression toward [deep learning](https://en.wikipedia.org/wiki/Deep_learning), its pros
 and cons and its hype.
-- Contextual modelling in conversation bots - memory based models
-- Search tasks: focused, multi-tasking, super-tasking users
-- [Non-parametric Bayesian models](http://mlg.eng.cam.ac.uk/zoubin/talks/uai05tutorial-b.pdf) and Chinese restaurant
+- Contextual modelling in conversation bots - memory based models.
+- Search tasks: focused, multi-tasking, super-tasking users.
+- [Non-parametric Bayesian models](http://mlg.eng.cam.ac.uk/zoubin/talks/uai05tutorial-b.pdf) and Chinese restaurant.
 
-After the talk, some small group QA sessions ensued in which people talked about their personal doubts and experiences in machine learning. There was a debate going around on whether Python is appropriate for production related big data systems. One of the participants proposed that Scala does a way better job for production-related things while Python should be used for rapid prototyping and experimentation. 
+After the talk, some small group Q/A sessions ensued in which people talked about their personal doubts and experiences in machine learning. There was a debate going around on whether Python is appropriate for production related big data systems. One of the participants proposed that Scala does a way better job for production-related things while Python should be used for rapid prototyping and experimentation. 
 
 Following this, they had a small discussion on how to improve these meet-ups and carry the initiative forward. Some important suggestions that came up were:
 
