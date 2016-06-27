@@ -41,6 +41,7 @@ Overall, the meet-up was super successful with a significant turnout of roughly 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6wMnQk-SOp0" frameborder="0" allowfullscreen></iframe>
 
+
 We really look forward to having such engaging and interesting meetups, and having researchers and practitioners involved in ML to discuss their work and insights. 
 
 <figure class="half">
