@@ -15,7 +15,6 @@ ML India is delighted to inform that the second meet-up in its Gurgaon chapter w
 They had a guest speaker - [Rishabh Mehrotra](http://www.rishabhmehrotra.com/), PhD student from University College, London. Rishabh has a hands-on experience of working with some of the leading researchers on 'Proactive Search and Digital Assistants'.
 His talk on the subject was very impressive and enlightening. He was able totune with the audience and focussed on the big picture ideas and key takeaways. Everyone found his talk to be very useful.
 
- 
 
 Some topics of discussion were:
 
@@ -40,22 +39,21 @@ Following this, they had a small discussion on how to improve these meet-ups and
 
 Overall, the meet-up was super successful with a significant turnout of roughly 35 participants. The crowd was very diverse and enthusiastic. They had 5-6 undergraduate students, 2-3 graduates and 2 in their PhDs and one professor. One participant was from a firm working to materialize new hardware optimized for machine learning algorithms. Another participant was from an HR consultancy firm looking forward to using machine learning to select better candidates, something that [Aspiring Minds](http://research.aspiringminds.com/) works on.
 
-Click [here](https://youtu.be/6wMnQk-SOp0){:target="_blank"} to watch the meetup video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6wMnQk-SOp0" frameborder="0" allowfullscreen></iframe>
 
 We really look forward to having such engaging and interesting meetups, and having researchers and practitioners involved in ML to discuss their work and insights. 
 
 <figure class="half">
-    <a href="/images/IMG_20160528_130927.jpg"><img src="/images/IMG_20160528_130927.jpg"></a>
-    <a href="/images/IMG_20160528_131612.jpg"><img src="/images/IMG_20160528_131612.jpg"></a>
+    <a href="/images/DSC_0006.jpg"><img src="/images/DSC_0006.jpg"></a>
+    <a href="/images/DSC_0008.jpg"><img src="/images/DSC_0008.jpg"></a>
     <figcaption></figcaption>
 </figure>
 <figure class="half">
-    <a href="/images/IMG_20160528_130927.jpg"><img src="/images/IMG_20160528_130927.jpg"></a>
-    <a href="/images/IMG_20160528_131612.jpg"><img src="/images/IMG_20160528_131612.jpg"></a>
+    <a href="/images/DSC_0013.jpg"><img src="/images/DSC_0013.jpg"></a>
+    <a href="/images/DSC_0019.jpg"><img src="/images/DSC_0019.jpg"></a>
     <figcaption></figcaption>
 </figure>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6wMnQk-SOp0" frameborder="0" allowfullscreen></iframe>
 
 
 Click [here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
