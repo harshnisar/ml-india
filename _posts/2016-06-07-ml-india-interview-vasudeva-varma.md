@@ -106,7 +106,7 @@ IIIT-H Foundation’s goal is to provide a technology marketplace and that the r
 
 **ML India:** How can one apply to these incubation programs? 
 
-**Vasudeva:** We believe we are a very agile organisation, and most of the things require an email to be sent to the addresses mentioned on our[website](http://iiith.org/){:target="_blank"}. They can also look at our research partnerships. If these sources are unresponsive, I’d share my own email for relevant queries.
+**Vasudeva:** We believe we are a very agile organisation, and most of the things require an email to be sent to the addresses mentioned on our [website](http://iiith.org/){:target="_blank"}. They can also look at our research partnerships. If these sources are unresponsive, I’d share my own email for relevant queries.
 
  <a name="ml_problems"></a>  
 
