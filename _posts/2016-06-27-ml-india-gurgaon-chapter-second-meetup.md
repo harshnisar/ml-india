@@ -13,8 +13,7 @@ comments: true
 ML India is delighted to inform that the second meet-up in its Gurgaon chapter was held last Saturday (25th June 2016). 
 
 They had a guest speaker - [Rishabh Mehrotra](http://www.rishabhmehrotra.com/), PhD student from University College, London. Rishabh has a hands-on experience of working with some of the leading researchers on 'Proactive Search and Digital Assistants'.
-His talk on the subject was very impressive and enlightening. He was able totune with the audience and focussed on the big picture ideas and key takeaways. Everyone found his talk to be very useful.
-
+His talk on the subject was very impressive and enlightening. He was able to tune with the audience and focused on the big picture ideas and key takeaways. Everyone found his talk to be very useful.
 
 Some topics of discussion were:
 
@@ -37,7 +36,7 @@ Following this, they had a small discussion on how to improve these meet-ups and
 - Meet-ups can be made more immersive by steering the discussions into a more technical direction by focusing on specific topics and discussing research papers.
 - Once the structure is more organised and established, splitting the meet-up into two groups, one for beginners and another for more technical people, can be considered.
 
-Overall, the meet-up was super successful with a significant turnout of roughly 35 participants. The crowd was very diverse and enthusiastic. They had 5-6 undergraduate students, 2-3 graduates and 2 in their PhDs and one professor. One participant was from a firm working to materialize new hardware optimized for machine learning algorithms. Another participant was from an HR consultancy firm looking forward to using machine learning to select better candidates, something that [Aspiring Minds](http://research.aspiringminds.com/) works on.
+Overall, the meet-up was super successful with a significant turnout of roughly 35 participants. The crowd was very diverse and enthusiastic. They had 5-6 undergraduate students, 2-3 graduates, two in their PhDs and one professor. One participant was from a firm working to materialize new hardware optimized for machine learning algorithms. Another participant was from an HR consultancy firm looking forward to using machine learning to select better candidates, something that [Aspiring Minds](http://research.aspiringminds.com/) works on.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6wMnQk-SOp0" frameborder="0" allowfullscreen></iframe>
