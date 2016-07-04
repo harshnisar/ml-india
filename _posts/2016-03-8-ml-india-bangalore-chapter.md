@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "ML-India: Bangalore chapter"
-excerpt: "We are pleased to announce that as an initiative ​of [ML-India](http://ml-india.org/), we have started it's [Bangalore chapter](http://www.meetup.com/Machine-Learning-India-Bangalore/). The aim is to hold frequent meetups where machine learning enthusiasts can meet and discuss the latest in the field. A big shout out to Sritualsi Edpugnati who is leading this initiative in Bangalore.
+excerpt: "We are pleased to announce that as an initiative ​of ML-India, we have started it's Bangalore chapter. The aim is to hold frequent meetups where machine learning enthusiasts can meet and discuss the latest in the field. A big shout out to Sritualsi Edpugnati who is leading this initiative in Bangalore.
 "
-tags: [india, machine learning, data science, bangalore chapter, ML-India]
+tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
+
+tags_relevant: [chapter, meetup, bangalore]
+
 comments: true
 ---
 

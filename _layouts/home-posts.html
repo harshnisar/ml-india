@@ -5,9 +5,16 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+<meta name="google-site-verification" content="IAlemopAlQIxptnE5TySSeasWkx333CyAsLh7ZB9YAc" />
+
+<style>
+#index article p{
+  font-size: 1rem !important;
+}
+</style>
 </head>
 
-<body class="post-index">
+<body class="home">
 
 {% include _browser-upgrade.html %}
 
@@ -33,7 +40,8 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h1>{{ page.title }}</h1>
+
+<!--<h1>{{ page.title }}</h1>-->
     {% for post in site.posts %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
@@ -49,10 +57,11 @@
           <h2 class="link-post"><a href="{{ post.link }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
           <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+          <p>{{ post.excerpt | truncate: 360 }}</p>
         {% endif %}
       </article>
-    {% endfor %}
+    {% endfor %}   
+ 
   </div><!-- /#index -->
 </div><!-- /#main -->
 

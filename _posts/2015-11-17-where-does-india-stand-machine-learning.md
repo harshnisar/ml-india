@@ -4,6 +4,8 @@ title: "As machines become intelligent, where does India stand?"
 excerpt: "An essay on the growth of machine learning and what does it mean for India"
 tags: [india, machine learning, data science]
 comments: true
+
+tags_relevant: [conferences, india]
 ---
 
 _India lags…Indian academia does less machine learning papers than a single
