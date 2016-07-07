@@ -7,14 +7,16 @@ tags: [india, machine learning, data science, KDD, 2016]
 comments: true
 tags_relevant: [conferences, india]
 ---
+
 The 22nd [ACM SIGKDD 2016](http://www.kdd.org/kdd2016/) will be held in San Francisco, California from August 13-17, 2016.
 
 KDD has come out with its [list](http://www.kdd.org/kdd2016/program/accepted-papers) of accepted papers for 2016.
 
-<figure>
+<figure><center>
     <a href="/images/Compared other country graph.jpg"><img src="/images/Compared other country graph.jpg"></a>
     
     <figcaption>Comparison of top contributors at KDD 2016 by number of paper accepts</figcaption>
+    </center>
 </figure>
 
 Clearly, US has been the top research contributor for the past two years, with the highest number of accepts, though a tad less than 2015. China has a decent increase in its accepts from last year, whereas India and UK still stand on similar stats as compared to 2015.
@@ -75,7 +77,7 @@ Clearly, US has been the top research contributor for the past two years, with t
 </tr>
 </tbody>
 </table>
-<table><caption><center><b>Table 2: Contributions from corporates and institutions in 2016 and 2015</b></center></caption>
+<table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 2: Contributions from corporates and institutions in 2016 and 2015</b></center></caption>
 <tbody>
 <tr bgcolor="#85C2A3">
 <td><center><strong>Year</strong></center></td>
@@ -97,7 +99,7 @@ Clearly, US has been the top research contributor for the past two years, with t
 </tr>
 </tbody>
 </table>
-<table border="1"><caption><center><b>Table 3: Indian contributions at KDD 2016</b></center></caption>
+<table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 3: Indian contributions at KDD 2016</b></center></caption>
 <tbody>
 <tr bgcolor="#85C2A3">
 <td><b>S.No</b></td>
