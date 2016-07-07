@@ -110,28 +110,28 @@ Clearly, US has been the top research contributor for the past two years, with t
 <tr>
 <td>1.</td>
 <td><a href="http://www.kdd.org/kdd2016/subtopic/view/privacy-preserving-class-ratio-estimation"><span style="font-weight: 400;">Iyer, A., Nath,S., Sarawagi,S.</span></a></td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/privacy-preserving-class-ratio-estimation"><span style="font-weight: 400;">Privacy-preserving Class Ratio Estimation</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/privacy-preserving-class-ratio-estimation"><span style="font-weight: 400;"><b>Privacy-preserving Class Ratio Estimation</b></span></a></td>
 <td><center>IIT Bombay</center></td>
 </tr>
 <tr>
 <td>2.</td>
 <td><a href="http://www.kdd.org/kdd2016/subtopic/view/structural-neighborhood-based-classification-of-nodes-in-a-network"><span style="font-weight: 400;">Nandanwar,S.,
 Narasimha Murty, M.</span></a></td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/structural-neighborhood-based-classification-of-nodes-in-a-network"><span style="font-weight: 400;">Structural Neighborhood based Classification of Nodes in a Network</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/structural-neighborhood-based-classification-of-nodes-in-a-network"><span style="font-weight: 400;"><b>Structural Neighborhood based Classification of Nodes in a Network</b></span></a></td>
 <td><center>IISc Bangalore</center></td>
 </tr>
 <tr>
 <td>3.</td>
 <td><a href="http://www.kdd.org/kdd2016/subtopic/view/extreme-multi-label-loss-functions-for-recommendation-tagging-ranking-other"><span style="font-weight: 400;">Jain,H., Prabhu, Y.,
 Varma, M.</span></a></td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/extreme-multi-label-loss-functions-for-recommendation-tagging-ranking-other"><span style="font-weight: 400;">Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking &amp; Other Missing Label Applic</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/extreme-multi-label-loss-functions-for-recommendation-tagging-ranking-other"><span style="font-weight: 400;"><b>Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking &amp; Other Missing Label Applications</b></span></a></td>
 <td><center>IIT Delhi</center></td>
 </tr>
 <tr>
 <td>4.</td>
 <td><a href="http://www.kdd.org/kdd2016/subtopic/view/mantra-a-scalable-approach-to-mining-temporally-anomalous-sub-trajectories"><span style="font-weight: 400;">Banerjee, P., Yawalkar, P.,
 Ranu, S.</span></a></td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/mantra-a-scalable-approach-to-mining-temporally-anomalous-sub-trajectories"><span style="font-weight: 400;">MANTRA: A Scalable Approach to Mining Temporally Anomalous Sub-trajectories</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/mantra-a-scalable-approach-to-mining-temporally-anomalous-sub-trajectories"><span style="font-weight: 400;"><b>MANTRA: A Scalable Approach to Mining Temporally Anomalous Sub-trajectories</b></span></a></td>
 <td><center>IIT Madras, UBC</center></td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ Ranu, S.</span></a></td>
 <td><a href="http://www.kdd.org/kdd2016/subtopic/view/stochastic-optimization-techniques-for-quantification-performance-measures"><span style="font-weight: 400;">Narasimhan, H.,
 Li, S.,
 Kar, P., Chawla, S., Sebastiani, F.</span></a></td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/stochastic-optimization-techniques-for-quantification-performance-measures"><span style="font-weight: 400;">Stochastic Optimization Techniques for Quantification Performance Measures</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/stochastic-optimization-techniques-for-quantification-performance-measures"><span style="font-weight: 400;"><b>Stochastic Optimization Techniques for Quantification Performance Measures</b></span></a></td>
 <td><span style="font-weight: 400;">IIT Kanpur, Harvard University,  University of Insubria, HBKU</span></td>
 </tr>
 <tr>
@@ -148,22 +148,21 @@ Kar, P., Chawla, S., Sebastiani, F.</span></a></td>
 Mandal, A.,
 Atreja, S., Dasgupta, G.,
 Bhattacharya, S.,</span></a></td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/anomaly-detection-using-program-control-flow-graph-mining-from-execution-lo"><span style="font-weight: 400;">Anomaly Detection Using Program Control Flow Graph Mining from Execution Logs</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/anomaly-detection-using-program-control-flow-graph-mining-from-execution-lo"><span style="font-weight: 400;"><b>Anomaly Detection Using Program Control Flow Graph Mining from Execution Logs</b></span></a></td>
 <td><center>IBM Research India, IIT Kanpur</center></td>
 </tr>
 <tr>
 <td>7.</td>
 <td><a href="http://www.kdd.org/kdd2016/subtopic/view/gemello-creating-a-detailed-energy-breakdown-from-just-the-monthly-electric"><span style="font-weight: 400;">Batra, N.,
 Singh, A., Whitehouse, K</span></a></td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/gemello-creating-a-detailed-energy-breakdown-from-just-the-monthly-electric"><span style="font-weight: 400;">Gemello: Creating a Detailed Energy Breakdown from just the Monthly Electricity Bill</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/gemello-creating-a-detailed-energy-breakdown-from-just-the-monthly-electric"><span style="font-weight: 400;"><b>Gemello: Creating a Detailed Energy Breakdown from just the Monthly Electricity Bill</b></span></a></td>
 <td><center>IIIT Delhi, Univ. of Virginia</center></td>
 </tr>
 <tr>
 <td>8.</td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/question-independent-grading-using-machine-learning-the-case-of-computer-pr"><span style="font-weight: 400;">Varun Aggarwal,
-Gursimran Singh, Shashank Srikant</span></a></td>
-<td><a href="http://www.kdd.org/kdd2016/subtopic/view/question-independent-grading-using-machine-learning-the-case-of-computer-pr"><span style="font-weight: 400;">Question Independent Grading using Machine Learning:
-The Case of Computer Program Grading</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/question-independent-grading-using-machine-learning-the-case-of-computer-pr"><span style="font-weight: 400;">Varun Aggarwal, Gursimran Singh, Shashank Srikant</span></a></td>
+<td><a href="http://www.kdd.org/kdd2016/subtopic/view/question-independent-grading-using-machine-learning-the-case-of-computer-pr"><span style="font-weight: 400;"><b>Question Independent Grading using Machine Learning:
+The Case of Computer Program Grading</b></span></a></td>
 <td><center>Aspiring Minds</center></td>
 </tr>
 </tbody>
