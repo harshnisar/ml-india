@@ -11,6 +11,16 @@ tags_relevant: [interview]
 <img src="/images/new.jpg" align='left' style="margin-right:4px;width:30%">
 [Tanmoy Chakraborty](https://sites.google.com/site/tanmoychakra88/){:target="_blank"}
  is a postdoctoral researcher at University of Maryland Institute for Advanced Computer Studies. He obtained his PhD in the area of data mining and social network analysis from Indian Institute of Technology, Kharagpur (IIT-Kgp). His research interests are in the broad areas of data mining, complex networks, social media, natural language processing, cybersecurity and machine learning. 
+ 
+ <br>
+Vasudeva on ..
+
+ - <a href="#work_exp">Community analysis</a>
+ - <a href="#ml_veooz">His yber security projects</a>
+ - <a href="#iiith_foundation">Research environments in India and Maryland </a>
+
+ 
+<br>
 
 **ML India**: We’d like to start off by understanding your background and how you got initiated into the field of Machine Learning?
 
@@ -18,7 +28,7 @@ tags_relevant: [interview]
 
   
   
-
+<a name="work_exp"></a>
 **ML India:** Can you elaborate a bit about your PhD project, the problem statement and the state of the art?
 
   
@@ -26,12 +36,12 @@ tags_relevant: [interview]
 **Tanmoy:** I was focusing on two aspects during the project. One was community analysis in large networks. It can be related to clusters in data mining. The highly interconnected nodes in a network are called as clusters or communities. For instance, if you have a facebook network where nodes are the users and links are the friend relations, the task was to find dense groups  from the network. ‘Community’ is not a very well defined term. There is no threshold to call a group of nodes a community. What’s interesting is that all the existing algorithms that are trying to identify communities are pretty much dependent on vertex ordering. For the same network, starting with a vertex ‘A’, for instance, will result in a completely different community structure than the one which is defined if we start at some other vertex ‘B’. So we started working on why these algorithms are dependent on vertex ordering. We also started working on finding invariant stable community structures which are independent of any vertex ordering and algorithms. We name these groups as “constant communities”. So we proposed a new definition to communities and also defined a metric called ‘[Permanence](http://dl.acm.org/citation.cfm?id=2623707){:target="_blank"}’. This opposed the ‘Modularity’ metric’s notion that nodes should be densely connected within a network and sparsely connected across networks. Permanence identified communities by measuring the distribution of external neighbors in other networks. An uneven distribution would mean more pull from one network and hence higher chances of migration. This part of the research was conducted in collaboration with [Prof. Sanjukta Bhowmick](http://faculty.ist.unomaha.edu/sbhowmick/Site/index.html){:target="_blank"}, University of Nebraska, Omaha.The other part I was focusing on is another type of complex network called the Citation Network. We considered scientific articles and papers are nodes/vertices of these networks and links are the citations. This is a directed network which generates a link to other referred papers in a particular paper. Since the data set wasn’t freely available, we crawled the publication dataset from Microsoft Academic Search and collected around 80 million papers. So we analyzed and studied the evolution and [paradigm shifts](http://dl.acm.org/citation.cfm?id=2492536){:target="_blank"} in the field of computer science. We wanted to quantify the inter-disciplinarity of the research since all these fields are interrelated and we wanted to measure this parameter. We then tried to model the evolution of a new field by cross hybridization of different other fields. This is some of the work that I have done earlier.:
 
 So, we also built the evolutionary landscape which suggests the evolution of different topics over time. It shows the connection proximity within the topics and then it also shows the relative importance of a field during a time period. We tried to visualize the growing topics in the field of computer science over the years (as shown in the fig. below). For reference, PL refers to programming language, DB refers to database, SE to software engineering and so on. So, here we can see that PL has been a prominent topic over the years but the distance between PL and Algo has increased over the last two decades from which we can infer that over the years Algo has also becomes so much dense in itself that it has evolved as a separate and a larger topic. I did a lot of other work as well around citation network which you can visit on my [dissertation ppt](http://cse.iitkgp.ac.in/~tanmoyc/phd_slide.pdf){:target="_blank"}. In the other work, by the help of the existing information about different papers and their citations over the years we can [predict the citations](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6970190){:target="_blank"}, after 5 years, for a newly published paper. Further we built a system to produce “[faceted recommendation](http://www.ferosa.org){:target="_blank"}” for scientific articles. My thesis got Xerox India Best Thesis Award, 2016. 
-
+<a href="#">[Top]</a>
   
   
   
   
-
+<a name="ml_veooz"></a>
 **ML-India:** What are the research problems that you’re working on at the University of Maryland?
 
 **Tanmoy:** Currently I am working in the [Laboratory of Computational Cultural Dynamics](http://www.umiacs.umd.edu/research/LCCD/){:target="_blank"} (CCD) under the supervision of [Prof. V.S. Subrahmanian](https://www.cs.umd.edu/~vs/){:target="_blank"}. He has a strong background in Artificial Intelligence and wanted to work around an intersection of Artificial intelligence and data mining. I am working in two security related projects. First is related to cyber security where I’m working on predicting malwares across countries and predicting the number of malware infected machines in the next year in India. We are also trying to understand the behavioral dynamics of malware entries..
@@ -47,7 +57,7 @@ In parallel, I’m also working on two data mining projects. First is the networ
 The second project is related to terrorist networks where we are analyzing terrorist behaviour of various terrorist groups. The most difficult part of this project is to collect all the data. There are 3-4 papers and some books which are available. My task is to design the prediction models to determine the “lethality” of such networks which determines how dangerous the network will be, say 1 year from now, so we can devise some sort of defensive strategies which can decentralize these activities.
 
   
-
+<a name="iiith_foundation"></a>
 **ML India:** As you’ve worked in Jadavpur University, then in IIT Kharagpur and now at University of Maryland, what is the difference in the ways that the labs are performing their research and what is the general research culture?
 
   
@@ -59,7 +69,7 @@ The second project is related to terrorist networks where we are analyzing terro
 **ML India:** What is your view on machine learning as a field of research and its growing popularity among students?
 
 **Tanmoy:** I’ve never thought of Machine Learning as a separate research subject. ML has always been an integral part of my research. It’s a tool which needs to be used in various areas of research. I, being a data mining researcher, try to diagnose big data and figure out various aspects out of it. When you have to label unlabelled data using some sort of labelled data, machine learning is necessary. So ML is a very integral part of my research.One of the fundamental parts of my research is the synthesis of features for ML. If you have a state of features, which are not very valuable, to represent an entity, we need ML to synthesize these features into latent usable features. This is called feature synthesis, which is what I am currently working on. I’m also working with semi supervised learning approach, which is really useful if you have labelled data as low as 1%.
-
+<a href="#">[Top]</a>
   
 
 **ML India:** How do you think can India’s participation in ML research be boosted in the global research sphere?
