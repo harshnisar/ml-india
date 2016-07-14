@@ -13,10 +13,10 @@ tags_relevant: [interview]
  is a postdoctoral researcher at University of Maryland Institute for Advanced Computer Studies. He obtained his PhD in the area of data mining and social network analysis from Indian Institute of Technology, Kharagpur (IIT-Kgp). His research interests are in the broad areas of data mining, complex networks, social media, natural language processing, cybersecurity and machine learning. 
  
  <br>
-Vasudeva on ..
+Tanmoy on ..
 
  - <a href="#work_exp">Community analysis</a>
- - <a href="#ml_veooz">His yber security projects</a>
+ - <a href="#ml_veooz">His cyber security projects</a>
  - <a href="#iiith_foundation">Research environments in India and Maryland </a>
 
  
