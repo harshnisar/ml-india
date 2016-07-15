@@ -79,4 +79,4 @@ The second project is related to terrorist networks where we are analyzing terro
 
 **Tanmoy:** There has been a significant growth on the Indian machine learning front over the past 5-6 years. I feel that the research needs to be more focused and that more emphasis should be put on defining the problem properly. This is very crucial in driving the research in the right direction. If you read papers from data mining guys at MIT, Stanford etc. you’ll notice that they are not coming up with any new techniques. They are crawling new data, they are proposing a very innovative problem out of the data. The methods and approach are not extra-ordinary but at the end, they get the paper published. So working on a quality problem definition is an extremely important factor in increasing the chances to showcase the research at top tier conferences and gaining wider recognition.
 
-**ML India:** It was great talking you, Vasudeva. Thank you for your time and words. All the very best to you from ML-India!
+**ML India:** It was great talking you, Tanmoy. Thank you for your time and words. All the very best to you from ML-India!
