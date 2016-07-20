@@ -63,7 +63,7 @@ We’ve also listed out some websites which provide open data on a variety of
 subjects. Curious researchers can download and fiddle with data from these sources
 and probably come up with some enticing problems that could be solved using
 data science and machine learning.  
-<ul>
+
 [https://www.data.gov/](https://www.data.gov/)
 
  [https://www.quandl.com/collections/india](https://www.quandl.com/collections/india)
@@ -156,7 +156,7 @@ data science and machine learning.
 
  [http://www.worldbank.org/404_response.htm](http://www.worldbank.org/404_response.htm)
 
-</ul>
+
 
 Apart from this, we have tested more than two million candidates in language,
 cognitive skills, personality and functional skills. We have various data sets
