@@ -64,98 +64,148 @@ subjects. Curious researchers can download and fiddle with data from these sourc
 and probably come up with some enticing problems that could be solved using
 data science and machine learning.  
 
-[https://www.data.gov/](https://www.data.gov/)
-
- [https://www.quandl.com/collections/india](https://www.quandl.com/collections/india)
-
- [https://data.gov.in/](https://data.gov.in/)
-
- [https://india.gov.in/](https://india.gov.in/)
-
- [http://www.archive.india.gov.in/spotlight/spotlight.php#tab=tab-1](http://www.archive.india.gov.in/spotlight/spotlight.php#tab=tab-1)
-
- [http://mospi.nic.in/Mospi_New/site/home.aspx](http://mospi.nic.in/Mospi_New/site/home.aspx)
-
- [http://www.surveyofindia.gov.in/](http://www.surveyofindia.gov.in/)
-
- [http://censusindia.gov.in/](http://censusindia.gov.in/)
-
- [http://www.tradingeconomics.com/india/indicators](http://www.tradingeconomics.com/india/indicators)
-
- [http://planningcommission.nic.in/](http://planningcommission.nic.in/)
-
- [http://www.mapsofindia.com/](http://www.mapsofindia.com/)
-
- [http://planningcommissionarchive.nic.in/](http://planningcommissionarchive.nic.in/)
-
- [http://bhuvan.nrsc.gov.in/bhuvan_links.php](http://bhuvan.nrsc.gov.in/bhuvan_links.php)
-
- [http://www.transparency.org/country#IND](http://www.transparency.org/country#IND)
-
- [http://data.worldbank.org/country/india](http://data.worldbank.org/country/india)
-
- [https://github.com/datameet/india-election-data](https://github.com/datameet/india-election-data)
-
- [https://github.com/datameet/maps](https://github.com/datameet/maps)
-
- [https://github.com/datameet/pincodes](https://github.com/datameet/pincodes)
-
- [http://openbangalore.org/](http://openbangalore.org/)
-
- [https://github.com/datameet/openpostbox](https://github.com/datameet/openpostbox)
-
- [https://github.com/datameet/Bihar-AC-Election-Report-Cards](https://github.com/datameet/Bihar-AC-Election-Report-Cards)
-
- [http://www.transparentchennai.com/database/](http://www.transparentchennai.com/database/)
-
- [https://data.uidai.gov.in/uiddatacatalog/dataCatalogHome.do](https://data.uidai.gov.in/uiddatacatalog/dataCatalogHome.do)
-
- [https://www.icegate.gov.in/DailyList/DL](https://www.icegate.gov.in/DailyList/DL)
-
- [https://github.com/datameet/twentyfourteen-child](https://github.com/datameet/twentyfourteen-child)
-
- [https://github.com/datameet/Pune_Municpal_Data](https://github.com/datameet/Pune_Municpal_Data)
-
- [https://github.com/datameet/Pune_wards](https://github.com/datameet/Pune_wards)
-
- [https://github.com/datameet/pune](https://github.com/datameet/pune)
-
- [https://github.com/datameet/openpostboxindia](https://github.com/datameet/openpostboxindia)
-
- [https://github.com/datameet/quest2](https://github.com/datameet/quest2)
-
- [https://github.com/datameet/cricket](https://github.com/datameet/cricket)
-
- [https://github.com/datameet/opendata.json](https://github.com/datameet/opendata.json)
-
- [https://github.com/datameet/logo](https://github.com/datameet/logo)
-
- [https://github.com/datameet/plenario](https://github.com/datameet/plenario)
-
- [https://github.com/datameet/datascience](https://github.com/datameet/datascience)
-
- [https://github.com/datameet/daksh](https://github.com/datameet/daksh)
-
- [https://rbi.org.in/](https://rbi.org.in/)
-
- [https://knoema.com/](https://knoema.com/)
-
- [https://wellcome.ac.uk/what-we-do/topics/data-sharing](https://wellcome.ac.uk/what-we-do/topics/data-sharing)
-
- [https://crcns.org/](https://crcns.org/)
-
- [http://www.fuse-data.com/data-markets/#datamarket](http://www.fuse-data.com/data-markets/#datamarket)
-
- [http://www.findthedata.com/](http://www.findthedata.com/)
-
- [https://factual.com/](https://factual.com/)
-
- [http://www.google.ca/publicdata/directory](http://www.google.ca/publicdata/directory)
-
- [http://opendata.arcgis.com/](http://opendata.arcgis.com/)
-
- [http://www.worldbank.org/404_response.htm](http://www.worldbank.org/404_response.htm)
-
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="502" /></colgroup>
+<tbody>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://www.data.gov/&quot;}"><a class="in-cell-link" href="https://www.data.gov/" target="_blank">https://www.data.gov/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://www.quandl.com/collections/india&quot;}"><a class="in-cell-link" href="https://www.quandl.com/collections/india" target="_blank">https://www.quandl.com/collections/india</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://data.gov.in/&quot;}"><a class="in-cell-link" href="https://data.gov.in/" target="_blank">https://data.gov.in/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://india.gov.in/&quot;}"><a class="in-cell-link" href="https://india.gov.in/" target="_blank">https://india.gov.in/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.archive.india.gov.in/spotlight/spotlight.php#tab=tab-1&quot;}"><a class="in-cell-link" href="http://www.archive.india.gov.in/spotlight/spotlight.php#tab=tab-1" target="_blank">http://www.archive.india.gov.in/spotlight/spotlight.php#tab=tab-1</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://mospi.nic.in/Mospi_New/site/home.aspx&quot;}"><a class="in-cell-link" href="http://mospi.nic.in/Mospi_New/site/home.aspx" target="_blank">http://mospi.nic.in/Mospi_New/site/home.aspx</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.surveyofindia.gov.in/&quot;}"><a class="in-cell-link" href="http://www.surveyofindia.gov.in/" target="_blank">http://www.surveyofindia.gov.in/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://censusindia.gov.in/&quot;}"><a class="in-cell-link" href="http://censusindia.gov.in/" target="_blank">http://censusindia.gov.in/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.tradingeconomics.com/india/indicators&quot;}"><a class="in-cell-link" href="http://www.tradingeconomics.com/india/indicators" target="_blank">http://www.tradingeconomics.com/india/indicators</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://planningcommission.nic.in/&quot;}"><a class="in-cell-link" href="http://planningcommission.nic.in/" target="_blank">http://planningcommission.nic.in/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.mapsofindia.com/&quot;}"><a class="in-cell-link" href="http://www.mapsofindia.com/" target="_blank">http://www.mapsofindia.com/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://planningcommissionarchive.nic.in/&quot;}"><a class="in-cell-link" href="http://planningcommissionarchive.nic.in/" target="_blank">http://planningcommissionarchive.nic.in/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://bhuvan.nrsc.gov.in/bhuvan_links.php&quot;}"><a class="in-cell-link" href="http://bhuvan.nrsc.gov.in/bhuvan_links.php" target="_blank">http://bhuvan.nrsc.gov.in/bhuvan_links.php</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.transparency.org/country#IND&quot;}"><a class="in-cell-link" href="http://www.transparency.org/country#IND" target="_blank">http://www.transparency.org/country#IND</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://data.worldbank.org/country/india&quot;}"><a class="in-cell-link" href="http://data.worldbank.org/country/india" target="_blank">http://data.worldbank.org/country/india</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/india-election-data&quot;}"><a class="in-cell-link" href="https://github.com/datameet/india-election-data" target="_blank">https://github.com/datameet/india-election-data</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/maps&quot;}"><a class="in-cell-link" href="https://github.com/datameet/maps" target="_blank">https://github.com/datameet/maps</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/pincodes&quot;}"><a class="in-cell-link" href="https://github.com/datameet/pincodes" target="_blank">https://github.com/datameet/pincodes</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://openbangalore.org/&quot;}"><a class="in-cell-link" href="http://openbangalore.org/" target="_blank">http://openbangalore.org/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/openpostbox&quot;}"><a class="in-cell-link" href="https://github.com/datameet/openpostbox" target="_blank">https://github.com/datameet/openpostbox</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/Bihar-AC-Election-Report-Cards&quot;}"><a class="in-cell-link" href="https://github.com/datameet/Bihar-AC-Election-Report-Cards" target="_blank">https://github.com/datameet/Bihar-AC-Election-Report-Cards</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.transparentchennai.com/database/&quot;}"><a class="in-cell-link" href="http://www.transparentchennai.com/database/" target="_blank">http://www.transparentchennai.com/database/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://data.uidai.gov.in/uiddatacatalog/dataCatalogHome.do&quot;}"><a class="in-cell-link" href="https://data.uidai.gov.in/uiddatacatalog/dataCatalogHome.do" target="_blank">https://data.uidai.gov.in/uiddatacatalog/dataCatalogHome.do</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://www.icegate.gov.in/DailyList/DL&quot;}"><a class="in-cell-link" href="https://www.icegate.gov.in/DailyList/DL" target="_blank">https://www.icegate.gov.in/DailyList/DL</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/twentyfourteen-child&quot;}"><a class="in-cell-link" href="https://github.com/datameet/twentyfourteen-child" target="_blank">https://github.com/datameet/twentyfourteen-child</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/Pune_Municpal_Data&quot;}"><a class="in-cell-link" href="https://github.com/datameet/Pune_Municpal_Data" target="_blank">https://github.com/datameet/Pune_Municpal_Data</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/Pune_wards&quot;}"><a class="in-cell-link" href="https://github.com/datameet/Pune_wards" target="_blank">https://github.com/datameet/Pune_wards</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/pune&quot;}"><a class="in-cell-link" href="https://github.com/datameet/pune" target="_blank">https://github.com/datameet/pune</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/openpostboxindia&quot;}"><a class="in-cell-link" href="https://github.com/datameet/openpostboxindia" target="_blank">https://github.com/datameet/openpostboxindia</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/quest2&quot;}"><a class="in-cell-link" href="https://github.com/datameet/quest2" target="_blank">https://github.com/datameet/quest2</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/cricket&quot;}"><a class="in-cell-link" href="https://github.com/datameet/cricket" target="_blank">https://github.com/datameet/cricket</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/opendata.json&quot;}"><a class="in-cell-link" href="https://github.com/datameet/opendata.json" target="_blank">https://github.com/datameet/opendata.json</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/logo&quot;}"><a class="in-cell-link" href="https://github.com/datameet/logo" target="_blank">https://github.com/datameet/logo</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/plenario&quot;}"><a class="in-cell-link" href="https://github.com/datameet/plenario" target="_blank">https://github.com/datameet/plenario</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/datascience&quot;}"><a class="in-cell-link" href="https://github.com/datameet/datascience" target="_blank">https://github.com/datameet/datascience</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/datameet/daksh&quot;}"><a class="in-cell-link" href="https://github.com/datameet/daksh" target="_blank">https://github.com/datameet/daksh</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://rbi.org.in/&quot;}"><a class="in-cell-link" href="https://rbi.org.in/" target="_blank">https://rbi.org.in/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://knoema.com/&quot;}"><a class="in-cell-link" href="https://knoema.com/" target="_blank">https://knoema.com/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://wellcome.ac.uk/what-we-do/topics/data-sharing&quot;}"><a class="in-cell-link" href="https://wellcome.ac.uk/what-we-do/topics/data-sharing" target="_blank">https://wellcome.ac.uk/what-we-do/topics/data-sharing</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://crcns.org/&quot;}"><a class="in-cell-link" href="https://crcns.org/" target="_blank">https://crcns.org/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.fuse-data.com/data-markets/#datamarket&quot;}"><a class="in-cell-link" href="http://www.fuse-data.com/data-markets/#datamarket" target="_blank">http://www.fuse-data.com/data-markets/#datamarket</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.findthedata.com/&quot;}"><a class="in-cell-link" href="http://www.findthedata.com/" target="_blank">http://www.findthedata.com/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://factual.com/&quot;}"><a class="in-cell-link" href="https://factual.com/" target="_blank">https://factual.com/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.google.ca/publicdata/directory&quot;}"><a class="in-cell-link" href="http://www.google.ca/publicdata/directory" target="_blank">http://www.google.ca/publicdata/directory</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://opendata.arcgis.com/&quot;}"><a class="in-cell-link" href="http://opendata.arcgis.com/" target="_blank">http://opendata.arcgis.com/</a></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;http://www.worldbank.org/404_response.htm&quot;}"><a class="in-cell-link" href="http://www.worldbank.org/404_response.htm" target="_blank">http://www.worldbank.org/404_response.htm</a></td>
+</tr>
+</tbody>
+</table>
 
 
 Apart from this, we have tested more than two million candidates in language,
