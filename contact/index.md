@@ -20,10 +20,10 @@ what influences salary and job titles in the labor market.
 
 Click [here](http://research.aspiringminds.com/wp-content/uploads/2016/05/datachallenge_cods2016.zip) to download the dataset.  
   
-Click [here]() to view Sahil Shekhar's Master's thesis at Harvard
+Click [here](http://research.aspiringminds.com/wp-content/uploads/2016/06/Shekhar_Putting-India-to-Work.pdf) to view Sahil Shekhar's Master's thesis at Harvard
 Kennedy School, which uses AMEO.
 
-Click [here]() to view the project report, that uses AMEO, by a
+Click [here](http://research.aspiringminds.com/wp-content/uploads/2016/06/TEAM-DS-Final_report.pdf) to view the project report, that uses AMEO, by a
 group of Machine Learning class’ students at NYU.
 
 **Data Science For Kids**   
