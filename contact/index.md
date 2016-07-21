@@ -8,7 +8,6 @@ excerpt: "Data resources"
 ---
 
 **Aspiring Minds’ Employability Outcomes 2015 (AMEO 2015)**  
-
 It is a unique dataset which contains engineering graduates’ employment
 outcomes (salaries, job titles and job locations) along with standardized
 assessment scores in three fundamental areas - cognitive skills, technical
@@ -27,7 +26,6 @@ Click [here](http://research.aspiringminds.com/wp-content/uploads/2016/06/TEAM-D
 group of Machine Learning class’ students at NYU.
 
 **Data Science For Kids**   
-
 We conduct machine learning workshop with kids where, as part of the exercise,
 they are supposed to rate random face cards on a scale of 1-5 according to
 their inclination to befriend the person on the card. These cards had
