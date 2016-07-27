@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "India's stand in KDD 2016"
+title: "India's stand in CVPR 2015"
 excerpt: "The International Conference on Computer Vision and Pattern Recognition is an annual conference on computer vision and pattern recognition. CVPR is the number one venue in Computer Vision and number seven in Engineering and Computer Science. It also has the highest h-index of any conference in any field, is the leading IEEE publications including journals, and it is ranked in the top 70 of all publications.
 
 "
