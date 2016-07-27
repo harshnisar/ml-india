@@ -98,11 +98,13 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-third-meetup/" target="blank">here</a>.
       </li>
+      <br>
       <li style="margin-left:15px;">28th May, 2016. Discussion on the basics of Deep Learning and Neural Networks.
       
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-fourth-meetup/" target="blank">here</a>.
       </li>
+      
 </ol>
 <hr>
 </div>
@@ -111,6 +113,11 @@ input:checked + label {
      <li style="margin-left:15px;">14th May, 2016. Introduction to machine learning pipeline and its fundamentals. A hands-on session on data interpretation and analysis followed by simple model building using Linear-Regression.
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-first-meetup/" target="blank">here</a>.
+      </li>
+      <br>
+      <li style="margin-left:15px;">25th June, 2016. Discusstion on proactive search and digital assistants.
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-second-meetup/" target="blank">here</a>.
       </li>
       <br>
 </ol>     
