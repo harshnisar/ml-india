@@ -15,28 +15,16 @@ outcomes (salaries, job titles and job locations) along with standardized
 assessment scores in three fundamental areas - cognitive skills, technical
 skills and personality.  
 
-Coupled with biodata information, AMEO 2015 provides an opportunity for
-a unique and comprehensive study of the entry level labor market. The data can
-be used not only to make an accurate salary predictor, but also to understand
-what influences salary and job titles in the labor market.
-
 Click [here](http://research.aspiringminds.com/wp-content/uploads/2016/05/datachallenge_cods2016.zip) to download the dataset.  
   
-Click [here](http://research.aspiringminds.com/wp-content/uploads/2016/06/Shekhar_Putting-India-to-Work.pdf) to view Sahil Shekhar's Master's thesis at Harvard
-Kennedy School, which uses AMEO.
-
-Click [here](http://research.aspiringminds.com/wp-content/uploads/2016/06/TEAM-DS-Final_report.pdf) to view the project report, that uses AMEO, by a
-group of Machine Learning class’ students at NYU.
-
 **2. Data Science For Kids**   
-We conduct machine learning workshop with kids where, as part of the exercise,
-they are supposed to rate random face cards on a scale of 1-5 according to
+
+
+A dataset containing kids' rating of random face cards on a scale of 1-5 according to
 their inclination to befriend the person on the card. These cards had
 distinguishing feature sets like old names & new names, gender and hobby
-type. To read more about the workshop and its experiences, click [here](http://www.datasciencekids.org/).   
-
-We collected this ratings data which you can use to design your own predictor
-and compare the results. To download the dataset, click [here](https://drive.google.com/folderview?id=0B5e-wnFrLgTEUm9jaDc2ODV5Z3M&usp=sharing).  
+type.
+To download the dataset, click [here](https://drive.google.com/folderview?id=0B5e-wnFrLgTEUm9jaDc2ODV5Z3M&usp=sharing).  
   
 **3. Programming Features API**  
 In our KDD 2014 [paper](http://research.aspiringminds.com/publications/), we describe a new grammar to extract meaningful features
