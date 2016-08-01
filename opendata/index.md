@@ -9,7 +9,9 @@ excerpt: "Data resources"
 
 ## Introduction
 We wish that data sets from India are readily available to practitioners across the world for research and development purposes. We have hosts some data sets below. Want us to host your open data set? Write to <a href='/contact'>us</a>!
+
 ---
+
 ## Open Data Sources
 
 
