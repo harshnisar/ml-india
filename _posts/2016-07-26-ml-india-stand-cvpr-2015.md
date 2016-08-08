@@ -9,7 +9,8 @@ comments: true
 tags_relevant: [conferences, india]
 ---
 
-CVPR 2015 was held in Boston from June 7-12, 2015.
+CVPR is the number one venue in Computer Vision and number seven in Engineering and Computer Science as ranked by [Google Scholar](https://en.wikipedia.org/wiki/Google_Scholar)'s [h-index](https://en.wikipedia.org/wiki/H-index) metric in 2015. It also has the highest h-index of any conference in any field, is the leading IEEE publication including journals, and it is ranked in the top 70 of all publications. CVPR 2015 was held in Boston from June 7-12, 2015. 
+
 <figure><center>
     <a href="/images/graph.jpg"><img src="/images/graph.jpg"></a>
     
