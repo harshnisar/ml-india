@@ -9,7 +9,7 @@ comments: true
 tags_relevant: [conferences, india]
 ---
 
-CVPR 2015 was held in Boston from June 7-12, 2015.
+The International Conference on Computer Vision and Pattern Recognition is an annual conference on computer vision and pattern recognition. CVPR 2015 was held in Boston from June 7-12, 2015.
 <figure><center>
     <a href="/images/graph.jpg"><img src="/images/graph.jpg"></a>
     
