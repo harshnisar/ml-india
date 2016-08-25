@@ -8,7 +8,7 @@ We continuously strive to foster innovation and growth in technology to help the
   		  
 ---
 
-<h1><small><center><b>Investors </b></center></small></h1><br><br>
+<h1><small><center><b>Investors </b></center></small></h1>
 
 ---
 
