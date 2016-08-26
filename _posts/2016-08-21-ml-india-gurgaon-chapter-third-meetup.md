@@ -10,17 +10,17 @@ tags_relevant: [chapter, meetup, gurgaon]
 comments: true
 ---
 <br>
-ML India is delighted to inform that the third meet-up in its Gurgaon chapter was held on 21st August 2016). 
+ML India is delighted to inform that the third meet-up in its Gurgaon chapter was held on 21st August 2016. 
 
 This time we had a guest speaker [Dr. Mayank Vatsa](https://www.iiitd.edu.in/~mayank/){:target="_blank"}, associate professor and AR Krishnaswamy Faculty Research Fellow at IIIT-Delhi. Mayank received his M.S. and Ph.D. degrees in computer science from [West Virginia University](http://www.wvu.edu/){:target="_blank"}, Morgantown, WV, USA, in 2005 and 2008, respectively. Mayank talked about some of the interesting projects that he and the members of his team are undertaking. Mayank walked the members through the projects making the learners understand as how to break down the problem and then approach it. How one should work on: from collecting the data to implementing and testing different models.
 
 It was a great talk as the students were able to relate to the work and ask multiple questions accordingly. In-between Mayank also explained many concepts of machine learning and the resources that could be helpful in understanding these topics in depth.
 
-Mayank talked about: 
+Mayank talked about:
 - Face Recognition
 - Finger print recognition
 - Baby Face Recognition (Probably the first ever project in the field.)
-- Deep learning applications in image processing.
+- Deep learning applications in image processing
 - Autoencoders
 
 After the talk, the QnA session ensued where some questions were around the Mayank's work and others were around approaching various problems that different participants are facing in their work. Mayank was able to provide significant input. One major discussion was around the hardware selection for deep learning and whether AWS is a better choice to implement the learning algorithms or server boxes are a better choice to go ahead with. The general consensus was on the fact that for testing the architecture, maybe a laptop with decent configuration should work but for final training of algorithm from the humongous data, a server box with GPU's should be good.
