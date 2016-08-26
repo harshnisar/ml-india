@@ -16,13 +16,13 @@ This time we had a guest speaker [Dr. Mayank Vatsa](https://www.iiitd.edu.in/~ma
 
 It was a great talk as the students were able to relate to the work and ask multiple questions accordingly. In-between Mayank also explained many concepts of machine learning and the resources that could be helpful in understanding these topics in depth.
 
-Mayank talked about:<ul>
+Mayank talked about:
 <li>Face Recognition</li>
 <li>Finger print recognition</li>
 <li>Baby Face Recognition (Probably the first ever project in the field)</li>
 <li>Deep learning applications in image processing</li>
 <li>Autoencoders</li>
-</ul>
+
 
 After the talk, the QnA session ensued where some questions were around the Mayank's work and others were around approaching various problems that different participants are facing in their work. Mayank was able to provide significant input. One major discussion was around the hardware selection for deep learning and whether AWS is a better choice to implement the learning algorithms or server boxes are a better choice to go ahead with. The general consensus was on the fact that for testing the architecture, maybe a laptop with decent configuration should work but for final training of algorithm from the humongous data, a server box with GPU's should be good.
 
