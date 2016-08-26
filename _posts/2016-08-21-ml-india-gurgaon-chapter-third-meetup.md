@@ -25,7 +25,7 @@ Mayank talked about:
 
 
 
-After the talk, the QnA session ensued where some questions were around the Mayank's work and others were around approaching various problems that different participants are facing in their work. Mayank was able to provide significant input. One major discussion was around the hardware selection for deep learning and whether AWS is a better choice to implement the learning algorithms or server boxes are a better choice to go ahead with. The general consensus was on the fact that for testing the architecture, maybe a laptop with decent configuration should work but for final training of algorithm from the humongous data, a server box with GPU's should be good.
+<br>After the talk, the QnA session ensued where some questions were around the Mayank's work and others were around approaching various problems that different participants are facing in their work. Mayank was able to provide significant input. One major discussion was around the hardware selection for deep learning and whether AWS is a better choice to implement the learning algorithms or server boxes are a better choice to go ahead with. The general consensus was on the fact that for testing the architecture, maybe a laptop with decent configuration should work but for final training of algorithm from the humongous data, a server box with GPU's should be good.
 
 The turnout of the meetup was again good with some regular members and new members joining in the group. The group had participants who were undergraduates, PhD students and machine learning engineers from the corporate sector. Although everyone is works on different subjects but the framewrok falls under one umbrella which make these meetups really interesting.
 
