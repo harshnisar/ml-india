@@ -34,4 +34,6 @@ If you have a terrific early stage innovation driven startup, [reach out](http:
 
 Looking forward to work with smart passionate people to build the world’s smartest companies from India!
 
+-Varun Aggarwal
+
 _Varun Aggarwal is co-founder and chief technology officer of [Aspiring Minds](http://research.aspiringminds.com/), a company that uses data science to enable meritocracy in the labour market._
