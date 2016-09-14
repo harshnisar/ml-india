@@ -115,9 +115,14 @@ input:checked + label {
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-first-meetup/" target="blank">here</a>.
       </li>
       <br>
-      <li style="margin-left:15px;">25th June, 2016. Discusstion on proactive search and digital assistants.
+      <li style="margin-left:15px;">25th June, 2016. Discussion on proactive search and digital assistants.
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-second-meetup/" target="blank">here</a>.
+      </li>
+      <br>
+      <li style="margin-left:15px;">21st August, 2016. Discussion on face and finger recognition, image processing, and making the learners understand how to break down the problem and then approach it.
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-third-meetup/" target="blank">here</a>.
       </li>
       <br>
 </ol>     
