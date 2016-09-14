@@ -73,7 +73,7 @@ input:checked + label {
  }
 </script>
 
-**Want to organize a meetup in your city? [Download](/ml-chapter/ml meetup guide.pdf) our step-by-step guide!**
+## Want to organize a meetup in your city? [Download](/ml-chapter/ml meetup guide.pdf) our step-by-step guide!
 
 <body onload="pageSet()">
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
