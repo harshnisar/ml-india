@@ -9,11 +9,11 @@ comments: true
 
 ### Are you a PhD student or working in companies as a data scientist?
 
-[Fill this form](https://docs.google.com/a/aspiringminds.in/forms/d/e/1FAIpQLSfraf2N7o2zFdGD2Ps3tkKCNvLXypQm-vXy4bCCDGYZi5A9Qg/viewform){:target="_blank"} to get yourself listed here.
+<b>[Fill this form](https://docs.google.com/a/aspiringminds.in/forms/d/e/1FAIpQLSfraf2N7o2zFdGD2Ps3tkKCNvLXypQm-vXy4bCCDGYZi5A9Qg/viewform){:target="_blank"} to get yourself listed here. </b>
 
 ---
 
-## People in Data Science
+
 
 
 {% include _ml-people.html %}
