@@ -8,8 +8,7 @@ comments: true
 ---
 
 ### Are you a PhD student or working in companies as a data scientist?
-
-<b>[Fill this form](https://docs.google.com/a/aspiringminds.in/forms/d/e/1FAIpQLSfraf2N7o2zFdGD2Ps3tkKCNvLXypQm-vXy4bCCDGYZi5A9Qg/viewform){:target="_blank"} to get yourself listed here. </b>
+##[Click here](https://docs.google.com/a/aspiringminds.in/forms/d/e/1FAIpQLSfraf2N7o2zFdGD2Ps3tkKCNvLXypQm-vXy4bCCDGYZi5A9Qg/viewform){:target="_blank"} to get yourself listed.
 
 ---
 
