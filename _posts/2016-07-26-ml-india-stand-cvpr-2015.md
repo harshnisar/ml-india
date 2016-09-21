@@ -66,19 +66,16 @@ US tops the chart and has been the top research contributor with the highest num
 <td><center><strong>Year</strong></center></td>
 <td><center><strong>Corporations</strong></center></td>
 <td><center><strong>Institutions</strong></center></td>
-<td><center><strong>Total</strong></center></td>
 </tr>
 <tr>
 <td><center>Publications in 2015</center></td>
 <td><center>2</center></td>
 <td><center>3</center></td>
-<td><center><strong>5</strong></center></td>
 </tr>
 <tr>
 <td><center>Publications in 2014</center></td>
 <td><center>0</center></td>
 <td><center>10</center></td>
-<td><center><strong>10</strong></center></td>
 </tr>
 </tbody>
 </table>
