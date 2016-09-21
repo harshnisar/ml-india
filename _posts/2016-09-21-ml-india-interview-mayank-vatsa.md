@@ -72,12 +72,14 @@ We started this work at WVU and continued it in India, solving India specific pr
 
 **ML-India:** We still don’t see a lot of papers from India going to top conferences in spite of a lot of ML startups and researchers claiming to use ML concepts in their work. What’s your take on the current ecosystem of ML in India?
 
-**Mayank:** A lot of buzz is already going around machine learning in India. A lot of people from the industry and research community are using ML. However, most of them are ‘using’ ML in their work and not building or generating new frameworks/models. A lot of extra effort goes into developing fresh research apart from the tools, coding etc. which is not happening in India. Most of us are utilizing and not innovating. China, as we know, have a significant number of papers every year in top tier conferences because they spend more time in developing new technologies. Therefore, there is a need for all the Indian users of ML to switch to being the builders of ML. 
+**Mayank:** A lot of buzz is already going around machine learning in India. A lot of people from the industry and research community are using ML. However, most of them are ‘using’ ML in their work and not building or generating new frameworks/models. A lot of extra effort goes into developing fresh research apart from the tools, coding etc. which is not happening in India. Most of us are utilizing and not innovating. China, as we know, have a significant number of papers every year in top-tier conferences because they spend more time in developing new technologies. Therefore, there is a need for all the Indian users of ML to switch to being the builders of ML. 
 
   
 
 **ML-India:** How do you think can this be achieved?
 
-**Mayank:** I have a two fold answer to this. First is, as a leader, you need to become a role model to your followers. If they see you are putting in hard hours of work to get results, they will automatically try to match your efforts. It is inductive. That is how you can maintain persistency among the students and keep that drive toward research and development strong. The other aspect is nurturing the ecosystem itself. Fostering an ML environment by inculcating new courses and providing students the option of choosing the courses of their interest is an effective way of generating and maintaining a strong interest in the field. This will improve thing at the root level and help students in finding their path of interest early on in their careers.
+**Mayank:** I have a two-fold answer to this. First is, as a leader, you need to become a role model to your followers. If they see you are putting in hard hours of work to get results, they will automatically try to match your efforts. It is inductive. That is how you can maintain persistency among the students and keep that drive toward research and development strong. The other aspect is nurturing the ecosystem itself. Fostering an ML environment by inculcating new courses and providing students the option of choosing the courses of their interest is an effective way of generating and maintaining a strong interest in the field. This will improve thing at the root level and help students in finding their path of interest early on in their careers.
+
+**ML-India:** Thank you for your valuable time Mayank. All the best to you from ML-India.
 
 
