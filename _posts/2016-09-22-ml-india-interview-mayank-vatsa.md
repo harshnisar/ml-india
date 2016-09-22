@@ -10,11 +10,10 @@ tags_relevant: [interview]
 ---
 
 
-<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIiAAAAJDk0MzYzYzA5LTc1N2QtNDBmMy1hM2JjLThmNzcyZDBkOWUzYg.jpg" align='left' style="margin-right:4px;width:30%">
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIiAAAAJDk0MzYzYzA5LTc1N2QtNDBmMy1hM2JjLThmNzcyZDBkOWUzYg.jpg" align='left' style="margin:4px, 4px;width:30%">
 [Dr. Mayank Vatsa](https://www.iiitd.edu.in/~mayank/){:target="_blank"} is an associate professor at Indraprastha Institute of Information Technology, Delhi (IIIT-D), India. He received the M.S. and Ph.D. degrees in computer science from West Virginia University, Morgantown, WV, USA, in 2005 and 2008, respectively. He has authored more than 150 publications in refereed journals, book chapters, and conferences. His research has been funded by the Unique Identification Authority of India and DIT. He was a recipient of the FAST Award Project by DST, India. His areas of interest are biometrics, image processing, machine learning, and information fusion.
 
 
-<br>
 Mayank on ..
 
  - <a href="#work_exp">His problem statements during PhD</a>
@@ -22,7 +21,6 @@ Mayank on ..
  - <a href="#traits">Traits he looks for in a student</a>
  - <a href="#ml_eco">Current ML ecosystem in India</a>
  
-<br>
 
 **ML-India:** We’d like to start off by understanding how you got instigated into the field of machine learning?
 
