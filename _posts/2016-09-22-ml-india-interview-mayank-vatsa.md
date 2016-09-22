@@ -18,7 +18,7 @@ tags_relevant: [interview]
 Mayank on ..
 
  - <a href="#work_exp">His problem statements during PhD</a>
- - <a href="#ml_recog">his work on pattern recognition and Neuro-cognition</a>
+ - <a href="#ml_recog">His work on pattern recognition and Neuro-cognition</a>
  - <a href="#traits">Traits he looks for in a student</a>
  - <a href="#ml_eco">Current ML ecosystem in India</a>
  
