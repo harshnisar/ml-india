@@ -29,9 +29,9 @@ Mayank on ..
 
   
 
-**ML-India:** How did you come to be associated with IIIT Delhi?
+**ML-India:** How did you come to be associated with IIIT-Delhi?
 
-**Mayank:** In the middle of 2008, I had started looking for jobs in India with a particular focus on academics. Dr. [Richa Singh](https://www.iiitd.edu.in/~richa/){:target="_blank"} and I were contacted by [Dr. Pankaj Jalote](https://www.iiitd.edu.in/~jalote/){:target="_blank"}, Director of IIITD and he wanted to have a meeting. The first batch of IIIT-Delhi hadn't even started then. He explained his vision for this new institution and the concept of IIIT-Delhi. <img src="/images/IAB.JPG" align='right' style="margin-right:4px;width:30%">I was excited at the opportunity but at the same time, I felt that it was a bit of a risk since everything was new and there’s always some degree of uncertainty associated with a new institution. However, I am glad I took it the leap of faith. The institute supported us with the seed money to start our lab and within 2-3 months, we started the [Image Analysis and Biometrics Lab](http://iab-rubric.org/){:target="_blank"}, which is the oldest research lab at IIIT-Delhi.
+**Mayank:** In the middle of 2008, I had started looking for jobs in India with a particular focus on academics. Dr. [Richa Singh](https://www.iiitd.edu.in/~richa/){:target="_blank"} and I were contacted by [Dr. Pankaj Jalote](https://www.iiitd.edu.in/~jalote/){:target="_blank"}, Director of IIIT-Delhi and he wanted to have a meeting. The first batch of IIIT-Delhi hadn't even started then. He explained his vision for this new institution and the concept of IIIT-Delhi. <img src="/images/IAB.JPG" align='right' style="margin-right:4px;width:30%">I was excited at the opportunity but at the same time, I felt that it was a bit of a risk since everything was new and there’s always some degree of uncertainty associated with a new institution. However, I am glad I took it the leap of faith. The institute supported us with the seed money to start our lab and within 2-3 months, we started the [Image Analysis and Biometrics Lab](http://iab-rubric.org/){:target="_blank"}, which is the oldest research lab at IIIT-Delhi.
 
   
   
