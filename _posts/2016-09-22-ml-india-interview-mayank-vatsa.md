@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML-India interview series - Dr. Mayank Vatsa, Professor, Indraprastha Institute of Information Technology-Delhi (IIIT-H), India"
+title: "ML-India interview series - Dr. Mayank Vatsa, Professor, Indraprastha Institute of Information Technology-Delhi (IIIT-D), India"
 excerpt: "Dr. Mayank Vatsa is an associate professor at Indraprastha Institute of Information Technology, Delhi (IIIT-D), India. He received the M.S. and Ph.D. degrees in computer science from West Virginia University, Morgantown, WV, USA, in 2005 and 2008, respectively. He has authored more than 150 publications in refereed journals, book chapters, and conferences. His research has been funded by the Unique Identification Authority of India and DIT. He was a recipient of the FAST Award Project by DST, India. His areas of interest are biometrics, image processing, machine learning, and information fusion.
 "
 tags: [india, machine learning, data science, interview, mayank, IIIT-D, indraprashtha institute of information technology delhi]
