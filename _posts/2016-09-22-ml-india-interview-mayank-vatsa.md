@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ML-India interview series - Dr. Mayank Vatsa, Professor, Indraprastha Institute of Information Technology-Delhi (IIIT-D), India"
-excerpt: "Dr. Mayank Vatsa is an associate professor at Indraprastha Institute of Information Technology, Delhi (IIIT-D), India. He received the M.S. and Ph.D. degrees in computer science from West Virginia University, Morgantown, WV, USA, in 2005 and 2008, respectively. He has authored more than 150 publications in refereed journals, book chapters, and conferences. His research has been funded by the Unique Identification Authority of India and DIT. He was a recipient of the FAST Award Project by DST, India. His areas of interest are biometrics, image processing, machine learning, and information fusion.
+title: "ML-India interview series - Dr. Mayank Vatsa, Associate Professor, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), India"
+excerpt: "Dr. Mayank Vatsa is an associate professor at Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi), India. He received the M.S. and Ph.D. degrees in computer science from West Virginia University, Morgantown, WV, USA, in 2005 and 2008, respectively. He has authored more than 200 publications in refereed journals, book chapters, and conferences. His research has been funded by the Unique Identification Authority of India and DIT. He was a recipient of the FAST Award Project by DST, India. His areas of interest are biometrics, image processing, machine learning, and information fusion.
 "
 tags: [india, machine learning, data science, interview, mayank, IIIT-D, indraprashtha institute of information technology delhi]
 comments: true
@@ -11,7 +11,7 @@ tags_relevant: [interview]
 
 
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIiAAAAJDk0MzYzYzA5LTc1N2QtNDBmMy1hM2JjLThmNzcyZDBkOWUzYg.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
-[Dr. Mayank Vatsa](https://www.iiitd.edu.in/~mayank/){:target="_blank"} is an associate professor at Indraprastha Institute of Information Technology, Delhi (IIIT-D), India. He received the M.S. and Ph.D. degrees in computer science from West Virginia University, Morgantown, WV, USA, in 2005 and 2008, respectively. He has authored more than 150 publications in refereed journals, book chapters, and conferences. His research has been funded by the Unique Identification Authority of India and DIT. He was a recipient of the FAST Award Project by DST, India. His areas of interest are biometrics, image processing, machine learning, and information fusion.
+[Dr. Mayank Vatsa](https://www.iiitd.edu.in/~mayank/){:target="_blank"} is an associate professor at Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi), India. He received the M.S. and Ph.D. degrees in computer science from West Virginia University, Morgantown, WV, USA, in 2005 and 2008, respectively. He has authored more than 200 publications in refereed journals, book chapters, and conferences. His research has been funded by the Unique Identification Authority of India and DIT. He was a recipient of the FAST Award Project by DST, India. His areas of interest are biometrics, image processing, machine learning, and information fusion. He is the Vice President (Publications) of IEEE Biometrics Council, Area Editor of Information Fusion Journal (Elsevier), and Associate Editor of IEEE Access. 
 
 
 Mayank on ..
@@ -69,7 +69,7 @@ We started this work at WVU and continued it in India, solving India specific pr
 <a name="ml_eco"></a>
 **ML-India:** We still don’t see a lot of papers from India going to top conferences in spite of a lot of ML startups and researchers claiming to use ML concepts in their work. What’s your take on the current ecosystem of ML in India?
 
-**Mayank:** A lot of buzz is already going around machine learning in India. A lot of people from the industry and research community are using ML. However, most of them are ‘using’ ML in their work and not building or generating new frameworks/models. A lot of extra effort goes into developing fresh research apart from the tools, coding etc. which is not happening in India. Most of us are utilizing and not innovating. China, as we know, have a significant number of papers every year in top-tier conferences because they spend more time in developing new technologies. Therefore, there is a need for all the Indian users of ML to switch to being the builders of ML. 
+**Mayank:** A lot of buzz is already going around machine learning in India. A lot of people from the industry and research community are using ML. However, most of them are ‘using’ ML in their work and not building or generating new frameworks/models. A lot of extra effort goes into developing fresh research apart from the tools, coding etc. which is, generally, not happening in India. Most of us are utilizing and not innovating. China, as we know, have a significant number of papers every year in top-tier conferences because they spend more time in developing new technologies. Therefore, there is a need for all the Indian users of ML to switch to being the builders of ML. 
 
   
 
