@@ -2,7 +2,7 @@
 layout: page-table
 title: 
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Indian faculty and research groups in machine learning and data science"
+excerpt: "Indian faculty, research groups and professionals in machine learning and data science"
 ---
 <style>
       
@@ -66,8 +66,9 @@ input:checked + label {
  {
    if(flag==1)
    {
-     document.getElementById("research_div").style.display="inline";
+     document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="none";
+     document.getElementById("professionals_div").style.display="inline";
      window.location.href = "http://ml-india.org/people/#research-groups";
    }
    else if(flag==2)
@@ -75,7 +76,16 @@ input:checked + label {
       
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
+     document.getElementById("professionals_div").style.display="none";
      window.location.href = "http://ml-india.org/people/#machine-learning-faculty-india";
+   }
+   else if(flag==3)
+   {
+      
+     document.getElementById("research_div").style.display="inline";
+     document.getElementById("faculty_and_professor").style.display="none";
+     document.getElementById("professionals_div").style.display="none";
+     window.location.href = "http://ml-india.org/people/#machine-learning-professionals-india";
    }
  }
 </script>
@@ -83,10 +93,23 @@ input:checked + label {
 <body onload="pageSet()">
 
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
-  <label for="tab1" >Research Group</label>
+  <label for="tab1" >Professionals</label>
     
   <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
   <label for="tab2">Faculty And Professors</label> 
+  
+  <input id="tab3" type="radio" name="tabs" onclick="hideDiv(3)">
+  <label for="tab3" >Research Group</label>
+
+<div id="professionals_div">
+<hr>
+<h2>Machine Learning Professionals in India</h2>
+
+{% include _ml-professionals.html %}
+<hr>
+<hr>
+</div>
+
 
 <div id="research_div">
 <hr>
