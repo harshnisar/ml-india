@@ -69,7 +69,7 @@ input:checked + label {
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("professionals_div").style.display="inline";
-     window.location.href = "http://ml-india.org/people/#research-groups";
+     window.location.href = "http://nishankvboy.github.io/ml-india/people/#machine-learning-professionals-india";
    }
    else if(flag==2)
    {
@@ -77,7 +77,7 @@ input:checked + label {
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
      document.getElementById("professionals_div").style.display="none";
-     window.location.href = "http://ml-india.org/people/#machine-learning-faculty-india";
+     window.location.href = "http://nishankvboy.github.io/ml-india/people/#machine-learning-faculty-india";
    }
    else if(flag==3)
    {
@@ -85,7 +85,7 @@ input:checked + label {
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("professionals_div").style.display="none";
-     window.location.href = "http://ml-india.org/people/#machine-learning-professionals-india";
+     window.location.href = "http://nishankvboy.github.io/ml-india/people/#research-groups";
    }
  }
 </script>
