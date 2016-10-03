@@ -56,10 +56,15 @@ input:checked + label {
       document.getElementById("tab2").checked = true;
       hideDiv(2);
   }
-  else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("research-groups$"))
+  else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("machine-learning-professionals-india$"))
   {
       document.getElementById("tab1").checked = true;
       hideDiv(1);  
+  }
+  else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("research-groups$"))
+  {
+      document.getElementById("tab3").checked = true;
+      hideDiv(3);  
   }
  }
  function hideDiv(flag)
