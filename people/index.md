@@ -58,13 +58,13 @@ input:checked + label {
   }
   else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("machine-learning-professionals-india$"))
   {
-      document.getElementById("tab1").checked = true;
-      hideDiv(1);  
+      document.getElementById("tab3").checked = true;
+      hideDiv(3);  
   }
   else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("research-groups$"))
   {
-      document.getElementById("tab3").checked = true;
-      hideDiv(3);  
+      document.getElementById("tab1").checked = true;
+      hideDiv(1);  
   }
  }
  function hideDiv(flag)
