@@ -71,10 +71,10 @@ input:checked + label {
  {
    if(flag==1)
    {
-     document.getElementById("research_div").style.display="none";
+     document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
-     document.getElementById("professionals_div").style.display="inline";
-     window.location.href = "http://nishankvboy.github.io/ml-india/people/#machine-learning-professionals-india";
+     document.getElementById("professionals_div").style.display="none";
+     window.location.href = "http://nishankvboy.github.io/ml-india/people/#research-groups";
    }
    else if(flag==2)
    {
@@ -87,24 +87,24 @@ input:checked + label {
    else if(flag==3)
    {
       
-     document.getElementById("research_div").style.display="inline";
+     document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="none";
-     document.getElementById("professionals_div").style.display="none";
-     window.location.href = "http://nishankvboy.github.io/ml-india/people/#research-groups";
+     document.getElementById("professionals_div").style.display="inline";
+     window.location.href = "http://nishankvboy.github.io/ml-india/people/#machine-learning-professionals-india";
    }
  }
 </script>
 
 <body onload="pageSet()">
 
-  <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
-  <label for="tab1" >Professionals</label>
+  <input id="tab3" type="radio" name="tabs" onclick="hideDiv(3)">
+  <label for="tab3" >Professionals</label>
     
   <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
   <label for="tab2">Faculty And Professors</label> 
   
-  <input id="tab3" type="radio" name="tabs" onclick="hideDiv(3)">
-  <label for="tab3" >Research Group</label>
+  <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
+  <label for="tab1" >Research Groups</label>
 
 <div id="professionals_div">
 <hr>
