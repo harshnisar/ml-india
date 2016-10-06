@@ -96,15 +96,15 @@ input:checked + label {
 </script>
 
 <body onload="pageSet()">
-
-  <input id="tab3" type="radio" name="tabs" onclick="hideDiv(3)">
-  <label for="tab3" >Professionals</label>
+  
+  <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
+  <label for="tab1" >Research Groups</label>
     
   <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
   <label for="tab2">Faculty And Professors</label> 
   
-  <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
-  <label for="tab1" >Research Groups</label>
+  <input id="tab3" type="radio" name="tabs" onclick="hideDiv(3)">
+  <label for="tab3" >Professionals</label>
 
 <div id="research_div">
 <hr>
