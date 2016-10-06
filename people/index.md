@@ -106,16 +106,6 @@ input:checked + label {
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
   <label for="tab1" >Research Groups</label>
 
-<div id="professionals_div">
-<hr>
-<h2>Machine Learning Professionals in India</h2>
-
-{% include _ml-professionals.html %}
-<hr>
-<hr>
-</div>
-
-
 <div id="research_div">
 <hr>
 <h2>Machine Learning Research Groups in India</h2>
@@ -134,6 +124,14 @@ input:checked + label {
 <hr>
 </div>
 
+<div id="professionals_div">
+<hr>
+<h2>Machine Learning Professionals in India</h2>
+
+{% include _ml-professionals.html %}
+<hr>
+<hr>
+</div>
 
 {% include _subscribe.html %}
 </body>
