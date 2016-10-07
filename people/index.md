@@ -69,6 +69,8 @@ input:checked + label {
       document.getElementById("tab1").checked = true;
       hideDiv(1);  
   }
+  $('#tbl').DataTable();
+  $('#tb2').DataTable();
   $('#tb3').DataTable();
 
 }
