@@ -69,7 +69,6 @@ input:checked + label {
       document.getElementById("tab1").checked = true;
       hideDiv(1);  
   }
-  $('#tb3').DataTable();
 
 }
  function hideDiv(flag)
