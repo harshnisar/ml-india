@@ -56,16 +56,18 @@ input:checked + label {
       document.getElementById("tab2").checked = true;
       hideDiv(2);
   }
+  
+  else if(current_url.match("machine-learning-professionals-india$"))
+  {
+      document.getElementById("tab3").checked = true;
+      hideDiv(3);  
+  }
   else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("research-groups$"))
   {
       document.getElementById("tab1").checked = true;
       hideDiv(1);  
   }
-  else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("machine-learning-professionals-india$"))
-  {
-      document.getElementById("tab3").checked = true;
-      hideDiv(3);  
-  }
+
 }
  function hideDiv(flag)
  {
@@ -74,7 +76,7 @@ input:checked + label {
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("professionals_div").style.display="none";
-     window.location.href = "http://nishankvboy.github.io/ml-india/people/#research-groups";
+     window.location.hash = "research-groups";
    }
    else if(flag==2)
    {
@@ -82,7 +84,7 @@ input:checked + label {
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
      document.getElementById("professionals_div").style.display="none";
-     window.location.href = "http://nishankvboy.github.io/ml-india/people/#machine-learning-faculty-india";
+     window.location.hash = "machine-learning-faculty-india";
    }
    else if(flag==3)
    {
@@ -90,7 +92,7 @@ input:checked + label {
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("professionals_div").style.display="inline";
-     window.location.href = "http://nishankvboy.github.io/ml-india/people/#machine-learning-professionals-india";
+     window.location.hash = "machine-learning-professionals-india";
    }
  }
 </script>
