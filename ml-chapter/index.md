@@ -112,8 +112,7 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-first-meetup/" target="blank">here</a>.
       </li>
-      <br>
-</ol>     
+      <br>     
 <hr>
 
 </div>
