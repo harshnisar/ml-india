@@ -27,6 +27,7 @@ Shivaram on..
 - <a href="#vehicles"> Efforts to teach automated vehicles morality </a>
 - <a href="#india_prob"> How ML is placed in solving some problems specific to India </a>
 
+<br>
 
 **ML-India:** Hello Shivaram. Thanks for taking time out for this interview with ML-India. To start things off, it would be great if you could give us an overview of the reason behind coming out with this report. What is its importance at this stage of our societal evolution?
 
@@ -40,7 +41,8 @@ Shivaram on..
 **ML-India:** That’s a really nice initiative. How was this group of AI scientists put together?
 
 **Shivaram:** The top rung of the organizational structure was a standing committee which was put together by Eric and Mary Horvitz. These [men and women](https://ai100.stanford.edu/people){:target="_blank"} have significantly addressed problems in AI and related engineering fields and have influenced generations of researchers thereafter. They discussed and finalised who would comprise the study panel, whose task it would be to delve through the nuances of this issue. They selected [Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/){:target="_blank"} from UT Austin to chair the study panel. Along with other researchers, Prof. Stone, who was my doctoral advisor at UT Austin, suggested that I be on this panel, given the strong overlap in my area of expertise.
-<img src="https://i.imgsafe.org/0a865765ad.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:28%">
+
+<img src="https://i.imgsafe.org/0a865765ad.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:27%">
 **ML-India:** I see. The AI100 report talks about 7-8 major areas such as transportation and education. Were researchers picked from each of these fields given their expertise in it to finally form the study panel?
 
 
