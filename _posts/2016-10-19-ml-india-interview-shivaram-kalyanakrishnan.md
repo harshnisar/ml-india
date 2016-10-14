@@ -41,8 +41,8 @@ Shivaram on..
 
 **Shivaram:** The top rung of the organizational structure was a standing committee which was put together by Eric and Mary Horvitz. These [men and women](https://ai100.stanford.edu/people) have significantly addressed problems in AI and related engineering fields and have influenced generations of researchers thereafter. They discussed and finalised who would comprise the study panel, whose task it would be to delve through the nuances of this issue. They selected [Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/) from UT Austin to chair the study panel. Along with other researchers, Prof. Stone, who was my doctoral advisor at UT Austin, suggested that I be on this panel, given the strong overlap in my area of expertise.
 
-**ML-India:** I see. The AI100 report talks about 7-8 major areas such as transportation and education. Were researchers picked from each of these fields given their expertise in it to finally form the study panel?
-<img src="http://www.imageno.com/thumbs/20161014/d3dueexh3hfm.jpg" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:20%">
+**ML-India:** I see. The AI100 report talks about 7-8 major areas such as transportation and education. <img src="https://i.imgsafe.org/08d6764798.jpg" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:22%">Were researchers picked from each of these fields given their expertise in it to finally form the study panel?
+
 
 **Shivaram:** Not quite. The group was quite a generic one consisting of researchers who have long dabbled with AI and its flavours. In the course of fleshing out the details of this report, we finalised on the 8 topics (transportation, healthcare, education, low-resource communities, public safety and security, employment and workplace, home/service robots, and entertainment) that we finally wrote about.
 
