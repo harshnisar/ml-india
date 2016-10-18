@@ -100,7 +100,7 @@ of AI](https://www.whitehouse.gov/blog/2016/10/12/administrations-report-future-
 
   
 <a name="india_prob"></a>
-**ML-India:** And your opinion on how ML is placed in solving some problems specific to India?
+**ML-India:** And your opinion on how AI and ML are placed in solving some problems specific to India?
 
 **Shivaram:** Oh, I’m very excited about it. I think our geography and culture presents to us a gold-mine of interesting problems for us to tackle. For instance, speech and natural language research has so many problems which need to be addressed in the Indian context. There’s a high bias of information being in English, which presents an unwanted barrier to information assimilation. Similarly, crowd-sourcing and mechanism design is again an area which I personally feel very strongly about. There are enormous opportunities which government agencies can offer given the data trail they have to deal with. Likewise, computational sustainability is again an upcoming area which can help provide tangible benefits to our environment. [Prof. Milind Tambe](http://teamcore.usc.edu/tambe/){:target="_blank"}  from USC has shown remarkable ways to use AI and ML to help fight poachers! The possibilities are limitless. This is fertile ground for high-quality research and development to happen.
 
