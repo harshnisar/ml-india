@@ -106,6 +106,12 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-fourth-meetup/" target="blank">here</a>.
       </li>
+      <br>
+       <li style="margin-left:15px;">28th August, 2016. Discussion on NLP evolution and various word representations.
+      
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-fifth-meetup/" target="blank">here</a>.
+      </li>
       
 </ol>
 <hr>
