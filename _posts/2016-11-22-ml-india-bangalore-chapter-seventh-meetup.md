@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Bangalore chapter | Seventh Meetup"
-excerpt: "ML-India is pleased to inform that the seventh machine learning meetup in its Bangalore chapter was on 22nd Novenmber. The meetup revolved around the application of machine learning algorithms to map a person's skills to relevant jobs.
+excerpt: "ML-India is pleased to inform that the seventh machine learning meetup in its Bangalore chapter was on 22nd October. The meetup revolved around the application of machine learning algorithms to map a person's skills to relevant jobs.
 "
 tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
 
