@@ -30,7 +30,7 @@ The talk drew from the following work:
 
 
 Click [here](http://research.aspiringminds.com/publications/){:target="_blank"} to learn more about the work.
-Click [here](){:target="_blank"} to download the slide deck from the talk.
+Click [here](/ml-chapter/ml_india_slides_ss.pdf){:target="_blank"} to download the slide deck from the talk.
 
 
 We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
