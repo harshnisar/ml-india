@@ -20,10 +20,7 @@ They talked about how one can tune neural networks and discussed some tricks and
 
 Click [here](https://www.slideshare.net/secret/5LfNTZLD48y1ou){:target="_blank"} to download the slide deck from the talk.
 
-The response and feedback from the participants were very encouraging! The participants were very active and had a lot of questions which made the event very interactive. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
-
-
-We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
+The response and feedback from the participants were very encouraging! The discussion was very vibrant and the participants had a lot of questions. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
 
 
 Click [here](http://www.meetup.com/Machine-Learning-India-Bangalore/){:target="_blank"} to join the group.
