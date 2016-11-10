@@ -20,6 +20,7 @@ He talked about why the problem of mapping a person's skills to the right job is
 
 
 The talk drew from the following work:
+
 - A system to grade computer programming skills using machine learning.", S. Srikant and V. Aggarwal, KDD 2014
 
 
