@@ -113,13 +113,13 @@ input:checked + label {
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-fifth-meetup/" target="blank">here</a>.
       </li>
        <br>
-       <li style="margin-left:15px;">28th August, 2016. Discussion on Skymind, and Deeplearning4j and why they exist.
+       <li style="margin-left:15px;">8th October, 2016. Discussion on Skymind, and Deeplearning4j and why they exist.
       
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-sixth-meetup/" target="blank">here</a>.
       </li>
        <br>
-       <li style="margin-left:15px;">28th August, 2016. Discussion on mapping a person’s skills to the right job.
+       <li style="margin-left:15px;">22nd October, 2016. Discussion on mapping a person’s skills to the right job.
       
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-seventh-meetup/" target="blank">here</a>.
@@ -144,7 +144,7 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-third-meetup/" target="blank">here</a>.
       </li>
-      <li style="margin-left:15px;">21st August, 2016. Discussion on kaggle Titanic dataset, and on basic implementation and workflow to build predictive models.
+      <li style="margin-left:15px;">13th November, 2016. Discussion on kaggle Titanic dataset, and on basic implementation and workflow to build predictive models.
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-fourth-meetup/" target="blank">here</a>.
       </li>
