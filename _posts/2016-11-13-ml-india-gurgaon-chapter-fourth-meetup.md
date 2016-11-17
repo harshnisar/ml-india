@@ -17,7 +17,9 @@ In this meetup, the members discussed about a kaggle knowledge dataset: [Titanic
 
 The members divided themselves in about groups of 6 and the groups were made such that it had few members who had worked earlier on some machine learning problem and few who had just started to work in this field. The group members then discussed and picked a [kaggle competition](https://www.kaggle.com/competitions){:target="_blank"} that they would be working on. The groups also decided to have discussions over slack and share codes with each other on github while following the best practices. 
 
-The meetup group picked another initiative of working on a MOOC and discuss about whatever they read over the week before the meetup. For now, the group has picked up [cs231](http://cs231n.stanford.edu/){:target="_blank"} machine learning course provided by Stanford. The course mainly revolves around deep learning in the field of computer vision. The members have decided to work on the first week of the course before the next meetup which is scheduled for 27th Nov. All the members are pretty excited about the next steps that are being taken in the meetup. The meetup was very engaging and had a good mix of participants. 
+The meetup group picked another initiative of working on a MOOC and discuss about whatever they read over the week before the meetup. For now, the group has picked up [cs231](http://cs231n.stanford.edu/){:target="_blank"} machine learning course provided by Stanford. The course mainly revolves around deep learning in the field of computer vision. The members have decided to work on the first week of the course before the next meetup which is scheduled for 27th Nov. 
+
+All the members were pretty excited about the next steps that are being taken in the meetup. The meetup was very engaging and had a good mix of participants. Looking forward to future meetups. Spread the word to your friends from Gurgaon to enroll for the meetups. 
 
 <br>Click [here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
 
