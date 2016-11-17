@@ -19,7 +19,7 @@ The members divided themselves in about groups of 6 and the groups were made suc
 
 The meetup group picked another initiative of working on a MOOC and discuss about whatever they read over the week before the meetup. For now, the group has picked up [cs231](http://cs231n.stanford.edu/){:target="_blank"} machine learning course provided by Stanford. The course mainly revolves around deep learning in the field of computer vision. The members have decided to work on the first week of the course before the next meetup which is scheduled for 27th Nov. 
 
-All the members were pretty excited about the next steps that are being taken in the meetup. The meetup was very engaging and had a good mix of participants. Looking forward to future meetups. Spread the word to your friends from Gurgaon to enroll for the meetups. 
+All the members were pretty excited about the next steps that are being taken in the meetup. The meetup was very engaging and had a good mix of participants. Looking forward to future meetups. Spread the word to your friends from Gurgaon/Delhi to enroll for the meetups. 
 
 <br>Click [here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
 
