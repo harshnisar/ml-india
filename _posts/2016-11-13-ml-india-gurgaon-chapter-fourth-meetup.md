@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Gurgaon chapter | Fourth Meetup"
-excerpt: "ML-India is pleased to inform that the fourth machine learning meetup in its Gurgaon chapter was on 13th October 2016. The members discussed about a kaggle knowledge dataset and how to divide small groups to work on different Kaggle competitions. 
+excerpt: "ML-India is pleased to inform that the fourth machine learning meetup in its Gurgaon chapter was on 13th November 2016. The members discussed about a kaggle knowledge dataset and how to divide small groups to work on different Kaggle competitions. 
 "
 tags: [india, machine learning, data science, gurgaon chapter, ML-India, meetup]
 
@@ -11,7 +11,7 @@ comments: true
 ---
 <br>
 
-ML-India is pleased to inform that the fourth ML-India meetup in its Gurgaon chapter was held on 13th October 2016.
+ML-India is pleased to inform that the fourth ML-India meetup in its Gurgaon chapter was held on 13th November 2016.
 
 In this meetup, the members discussed about a kaggle knowledge dataset: [Titanic dataset](https://www.kaggle.com/c/titanic){:target="_blank"} and the basic implementation and the whole workflow to build predictive models. There were ~20 members in this meetup. 
 
