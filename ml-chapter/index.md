@@ -144,6 +144,7 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-third-meetup/" target="blank">here</a>.
       </li>
+      <br>
       <li style="margin-left:15px;">13th November, 2016. Discussion on kaggle Titanic dataset, and on basic implementation and workflow to build predictive models.
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-fourth-meetup/" target="blank">here</a>.
