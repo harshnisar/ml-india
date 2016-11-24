@@ -19,8 +19,8 @@ We talked to Priya about her experience as a student at IIIT-H, her work and
 Priya on..
 
 - <a href="#key"> Key learnings at IIIT-H </a>
-- <a href="#vehicles"> Her PhD project </a>
-- <a href="#india_prob"> Current state of ML space in India  </a>
+- <a href="#proj"> Her PhD project </a>
+- <a href="#state"> Current state of ML space in India  </a>
 
 <br>
 
@@ -34,6 +34,7 @@ Priya on..
 
 Another part of my motivation was Alcatel. The atmosphere there is very supportive of the employees learning and studying more as they work. My supervisors wanted to ensure that there is knowledge addition happening from quarter to quarter. They even incentivized the research component to promote this practice, which makes you more focused and driven.
 
+<a name="key"></a>
 **ML-India:** What were your key learnings at IIIT Hyderabad technically at a student level and at a personal level?
 
 **Priya:** My key takeaways from IIIT-H were the intellectual growth and the strengthened belief that the methods you’ve studied actually do work in the real environment and that they make a difference to how things run. The real differentiator between a master’s study and a PhD is that during master’s you get exposed to quite a lot of advanced and the latest concepts, but staying back in college and doing a PhD is about seeing that the concepts, which were introduced to us in theory, are indeed working. It is also about identifying ways to improve their applications and figuring out methods to advance it further. So, for instance, during master’s we used packages like scikit or classifiers to solve problems. We knew that these problems could be easily resolved by using such methods. Whereas, while we did our PhD, we went one step ahead. We realized that these methods are not foolproof and there are areas where they don’t work. So we tried debugging it and we learned to analyze the smallest aspects of the algorithm and to identify the change so that the algorithm approximates better. In the process, what I also learnt is that the tools that we used during our master’s can themselves be fixed. So I see people focusing on just learning to work with the tools during their Master’s and trying to ace it. They disregard its qualitative aspects, whereas, in a PhD, people try and work on improving the tools.
@@ -46,6 +47,7 @@ On the personal side, the entire process helped me mature as a thinker. It was a
 
 All in all, we have a big lab that works on a variety of topics. Currently, there are some 20 students who are actively working in the lab.
 
+<a name="proj"></a>
 **ML-India:** Could you tell us more about your PhD project? Also a little about different lenses of looking a multi-classification?
  
 **Priya:** My PhD project was based on [Named Entity Disambiguation](https://en.wikipedia.org/wiki/Entity_linking){:target="_blank"}. The aim was to find strings in the text that represent an entity in knowledge base. Let’s take Wikipedia as an example of a knowledge base and the string “Barack Obama” needs to relate to an entity that talks about the US President. This is the broader aim. Currently, hyperlinks are used for this, which link to particular knowledge base or web page etc. Hyperlinks act as an evidence that the anchor text of the hyperlink points to something. This evidence is tracked and its statistics are used to identify strings. 
@@ -54,6 +56,12 @@ However in the disambiguation, if the word “Obama” is encountered, it checks
 
 This research is very impactful and has a lot of interesting use cases like search queries, enhance knowledge base with new related entities. These use cases are important because when you have a bigger knowledge base, bigger is the number of queries you can handle, bigger are the answers you can generate from the question.
 
+**ML-India:** What is the state of industry collaboration with your research group? How easy/hard is it to sustain a healthy collaboration with the industry to produce successful research? What are the pros and cons in your opinion?
+
+**Priya:** In general, there is a fair amount of collaboration happening in almost all major institutes in India today. Industries are coming forward and quite a significant amount of funding is available. Having said that, there are some open challenges like to bring academia and industry together. However, these are being tackled on a case-to-case basis and the quality of collaboration is improving day-by-day. In particular to our lab, we have many projects in collaboration with major technology players like Amazon, Nokia, Intel, AOL, to name a few. We also receive funding from many government and semi-government organizations. This type of collaboration between industry and academic institutions is very useful as it helps us get a view of real-world problems which the industry is facing nowadays and bridges it with the cutting edge research going on in academia. I think we are doing fairly well on this.
+
+
+<a name="state"></a>
 **ML-India:** Involved in ML research for some time now, what is your take on the machine learning space in India? What your take on the popularity of ML among the students in India. How can we improve it? 
 
 **Priya:** To get an idea, we can take an example of the undergraduates in IIIT Hyderabad. Here the students are very passionate about machine learning and its applications. Also, the institute provides courses that help them to get fairly exposed to machine learning much earlier in their career. We have a couple of courses involving mathematics and statistics and I think this is the best way to introduce students to machine learning. Then there are other relevant courses on linear algebra and probability with assignments in MATLAB which helps create a very sound background to study neural networks. This way these undergraduates get armed fairly well to get introduced to machine learning.
@@ -62,9 +70,6 @@ On the other hand, the overall ecosystem at IIIT-H is very helpful in learning t
 
 Today, there is a lot of good quality content available on the web, it’s not very difficult to find material. What is more important is motivating people, and this can be done through  interesting talk sessions by practitioners and researchers, and interactions with the faculty. Also, I think open data challenges like [KDD Cup](http://www.kdd.org/kdd-cup){:target="_blank"} are also very helpful in motivating students and getting them onboard. I think we should organize more such challenges to engage more of students into machine learning. 
 
-**ML-India:** What is the state of industry collaboration with your research group? How easy/hard is it to sustain a healthy collaboration with the industry to produce successful research? What are the pros and cons in your opinion?
-
-**Priya:** In general, there is a fair amount of collaboration happening in almost all major institutes in India today. Industries are coming forward and quite a significant amount of funding is available. Having said that, there are some open challenges like to bring academia and industry together. However, these are being tackled on a case-to-case basis and the quality of collaboration is improving day-by-day. In particular to our lab, we have many projects in collaboration with major technology players like Amazon, Nokia, Intel, AOL, to name a few. We also receive funding from many government and semi-government organizations. This type of collaboration between industry and academic institutions is very useful as it helps us get a view of real-world problems which the industry is facing nowadays and bridges it with the cutting edge research going on in academia. I think we are doing fairly well on this.
-  
+ 
 
 **ML-India:** Thanks a lot for taking time out for this Priya! We look forward to subsequent reports from the AI100 study group!
