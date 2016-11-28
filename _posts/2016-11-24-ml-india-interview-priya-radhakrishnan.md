@@ -11,11 +11,11 @@ tags_relevant: [interview]
 ---
 
 
-<img src="https://lh5.googleusercontent.com/-xZD99xydUgg/AAAAAAAAAAI/AAAAAAAAAs4/VkouVafIE-E/photo.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> Priya is a PhD student in Computer Science and Engineering at IIIT Hyderabad. Her research area is Semantic Search. She is associated with the Search and Information Extraction Lab under Prof. Vasudeva Varma. She was a telecom engineer for 10 years at Alcatel Lucent. During her tenure there, she worked as technical specialist handling roles involving software development, testing, development support and coordination.
+<img src="https://lh5.googleusercontent.com/-xZD99xydUgg/AAAAAAAAAAI/AAAAAAAAAs4/VkouVafIE-E/photo.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> <br> Priya is a PhD student in Computer Science and Engineering at IIIT Hyderabad. Her research area is Semantic Search. She is associated with the Search and Information Extraction Lab under Prof. Vasudeva Varma. She was a telecom engineer for 10 years at Alcatel Lucent. During her tenure there, she worked as technical specialist handling roles involving software development, testing, development support and coordination.
 
 
 
-<br><br><br><br>
+<br><br><br>
 Priya on..
 
 - <a href="#key"> Key learnings at IIIT-H </a>
