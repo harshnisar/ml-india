@@ -12,7 +12,7 @@ comments: true
 <br>
 ML-India is pleased to inform that the fifth ML-India meetup in its Gurgaon chapter was held on 27th November 2016.
 
-In this meetup, the members discussed the learnings and the doubts that they had from Week 1 of [CS231](http://cs231n.stanford.edu/){:target="_blank"}, a computer vision and deep learning course offered by [Stanford](https://www.stanford.edu/){:target="_blank"} . The members then sat in groups and completed the [first assignment](http://cs231n.github.io/assignments2016/assignment1/){:target="_blank"}  of the course. Many interesting discussions revolved around the doubts and assignment questions.
+In this meetup, the members discussed the learnings and the doubts that they had from Week 1 of [CS231](http://cs231n.stanford.edu/){:target="_blank"}, a computer vision and deep learning course offered by [Stanford](https://www.stanford.edu/){:target="_blank"}. The members then sat in groups and completed the [first assignment](http://cs231n.github.io/assignments2016/assignment1/){:target="_blank"}  of the course. Many interesting discussions revolved around the doubts and assignment questions.
 
 There were some new members as well who participated in the meetup. A couple of members who have made significant progress in the course helped the new members in getting accommodated with [NumPy](http://www.numpy.org/){:target="_blank"}  and other [Python](https://www.python.org/){:target="_blank"}  libraries which are required in the course. The members also discussed amongst themselves the progress on different kaggle competitions that they are participating in. 
 
