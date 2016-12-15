@@ -23,7 +23,9 @@ The [Grace Hopper Celebration](http://ghc.anitaborg.org/){:target="_blank"} is t
 
 He discussed how network based algorithms are helping companies in building products based around the user's daily activities. Taking examples of the Netflix Movie Recommender system, and Cisco's internal context-aware networking, he conveyed the significance of these networks in product building. The talk was concluded by [Mr. Nanda Kambhatla](http://researcher.watson.ibm.com/researcher/view.php?person=in-kambhatla){:target="_blank"}, Leader Cognitive Solutions, Global Business Services, Asia Pacific (IBM). He talked about the importance of deep learning and how it is changing machine’s interaction with humans. He also talked about the hybrid models that combine recurrent neural networks and convolutional neural networks for question answering and image understanding at IBM. 
 
-Being one of the largest computing conferences in India, the Grace Hopper Celebration definitely introduced us to many innovative ideas that are coming up in the industry today. It emphasised not only on the latest research happening in India but also on its applications to build usable products. The students who attended this conference were motivated to implement unique programs such as computing mentorships. The conference gave a good insight into the current trends in the industry.
+Being one of the largest computing conferences in India, the Grace Hopper Celebration definitely brought many innovative ideas that are coming up in the industry into the limelight. It emphasised not only on the latest research happening in India but also on its applications to build usable products. The students who attended this conference were motivated to implement unique programs such as computing mentorships. The conference gave a good insight into the current trends in the industry.
+
+A big shout out to [Soumya Sharma](https://www.linkedin.com/in/soummyaah){:target="_blank"} (final year student at IIIT-D, and a recepient of the Google Anita Borg Memorial Scholarship 2016) for attending the conference and reporting the details of events on behalf of ML-India.
 
 
 
