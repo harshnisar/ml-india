@@ -75,7 +75,7 @@ major breakthroughs in the last 20-30 years?
 basic understanding, yes, we’ve gotten many new insights. The biggest
 breakthrough came around 50 years ago which gave a clearer understanding of the
 activity of neurons. [Hodgkin
-and Huxley](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model){:target="_blank"}, who got the Nobel prize for this work, answered how information is <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hodgkin-Huxley.svg/350px-Hodgkin-Huxley.svg.png" caption="Hodgkin and Huxley Model" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
+and Huxley](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model){:target="_blank"}, who got the Nobel prize for this work, answered how information is <figure> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hodgkin-Huxley.svg/350px-Hodgkin-Huxley.svg.png" caption="" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"><figcaption>Fig:Hodgkin and Huxley Model</figcaption> </figure>
 converted into electrical pulses and determined the equations of such a
 transfer while considering the concentration of ions inside and outside the
 neuron. The visual system was the first to be studied in detail. [Hubel and
@@ -166,7 +166,7 @@ on our website- [treadwill.org](https://www.treadwill.org/){:target="_blank"}.
 this conversation that experimental analysis trumps theoretical studies in
 neuroscience. Which is unlike the case in, say, computer science.
 
-**Nitin:** Yes, that is
+**Nitin:** Yes, that is <img src="https://s30.postimg.org/hd4hpqhdd/quote.jpg" caption="" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
 accurate. Neuroscience is at a stage where we are still severely limited by
 experimental data. I think that our understanding of different parameters of
 neurons and of different types of neurons is very limited. We have a long way
@@ -183,7 +183,7 @@ initiative](https://www.whitehouse.gov/share/brain-initiative){:target="_blank"}
 through innovative neurotechnology. The idea, again, is to focus on developing
 new techniques using recent tools of nanotechnology and in developing optical
 techniques to record and manipulate the activity of the neuron. Another is a
-Europe-wide project called the [Human Brain Project](https://www.humanbrainproject.eu/){:target="_blank"}. It is partly dedicated to developing<img src="https://pbs.twimg.com/profile_images/660035391442042880/v7RkSosC.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
+Europe-wide project called the [Human Brain Project](https://www.humanbrainproject.eu/){:target="_blank"}. It is partly dedicated to developing<img src="https://pbs.twimg.com/profile_images/660035391442042880/v7RkSosC.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:20%">
 new technologies and is partly into developing computer models to incorporate
 all the experimental data that exists currently. There is a group at [Janelia
 research farms](http://www.hhmi.org/programs/biomedical-research/janelia-research-campus){:target="_blank"}, which is a campus of the Howard Hughes Medical Institute, that has set
@@ -262,6 +262,7 @@ that it’s easier to study biology after engineering than going the other way.
 So people need not be afraid of entering this field. Also, it is a really good
 time to be in neuroscience research. With some great research happening in this
 field, students and researchers will learn a lot!
+
  
 **ML India:** Thank you
 for your time, Nitin. Best wishes from ML-India for your future work.
