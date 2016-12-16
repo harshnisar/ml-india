@@ -190,7 +190,7 @@ new technologies and is partly into developing computer models to incorporate
 all the experimental data that exists currently. There is a group at [Janelia
 research farms](http://www.hhmi.org/programs/biomedical-research/janelia-research-campus){:target="_blank"}, which is a campus of the Howard Hughes Medical Institute, that has set
 up an institute to focus primarily on neuroscience. They are using the [_Drosophila
-(_a small fly_) _](https://en.wikipedia.org/wiki/Drosophila){:target="_blank"} model system to map most of the neurons in the brain.
+(a small fly_)](https://en.wikipedia.org/wiki/Drosophila){:target="_blank"} model system to map most of the neurons in the brain.
 They are using genetic tools to examine neurons’ structure and activities and
 their role in determining various behaviors in animals. I think this will
 become very powerful in the coming years.
