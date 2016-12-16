@@ -106,11 +106,10 @@ the activity of specific neurons by illuminating them.
 how would you place your work?
 
 **Nitin:** I’m currently
-working on the ‘molecular’ and ‘systems’ levels. The majority of work in [my lab](https://sites.google.com/site/labofneuralsystems/){:target="_blank"} is being done on olfactory systems.
-That can be described as work done in systems neuroscience. We’re trying to
+working on the ‘molecular’ and ‘systems’ levels. The majority of work in [my lab](https://sites.google.com/site/labofneuralsystems/){:target="_blank"} is being done on olfactory systems. <img src="http://www.crystalinks.com/olfaction.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">That can be described as work done in systems neuroscience. We’re trying to
 analyze how different smells are processed in the brain. We are using insects
 as our model systems because they are easy to experiment on, they have a very
-well developed sense of smell and their olfactory systems <img src="http://www.crystalinks.com/olfaction.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> are similar in
+well developed sense of smell and their olfactory systems  are similar in
 organization to that in humans. Specifically, I’m trying to understand how
 certain smells become attractive or repulsive to mosquitoes. It has been
 observed that mosquitoes use our body’s smell as one of the cues for finding
@@ -190,7 +189,7 @@ new technologies and is partly into developing computer models to incorporate
 all the experimental data that exists currently. There is a group at [Janelia
 research farms](http://www.hhmi.org/programs/biomedical-research/janelia-research-campus){:target="_blank"}, which is a campus of the Howard Hughes Medical Institute, that has set
 up an institute to focus primarily on neuroscience. They are using the [_Drosophila
-(_a small fly_) _](https://en.wikipedia.org/wiki/Drosophila){:target="_blank"} model system to map most of the neurons in the brain.
+(a small fly_)](https://en.wikipedia.org/wiki/Drosophila){:target="_blank"} model system to map most of the neurons in the brain.
 They are using genetic tools to examine neurons’ structure and activities and
 their role in determining various behaviors in animals. I think this will
 become very powerful in the coming years.
