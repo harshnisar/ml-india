@@ -106,8 +106,7 @@ the activity of specific neurons by illuminating them.
 how would you place your work?
 
 **Nitin:** I’m currently
-working on the ‘molecular’ and ‘systems’ levels. The majority of work in [my lab](https://sites.google.com/site/labofneuralsystems/){:target="_blank"} is being done on olfactory systems.
-That can be described as work done in systems neuroscience. <img src="http://www.crystalinks.com/olfaction.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">We’re trying to
+working on the ‘molecular’ and ‘systems’ levels. The majority of work in [my lab](https://sites.google.com/site/labofneuralsystems/){:target="_blank"} is being done on olfactory systems. <img src="http://www.crystalinks.com/olfaction.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">That can be described as work done in systems neuroscience. We’re trying to
 analyze how different smells are processed in the brain. We are using insects
 as our model systems because they are easy to experiment on, they have a very
 well developed sense of smell and their olfactory systems  are similar in
