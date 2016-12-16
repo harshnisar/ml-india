@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "ML-India interview series - Ms. Priya Radhakrishnan, PhD Student, Search and Infortmation Extraction at IIIT Hyderabad"
+title: "ML-India interview series - Dr. Nitin Gupta, Assistant Professor, IIT Kanpur"
 
-excerpt: "Priya is a PhD student in Computer Science and Engineering at IIIT Hyderabad. Her research area is Semantic Search. She is associated with the Search and Information Extraction Lab under Prof. Vasudeva Varma. She was a telecom engineer for 10 years at Alcatel Lucent. During her tenure there, she worked as technical specialist handling roles involving software development, testing, development support and coordination.
+excerpt: "Nitin is an assistant professor at IIT Kanpur. He graduated from IIT Kanpur in 2004 with a B.Tech. in computer science and an interest in biology. He then joined the Ph.D program in bioinformatics and systems biology at the University of California, San Diego (UCSD). After completing his PhD in 2009, he spent a few months in a cognitive neuroscience lab at UCSD, and then moved to the National Institutes of Health as a post-doc to learn electrophysiology. He specializes in systems neuroscience, olfaction, computational biology. His research interest lies in understanding the fundamental mechanisms used by neural circuits for processing information.
 "
 tags: [india, machine learning, data science, interview, priya, IIIT-H, International Institute of Information Technology Hyderabad]
 comments: true
@@ -11,12 +11,12 @@ tags_relevant: [interview]
 ---
 
 
-<img src="/images/008067e.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> <br> Priya is a PhD student in Computer Science and Engineering at IIIT Hyderabad. Her research area is Semantic Search. She is associated with the Search and Information Extraction Lab under Prof. Vasudeva Varma. She was a telecom engineer for 10 years at Alcatel Lucent. During her tenure there, she worked as technical specialist handling roles involving software development, testing, development support and coordination.
+<img src="/images/008067e.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> <br> [Nitin](http://iitk.ac.in/new/nitin-gupta){:target="_blank"} is an assistant professor at IIT Kanpur. He graduated from IIT Kanpur in 2004 with a B.Tech. in computer science and an interest in biology. He then joined the Ph.D program in bioinformatics and systems biology at the University of California, San Diego (UCSD). After completing his PhD in 2009, he spent a few months in a cognitive neuroscience lab at UCSD, and then moved to the National Institutes of Health as a post-doc to learn electrophysiology. He specializes in systems neuroscience, olfaction, computational biology. His research interest lies in understanding the fundamental mechanisms used by neural circuits for processing information.
 
 
 
 <br>
-Priya on..
+Nitin on..
 
 - <a href="#key"> Key learnings at IIIT-H </a>
 - <a href="#proj"> Her PhD project </a>
@@ -24,12 +24,10 @@ Priya on..
 
 <br>
 
-ML India: How did you
+**ML India:** How did you
 get into the field of neuroscience?
 
- 
-
-Nitin: I had always
+**Nitin:** I had always
 been interested in the philosophical aspects of how we think and how we are
 able to remember things. Initially, it was just a curiosity. But while I was
 pursuing my B.Tech in computer science, I got exposed to biology through some
@@ -40,15 +38,11 @@ well switch fields since I was spending so much time on neuroscience. I got an
 opportunity to do my post-doctoral studies in neuroscience and I took it. I’ve
 been into this field ever since.
 
- 
-
-ML: Could you let us
+**ML India:** Could you let us
 know of some of the fundamental problems in neuroscience that are being solved
 today?
 
- 
-
-Nitin: Over the
+**Nitin:** Over the
 years, neuroscience has become a vast field and people are working at many
 levels to understand the brain. One could categorize the studies into three
 levels. One is at the ‘molecular/cellular’ level. People conducting studies at
@@ -74,14 +68,10 @@ manipulate the brain’s activity to relieve someone from a disorder, is an
 example of applied neuroscience. However, most of the research that is
 happening is in the fundamental domain.
 
- 
-
-ML: Have we had any
+**ML India:** Have we had any
 major breakthroughs in the last 20-30 years?
 
- 
-
-Nitin: In terms of
+**Nitin:** In terms of
 basic understanding, yes, we’ve gotten many new insights. The biggest
 breakthrough came around 50 years ago which gave a clearer understanding of the
 activity of neurons. [Hodgkin
@@ -110,14 +100,10 @@ place in that region. One can then use just a microscope to image the activity
 of a large number of neurons. Academics have also developed proteins that can change
 the activity of specific neurons by illuminating them.
 
- 
-
-ML: In this canvas,
+**ML India:** In this canvas,
 how would you place your work?
 
- 
-
-Nitin: I’m currently
+**Nitin:** I’m currently
 working on the ‘molecular’ and ‘systems’ levels. The majority of work in [my lab](https://sites.google.com/site/labofneuralsystems/){:target="_blank"} is being done on olfactory systems.
 That can be described as work done in systems neuroscience. We’re trying to
 analyze how different smells are processed in the brain. We are using insects
@@ -131,14 +117,10 @@ plays an important role. Different smells of people can determine whether
 mosquitoes will bite them. Our work might help in producing more effective
 repellents which are less harmful to humans.
 
- 
-
-ML: How does your
+**ML India:** How does your
 training in computer science come into the picture?
 
- 
-
-Nitin: There are many
+**Nitin:** There are many
 ways in which computer science is useful. One area is the analysis of
 experiments. Experimental tools generate a lot of data and one needs the
 knowledge of data analysis techniques to make sense of it. For instance,
@@ -152,8 +134,6 @@ pick up activity from other neighboring neurons as well. Within a single trace,
 we obtain a mixed activity of neurons. Analyzing such traces would typically
 involve the usage of some of the techniques mentioned above.
 
- 
-
 The other area is
 modeling or simulations of neuro-systems. Based on the knowledge that we have
 about how neurons function, we can make a computer representation of a neural
@@ -163,14 +143,10 @@ the considered configuration and we can then provide it input and observe the
 overall activity of the network to look for any patterns that may be occurring.
 This kind of modeling predicts the behavior of such specific networks.
 
- 
-
-ML: What are some of
+**ML India:** What are some of
 the other projects going on in your lab?
 
- 
-
-We recently started
+**Nitin:** We recently started
 working in the applied cognitive area. In this work, we are not doing
 fundamental discoveries but are using what is known to alleviate a disease. For
 instance, people who have depression use medication for relief, and some people
@@ -186,27 +162,22 @@ involve machine learning to match and personalize interventions with the
 patients’ personalities. Once developed, this software will be made available
 on our website- [treadwill.org](https://www.treadwill.org/){:target="_blank"}.
 
- 
-
-ML: It seems from
+**ML India:** It seems from
 this conversation that experimental analysis trumps theoretical studies in
 neuroscience. Which is unlike the case in, say, computer science.
 
-Nitin: Yes, that is
+**Nitin:** Yes, that is
 accurate. Neuroscience is at a stage where we are still severely limited by
 experimental data. I think that our understanding of different parameters of
 neurons and of different types of neurons is very limited. We have a long way
 to go before we have sufficient data on various parts of the brain.
 
  
-
-ML: You talked about
+**ML India:** You talked about
 the human genome project. Any other grand initiatives which are happening in
 the field of neuroscience?
 
- 
-
-Nitin: There are a
+**Nitin:** There are a
 few big initiatives happening. One is called the [BRAIN
 initiative](https://www.whitehouse.gov/share/brain-initiative){:target="_blank"} by the US government which is trying to accelerate brain research
 through innovative neurotechnology. The idea, again, is to focus on developing
@@ -222,15 +193,11 @@ They are using genetic tools to examine neurons’ structure and activities and
 their role in determining various behaviors in animals. I think this will
 become very powerful in the coming years.
 
- 
-
-ML: Your thoughts on
+**ML India:** Your thoughts on
 the current state of the art being pursued in India? Are there any fundamental
 problems being chased down and hunted by the groups in India?
 
- 
-
-Nitin: I think
+**Nitin:** I think
 neuroscience is a growing field. It is really small in India in comparison to
 the traditional fields of biochemistry and biophysics. There are a few
 academics doing very good work. For example, Prof. [Upinder Bhalla](https://www.ncbs.res.in/faculty/bhalla){:target="_blank"} at [NCBS](https://www.ncbs.res.in/){:target="_blank"} is working on memory. At my institute,
@@ -240,15 +207,11 @@ to understand and identify the causal proteins. [Dr.
 Jonaki Sen](http://www.iitk.ac.in/bsbe/jonaki-sen){:target="_blank"}, who is into developmental neuroscience, is studying how neurons
 develop and form connections as an animal grows in age.
 
- 
-
-ML: Where do you
+**ML India:** Where do you
 think India can improve? Any low hanging initiatives that you think can we can
 target to push the envelope in neuroscience?
 
- 
-
-Nitin: Since the
+**Nitin:** Since the
 neuroscience community in India is very small currently and geographically
 dispersed, it is certainly desirable to hold regular meetings and discussions
 to come up with interesting new ideas. In terms of projects, I think science is
@@ -263,28 +226,20 @@ abroad. Also, my kind of work requires students who are comfortable with
 engineering concepts as well as have an interest in biology, and it is not easy
 to find such students.
 
- 
-
-ML: What are the
+**ML India:** What are the
 future steps in your research?
 
- 
-
-Nitin: We’ll continue
+**Nitin:** We’ll continue
 working primarily in the areas of olfaction and mosquito behavior. We are
 thinking of starting some work on genetic modifications of mosquitoes so that
 we can use optical manipulation tools on them. In the cognitive domain, we may
 expand to other disorders beyond depression and will try to make our tools
 smarter.
 
- 
-
-ML: What would you
+**ML India:** What would you
 recommend to a non-biologist aiming to enter this field and get a sense of it?
 
- 
-
-Nitin: There are
+**Nitin:** There are
 plenty of online courses available today for students who are interested in
 neuroscience. One particular course that I liked is ‘[Fundamentals
 of Neuroscience](https://www.edx.org/course/fundamentals-neuroscience-part-1-harvardx-mcb80-1x-0){:target="_blank"}’ taught by a professor at Harvard. Also, labs in India are open to
@@ -293,14 +248,10 @@ this field and are willing to spend some time. Year-long projects at these labs
 will very helpful to students who are looking to get a cross-disciplinary
 experience.
 
- 
-
-ML: Any closing
+**ML India:** Any closing
 thoughts?
 
- 
-
-Nitin: Engineering
+**Nitin:** Engineering
 students and professionals who are interested in biological fields should not
 hesitate in exploring this as a career option. People usually think that it
 will be really difficult to succeed in this field since they haven’t studied
@@ -311,10 +262,8 @@ that it’s easier to study biology after engineering than going the other way.
 So people need not be afraid of entering this field. Also, it is a really good
 time to be in neuroscience research. With some great research happening in this
 field, students and researchers will learn a lot!
-
  
-
-ML India: Thank you
+**ML India:** Thank you
 for your time, Nitin. Best wishes from ML-India for your future work.
 
  
