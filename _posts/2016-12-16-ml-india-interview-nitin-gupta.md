@@ -18,8 +18,8 @@ tags_relevant: [interview]
 <br>
 Nitin on..
 
-- <a href="#key"> Key learnings at IIIT-H </a>
-- <a href="#proj"> Her PhD project </a>
+- <a href="#key"> Some fundamental problems in neuroscience </a>
+- <a href="#proj"> Major neuroscientific breakthroughs in the past 20-30 years </a>
 - <a href="#state"> Current state of ML space in India  </a>
 
 <br>
@@ -37,6 +37,8 @@ exploring topics in [neuroscience](https://en.wikipedia.org/wiki/Neuroscience) .
 well switch fields since I was spending so much time on neuroscience. I got an
 opportunity to do my post-doctoral studies in neuroscience and I took it. I’ve
 been into this field ever since.
+
+<a name="key"></a>
 
 **ML India:** Could you let us
 know of some of the fundamental problems in neuroscience that are being solved
