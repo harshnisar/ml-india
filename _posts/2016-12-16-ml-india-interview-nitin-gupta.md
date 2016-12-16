@@ -24,7 +24,7 @@ Nitin on..
 
 <br>
 
-**ML India:** How did you
+**ML-India:** How did you
 get into the field of neuroscience?
 
 **Nitin:** I had always
@@ -40,7 +40,7 @@ been into this field ever since.
 
 <a name="key"></a>
 
-**ML India:** Could you let us
+**ML-India:** Could you let us
 know of some of the fundamental problems in neuroscience that are being solved
 today?
 
@@ -70,7 +70,7 @@ manipulate the brain’s activity to relieve someone from a disorder, is an
 example of applied neuroscience. However, most of the research that is
 happening is in the fundamental domain.
 
-**ML India:** Have we had any
+**ML-India:** Have we had any
 major breakthroughs in the last 20-30 years?
 
 **Nitin:** In terms of
@@ -102,7 +102,7 @@ of a large number of neurons. Academics have also developed proteins that can ch
 the activity of specific neurons by illuminating them.
 
 <a name="proj"></a>
-**ML India:** In this canvas,
+**ML-India:** In this canvas,
 how would you place your work?
 
 **Nitin:** I’m currently
@@ -119,7 +119,7 @@ plays an important role. Different smells of people can determine whether
 mosquitoes will bite them. Our work might help in producing more effective
 repellents which are less harmful to humans.
 
-**ML India:** How does your
+**ML-India:** How does your
 training in computer science come into the picture?
 
 **Nitin:** There are many
@@ -145,7 +145,7 @@ the considered configuration and we can then provide it input and observe the
 overall activity of the network to look for any patterns that may be occurring.
 This kind of modeling predicts the behavior of such specific networks.
 
-**ML India:** What are some of
+**ML-India:** What are some of
 the other projects going on in your lab?
 
 **Nitin:** We recently started
@@ -164,7 +164,7 @@ involve machine learning to match and personalize interventions with the
 patients’ personalities. Once developed, this software will be made available
 on our website- [treadwill.org](https://www.treadwill.org/){:target="_blank"}.
 
-**ML India:** It seems from
+**ML-India:** It seems from
 this conversation that experimental analysis trumps theoretical studies in
 neuroscience. Which is unlike the case in, say, computer science.
 
@@ -175,7 +175,7 @@ neurons and of different types of neurons is very limited. We have a long way
 to go before we have sufficient data on various parts of the brain.
 
 
-**ML India:** You talked about
+**ML-India:** You talked about
 the human genome project. Any other grand initiatives which are happening in
 the field of neuroscience?
 
@@ -197,7 +197,7 @@ become very powerful in the coming years.
 
 <a name="state"></a>
 
-**ML India:** Your thoughts on
+**ML-India:** Your thoughts on
 the current state of the art being pursued in India? Are there any fundamental
 problems being chased down and hunted by the groups in India?
 
@@ -212,7 +212,7 @@ Jonaki Sen](http://www.iitk.ac.in/bsbe/jonaki-sen){:target="_blank"}, who is int
 develop and form connections as an animal grows in age.
 
 
-**ML India:** Where do you
+**ML-India:** Where do you
 think India can improve? Any low hanging initiatives that you think can we can
 target to push the envelope in neuroscience?
 
@@ -231,7 +231,7 @@ abroad. Also, my kind of work requires students who are comfortable with
 engineering concepts as well as have an interest in biology, and it is not easy
 to find such students.
 
-**ML India:** What are the
+**ML-India:** What are the
 future steps in your research?
 
 **Nitin:** We’ll continue
@@ -241,7 +241,7 @@ we can use optical manipulation tools on them. In the cognitive domain, we may
 expand to other disorders beyond depression and will try to make our tools
 smarter.
 
-**ML India:** What would you
+**ML-India:** What would you
 recommend to a non-biologist aiming to enter this field and get a sense of it?
 
 **Nitin:** There are
@@ -253,7 +253,7 @@ this field and are willing to spend some time. Year-long projects at these labs
 will very helpful to students who are looking to get a cross-disciplinary
 experience.
 
-**ML India:** Any closing
+**ML-India:** Any closing
 thoughts?
 
 **Nitin:** Engineering
@@ -269,7 +269,7 @@ time to be in neuroscience research. With some great research happening in this
 field, students and researchers will learn a lot!
 
 
-**ML India:** Thank you
+**ML-India:** Thank you
 for your time, Nitin. Best wishes from ML-India for your future work.
 
  
