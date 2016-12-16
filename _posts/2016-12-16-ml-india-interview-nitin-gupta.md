@@ -171,7 +171,7 @@ experimental data. I think that our understanding of different parameters of
 neurons and of different types of neurons is very limited. We have a long way
 to go before we have sufficient data on various parts of the brain.
 
- 
+
 **ML India:** You talked about
 the human genome project. Any other grand initiatives which are happening in
 the field of neuroscience?
@@ -262,7 +262,7 @@ So people need not be afraid of entering this field. Also, it is a really good
 time to be in neuroscience research. With some great research happening in this
 field, students and researchers will learn a lot!
 
- 
+
 **ML India:** Thank you
 for your time, Nitin. Best wishes from ML-India for your future work.
 
