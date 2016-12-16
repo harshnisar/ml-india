@@ -50,7 +50,7 @@ this level are trying to understand the composition of our nervous system and
 answer questions like “What are neurons made of?” and “What are the individual chemical
 molecules present in neurons that determine how they function?”. Another is at
 the ‘circuits and systems’ level, where people are trying to understand the
-circuits connecting neurons.<img src="https://www.ucsfhealth.org/images/brain_image.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> Consider the functioning of the visual system when
+circuits connecting neurons.<img src="https://www.ucsfhealth.org/images/brain_image.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:45%"> Consider the functioning of the visual system when
 someone sees an object - light travels to the retina, from which the
 information then goes through a bunch of nerves to the primary visual cortex
 V1. It then moves to V2, V3 and so on. People have been interested in
@@ -75,7 +75,7 @@ major breakthroughs in the last 20-30 years?
 basic understanding, yes, we’ve gotten many new insights. The biggest
 breakthrough came around 50 years ago which gave a clearer understanding of the
 activity of neurons. [Hodgkin
-and Huxley](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model){:target="_blank"}, who got the Nobel prize for this work, answered how information is <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hodgkin-Huxley.svg/350px-Hodgkin-Huxley.svg.png" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
+and Huxley](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model){:target="_blank"}, who got the Nobel prize for this work, answered how information is <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hodgkin-Huxley.svg/350px-Hodgkin-Huxley.svg.png" caption="Hodgkin and Huxley Model" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
 converted into electrical pulses and determined the equations of such a
 transfer while considering the concentration of ions inside and outside the
 neuron. The visual system was the first to be studied in detail. [Hubel and
