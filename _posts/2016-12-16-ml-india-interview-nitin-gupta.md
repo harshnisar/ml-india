@@ -20,7 +20,7 @@ Nitin on..
 
 - <a href="#key"> Some fundamental problems in neuroscience </a>
 - <a href="#proj"> His current work </a>
-- <a href="#state"> Current state of ML space in India  </a>
+- <a href="#state"> Current state of the art being pursued in India  </a>
 
 <br>
 
@@ -194,7 +194,7 @@ up an institute to focus primarily on neuroscience. They are using the [_Drosoph
 They are using genetic tools to examine neurons’ structure and activities and
 their role in determining various behaviors in animals. I think this will
 become very powerful in the coming years.
-
+<a name="state"></a>
 **ML India:** Your thoughts on
 the current state of the art being pursued in India? Are there any fundamental
 problems being chased down and hunted by the groups in India?
@@ -208,7 +208,8 @@ cellular aspect of the [Lafora disease](https://en.wikipedia.org/wiki/Lafora_dis
 to understand and identify the causal proteins. [Dr.
 Jonaki Sen](http://www.iitk.ac.in/bsbe/jonaki-sen){:target="_blank"}, who is into developmental neuroscience, is studying how neurons
 develop and form connections as an animal grows in age.
-<a name="state"></a>
+
+
 **ML India:** Where do you
 think India can improve? Any low hanging initiatives that you think can we can
 target to push the envelope in neuroscience?
