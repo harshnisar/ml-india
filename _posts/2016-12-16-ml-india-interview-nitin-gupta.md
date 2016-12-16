@@ -101,6 +101,7 @@ place in that region. One can then use just a microscope to image the activity
 of a large number of neurons. Academics have also developed proteins that can change
 the activity of specific neurons by illuminating them.
 
+<a name="proj"></a>
 **ML India:** In this canvas,
 how would you place your work?
 
@@ -207,7 +208,7 @@ cellular aspect of the [Lafora disease](https://en.wikipedia.org/wiki/Lafora_dis
 to understand and identify the causal proteins. [Dr.
 Jonaki Sen](http://www.iitk.ac.in/bsbe/jonaki-sen){:target="_blank"}, who is into developmental neuroscience, is studying how neurons
 develop and form connections as an animal grows in age.
-
+<a name="state"></a>
 **ML India:** Where do you
 think India can improve? Any low hanging initiatives that you think can we can
 target to push the envelope in neuroscience?
