@@ -11,7 +11,7 @@ tags_relevant: [interview]
 ---
 
 
-<img src="https://s23.postimg.org/xq24066gr/008067e.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> <br> [Nitin](http://iitk.ac.in/new/nitin-gupta){:target="_blank"} is an assistant professor at IIT Kanpur. He graduated from IIT Kanpur in 2004 with a B.Tech. in computer science and an interest in biology. He then joined the Ph.D program in bioinformatics and systems biology at the University of California, San Diego (UCSD). After completing his PhD in 2009, he spent a few months in a cognitive neuroscience lab at UCSD, and then moved to the National Institutes of Health as a post-doc to learn electrophysiology. He specializes in systems neuroscience, olfaction, computational biology. His research interest lies in understanding the fundamental mechanisms used by neural circuits for processing information.
+<img src="https://s23.postimg.org/xq24066gr/008067e.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> [Nitin](http://iitk.ac.in/new/nitin-gupta){:target="_blank"} is an assistant professor at IIT Kanpur. He graduated from IIT Kanpur in 2004 with a B.Tech. in computer science and an interest in biology. He then joined the Ph.D program in bioinformatics and systems biology at the University of California, San Diego (UCSD). After completing his PhD in 2009, he spent a few months in a cognitive neuroscience lab at UCSD, and then moved to the National Institutes of Health as a post-doc to learn electrophysiology. He specializes in systems neuroscience, olfaction, computational biology. His research interest lies in understanding the fundamental mechanisms used by neural circuits for processing information.
 
 
 
