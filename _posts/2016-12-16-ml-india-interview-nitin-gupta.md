@@ -19,7 +19,7 @@ tags_relevant: [interview]
 Nitin on..
 
 - <a href="#key"> Some fundamental problems in neuroscience </a>
-- <a href="#proj"> Major neuroscientific breakthroughs in the past 20-30 years </a>
+- <a href="#proj"> Current work </a>
 - <a href="#state"> Current state of ML space in India  </a>
 
 <br>
