@@ -75,8 +75,7 @@ major breakthroughs in the last 20-30 years?
 basic understanding, yes, we’ve gotten many new insights. The biggest
 breakthrough came around 50 years ago which gave a clearer understanding of the
 activity of neurons. [Hodgkin
-and Huxley](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model){:target="_blank"}, who got the Nobel prize for this work, answered how information is <figure> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hodgkin-Huxley.svg/350px-Hodgkin-Huxley.svg.png" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> <figcaption> Fig:Hodgkin and Huxley Model </figcaption> </figure>
-converted into electrical pulses and determined the equations of such a
+and Huxley](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model){:target="_blank"}, who got the Nobel prize for this work, answered how information is converted into electrical pulses and determined the equations of such a
 transfer while considering the concentration of ions inside and outside the
 neuron. The visual system was the first to be studied in detail. [Hubel and
 Weisel](http://knowingneurons.com/2014/10/29/hubel-and-wiesel-the-neural-basis-of-visual-perception/){:target="_blank"}, again Nobel
@@ -108,7 +107,7 @@ working on the ‘molecular’ and ‘systems’ levels. The majority of work in
 That can be described as work done in systems neuroscience. We’re trying to
 analyze how different smells are processed in the brain. We are using insects
 as our model systems because they are easy to experiment on, they have a very
-well developed sense of smell and their olfactory systems are similar in
+well developed sense of smell and their olfactory systems <img src="http://www.crystalinks.com/olfaction.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> are similar in
 organization to that in humans. Specifically, I’m trying to understand how
 certain smells become attractive or repulsive to mosquitoes. It has been
 observed that mosquitoes use our body’s smell as one of the cues for finding
