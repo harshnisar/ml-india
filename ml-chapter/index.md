@@ -74,7 +74,7 @@ input:checked + label {
 </script>
 
 # Want to organize a meetup in your city? 
-<p><b> [Download](/ml-chapter/ml meetup guide.pdf) our step-by-step guide! </b></p>
+<p><b> <a href="/ml-chapter/ml meetup guide.pdf">Download</a> our step-by-step guide! </b></p>
 
 <body onload="pageSet()">
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
