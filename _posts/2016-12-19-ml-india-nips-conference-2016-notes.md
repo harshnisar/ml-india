@@ -26,6 +26,6 @@ Here are some interesting spotlight videos and workshops at NIPS this year - 
 
 - [On leveraging interpretability of graphical models with the predictability of neural networks](https://www.youtube.com/watch?v=btr1poCYIzw){:target="_blank"}
 
-- [On using machine learning techniques to conduct neuroscientific analyses](http://www.stat.ucla.edu/~akfletcher/brainsbits.html){:target="_blank"}
+- [On using machine learning techniques to conduct neuroscientific analyses](http://www.stat.ucla.edu/~akfletcher/brainsbits.html){:target="_blank"}
 
 We are in the process of compiling Indian researchers' work presented at NIPS 2016. If you presented any or are aware of such presentations, please feel free to share here with the rest of the group.
