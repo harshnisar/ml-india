@@ -16,7 +16,7 @@ NIPS 2016 was held from 5th-10th December, 2016, in Barcelona, Spain. This year,
 
 We present here some notes from the conference prepared by various researchers -
 
-- Click [here](http://inverseprobability.com/2016/12/13/nips-highlights.html){:target="_blank"} to view Neil Lawrence's, Professor of machine learning at University of Sheffield, post-NIPS reflections. 
+- Click [here](http://inverseprobability.com/2016/12/13/nips-highlights.html){:target="_blank"} to view [Neil Lawrence](http://siid.group.shef.ac.uk/team/prof-neil-lawrence/){:target="_blank"}'s, Professor of machine learning at University of Sheffield, post-NIPS reflections. 
 
 - Click [here](https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.q9kzmwjo2){:target="_blank"} to view These are [Jeremy Karnowski](https://twitter.com/mwakanosya){:target="_blank"}'s & [Ross Fadely](https://twitter.com/rossfadely){:target="_blank"}'s notes from the event.
 
