@@ -12,7 +12,7 @@ The Conference and Workshop on Neural Information Processing Systems (NIPS) is a
 
 NIPS 2016 recently concluded in Barcelona, Spain. This year, the conference had close to 730 accepted papers and posters along with 50+ workshops and tutorials. The keynote was provided by speakers from FB research, Salk institute, Deep Mind and Boston Dynamics and a couple more. Click [here](https://nips.cc/){:target="_blank"} for more details.
 
-<img src="http://bayesiandeeplearning.org/images/NIPS.svg" align='center' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
+<img src="http://bayesiandeeplearning.org/images/NIPS.svg" align='center' style="margin-right:5px; margin-top:9px; margin-left:220px; width:30%">
 
 We present here some notes from the conference prepared by various researchers -
 
