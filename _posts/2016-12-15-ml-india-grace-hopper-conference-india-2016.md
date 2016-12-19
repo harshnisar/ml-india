@@ -25,7 +25,7 @@ He discussed how network based algorithms are helping companies in building prod
 
 Being one of the largest computing conferences in India, the Grace Hopper Celebration definitely highlighted many innovative ideas that are coming up in the industry today. It emphasised not only on the latest research happening in India but also on its applications to build usable products. The students who attended this conference were motivated to implement unique programs such as computing mentorships. The conference gave a good insight into the current trends in the industry.
 
-A big shout out to [Soumya Sharma](https://www.linkedin.com/in/soummyaah){:target="_blank"} (final year student at IIIT-D, and a recepient of the Google Anita Borg Memorial Scholarship 2016) for attending the conference and reporting the details of events on behalf of ML-India.
+A big shout out to [Soumya Sharma](https://www.linkedin.com/in/soummyaah){:target="_blank"} (final year student at IIIT-D, and a recepient of the Google Anita Borg Memorial Scholarship 2016) for attending the conference and reporting the details of the events on behalf of ML-India.
 
 
 
