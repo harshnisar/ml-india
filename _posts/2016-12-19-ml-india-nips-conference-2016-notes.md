@@ -16,16 +16,16 @@ NIPS 2016 recently concluded in Barcelona, Spain. This year, the conference had 
 
 We present here some notes from the conference prepared by various researchers -
 
-Click [here](http://inverseprobability.com/2016/12/13/nips-highlights.html){:target="_blank"} to view Neil Lawrence's, Professor of machine learning at University of Sheffield, post-NIPS reflections. 
+- Click [here](http://inverseprobability.com/2016/12/13/nips-highlights.html){:target="_blank"} to view Neil Lawrence's, Professor of machine learning at University of Sheffield, post-NIPS reflections. 
 
-Click [here](https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.q9kzmwjo2){:target="_blank"} to view These are [Jeremy Karnowski](https://twitter.com/mwakanosya){:target="_blank"}'s & [Ross Fadely](https://twitter.com/rossfadely){:target="_blank"}'s notes from the event.
+- Click [here](https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.q9kzmwjo2){:target="_blank"} to view These are [Jeremy Karnowski](https://twitter.com/mwakanosya){:target="_blank"}'s & [Ross Fadely](https://twitter.com/rossfadely){:target="_blank"}'s notes from the event.
 
-Google managed to get in a number of publications. Click [here](https://research.googleblog.com/2016/12/nips-2016-research-at-google.html){:target="_blank"} to read their blog describing some of their work.
+- Google managed to get in a number of publications. Click [here](https://research.googleblog.com/2016/12/nips-2016-research-at-google.html){:target="_blank"} to read their blog describing some of their work.
 
 Here are some interesting spotlight videos and workshops at NIPS this year - 
 
 - [On leveraging interpretability of graphical models with the predictability of neural networks](https://www.youtube.com/watch?v=btr1poCYIzw){:target="_blank"}
 
-- [On using machine learning techniques to conduct neuroscientific analyses](http://www.stat.ucla.edu/~akfletcher/brainsbits.html){:target="_blank"} 
+- [On using machine learning techniques to conduct neuroscientific analyses](http://www.stat.ucla.edu/~akfletcher/brainsbits.html){:target="_blank"}
 
 We are in the process of compiling Indian researchers' work presented at NIPS 2016. If you presented any or are aware of such presentations, please feel free to share here with the rest of the group.
