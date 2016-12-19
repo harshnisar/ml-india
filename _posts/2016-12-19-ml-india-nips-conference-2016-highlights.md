@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NIPS Conference 2016: Event Updates"
+title: "NIPS Conference 2016: Event highlights"
 excerpt: "The Conference and Workshop on Neural Information Processing Systems (NIPS) is a machine learning and computational neuroscience conference held every December. The conference is a single track meeting that includes invited talks as well as oral and poster presentations of refereed papers, followed by parallel-track workshops that up to 2013 were held at ski resorts. According to Microsoft Academic Search, NIPS is the top conference on machine learning."
 
 tags: [india, machine learning, data science, CVPR, 2015]
