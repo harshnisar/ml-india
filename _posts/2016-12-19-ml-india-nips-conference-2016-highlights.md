@@ -22,6 +22,9 @@ We present here some notes from the conference prepared by various researchers -
 
 - Google managed to get in a number of publications this year. Click [here](https://research.googleblog.com/2016/12/nips-2016-research-at-google.html){:target="_blank"} to read their blog describing some of their work.
 
+- This blog presents a conference report by Andreas Stuhlmülle:   
+  [50 things I learned at NIPS 2016](https://blog.ought.com/nips-2016-875bb8fadb8c){:target="_blank"}
+
 Here are some interesting spotlight videos and workshops at NIPS this year - 
 
 - [On leveraging interpretability of graphical models with the predictability of neural networks](https://www.youtube.com/watch?v=btr1poCYIzw){:target="_blank"}
