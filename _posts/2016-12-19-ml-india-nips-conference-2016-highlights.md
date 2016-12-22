@@ -24,7 +24,7 @@ We present here some notes from the conference prepared by various researchers -
 
 - This blog presents an excellent conference report by Andreas Stuhlmülle.   
 
-  [50 things I learned at NIPS 2016](https://blog.ought.com/nips-2016-875bb8fadb8c){:target="_blank"} by Andreas Stuhlmüller.
+  [50 things I learned at NIPS 2016](https://blog.ought.com/nips-2016-875bb8fadb8c){:target="_blank"}
 
 Here are some interesting spotlight videos and workshops at NIPS this year - 
 
