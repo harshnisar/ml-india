@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Gurgaon chapter | Sixth Meetup"
-excerpt: "ML-India is pleased to inform that the sixth machine learning meetup in its Gurgaon chapter was held on 18th December 2016. The members discussed about the learnings. 
+excerpt: "ML-India is pleased to inform that the sixth machine learning meetup in its Gurgaon chapter was held on 18th December 2016. The members discussed about the learnings and the doubts that they had from Week 2 of CS231, a computer vision and deep learning course offered by Stanford.
 "
 tags: [india, machine learning, data science, gurgaon chapter, ML-India, meetup]
 
