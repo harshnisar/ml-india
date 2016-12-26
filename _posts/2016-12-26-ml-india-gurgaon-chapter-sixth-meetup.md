@@ -17,6 +17,11 @@ In this meetup, the members discussed the learnings and the doubts that they had
 
 In the last hour, they discussed the queries of the participants and also had a small discussion around everything that they can add in the meetups to make them better. A common viewpoint that came up was that the willing members could also present their work during the meetup. Anyone interested could join him/her and they could be teamed up to work on specific applications. They also proposed to brainstorm some basic ideas for building different applications which utilize machine learning techniques. 
 
+
+<figure>
+    <a href="/images/meetupggn6th.jpg"><img src="/images/meetupggn6th.jpg"></a>
+</figure>
+
 Looking forward to more interesting meetups in the future. Spread the word to your friends from Gurgaon/Delhi to enroll for the meetups.
 
 <br>Click [here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
