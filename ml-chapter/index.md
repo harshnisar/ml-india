@@ -151,6 +151,17 @@ input:checked + label {
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-fourth-meetup/" target="blank">here</a>.
       </li>
       <br>
+<li style="margin-left:15px;">27th November, 2016. Discussion on the learnings and doubts from Week 1 of CS231, a computer vision and deep learning course offered by Stanford.
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-fifth-meetup/" target="blank">here</a>.
+      </li>
+      <br>
+      <li style="margin-left:15px;">18th December, 2016. Discussion on the learnings and doubts from Week 2 of CS231, a computer vision and deep learning course offered by Stanford.
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-sixth-meetup/" target="blank">here</a>.
+      </li>
+      <br>
+      
 </ol>     
 <hr>
 
