@@ -27,8 +27,8 @@ We wish that we can continue to assist the machine learning community and devise
 Happy new year!
 
 <figure><center>
-    <a href="/images/nipsgraph (1).jpg"><img src="/images/nipsgraph (1).jpg"></a>
+    <a href="/images/ML india.jpg"><img src="/images/nipsgraph (1).jpg"></a>
     
-    <figcaption>Comparison of top contributors at NIPS 2015 by number of paper accepts</figcaption>
+    <figcaption></figcaption>
     </center>
 </figure>
