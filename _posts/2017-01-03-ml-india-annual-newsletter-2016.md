@@ -8,7 +8,7 @@ comments: true
 tags_relevant: [conferences, india]
 ---
 
-The past year has been great for the Indian machine learning community. With new innovations and solid research, the Indian research in ML has started to pick up decent pace. ML-India is happy to act as a strong interactive platform for various researchers and practitioners, across India, who like to be up to speed with the latest in ML. 
+The past year has been great for the Indian machine learning community. With new innovations and solid research, the Indian research in ML has started to pick up a decent pace. ML-India is happy to act as a strong interactive platform for various researchers and practitioners, across India, who like to be up to speed with the latest in ML. 
 
 We are pleased to share our efforts in the past year. During 2016, our activities spanned five domains- interview series, meetups, conference analyses, Data Angels and open data sets. 
 
