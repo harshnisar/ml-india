@@ -16,9 +16,9 @@ We conducted interviews with ML practitioners from academia and industry to know
 
 We hosted meetups in Bangalore and Gurgaon where ML enthusiasts from diverse backgrounds brainstormed ideas and discussed how they could exploit ML in their everyday life. These meetups had speakers from top institutions and research labs who presented their work and talked about the importance of ML in their projects.
 
-Our analyses of top ML conferences is an attempt to highlight India's contribution to the global research community. We sifted through the publications in NIPS, KDD, ICML and put together a comprehensive analysis of submissions from India and other top contributers.
+Our analyses of top ML conferences is an attempt to highlight India's contribution to the global research community. We sifted through the publications in NIPS, KDD, ICML and put together a comprehensive analysis of submissions from India and other top contributors.
 
-Data Angels is India's first angel initiative to encourage MLand AI backed technologies. Our angel investors and advisors root for the most innovative machine learning led companies from India. These angels have expertise in machine learning and/or experience in building successful technology companies.
+Data Angels is India's first angel initiative to encourage ML and AI backed technologies. Our angel investors and advisors root for the most innovative machine learning led companies from India. These angels have expertise in machine learning and/or experience in building successful technology companies.
 
 We collated various Indian data sets to help researchers and practitioners conduct fresh research. We believe that data is an imperative driver for the success of any new technology and want to provide any/all freely available data right here on ML-India.   
 
