@@ -8,9 +8,9 @@ comments: true
 tags_relevant: [conferences, india]
 ---
 
-The past year has been great for the Indian machine learning community. With new innovations and solid research, the Indian research in ML has started to pick up a decent pace. ML-India is happy to act as a strong interactive platform for various researchers and practitioners, across India, who like to be up to speed with the latest in ML. 
+The past year has been great for the machine learning community. With new innovations and increasing popularity, ML research in India has started to pick up a decent pace. ML-India is happy to act as a strong interactive platform for various researchers and practitioners, across India, who like to be up to speed with the latest in ML.
 
-We are pleased to share our efforts in the past year. During 2016, our activities spanned five domains- interview series, meetups, conference analyses, Data Angels and open data sets. 
+We are pleased to share our efforts to make the Indian ML ecosystem more vibrant. During 2016, our activities mainly spanned five chores- Interview series, meetups, conference analyses, Data Angels and open data sets 
 
 We conducted interviews with ML practitioners from academia and industry to know how they are using the power of ML to make their work more efficient and their products 'smarter'. We talked to professors such as [Dr. Nitin Gupta](http://ml-india.org/ml-india-interview-nitin-gupta/){:target="_blank"} from IIT Kanpur, and ML-practitioners in industry such as [Dr. Manish Gupta](http://ml-india.org/ml-india-interview-manish-gupta/){:target="_blank"} from Xerox Research India. They talked about the current research scenario in India and suggested ways to improve it and instil the practice of research among young students.    
 
@@ -32,3 +32,5 @@ Happy new year!
     <figcaption></figcaption>
     </center>
 </figure>
+
+For the latest updates, [join](https://groups.google.com/forum/#!forum/ml-india) our group. Want your ML company listed? [Send](https://github.com/harshnisar/ml-india) us a request.
