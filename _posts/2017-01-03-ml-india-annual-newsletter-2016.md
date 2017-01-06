@@ -27,7 +27,7 @@ We wish that we can continue to assist the machine learning community and devise
 Happy new year!
 
 <figure><center>
-    <a href="https://s28.postimg.org/3wubtt5ct/ML_india.jpg"><img src="https://s28.postimg.org/3wubtt5ct/ML_india.jpg"></a>
+    <a href="https://s29.postimg.org/a479vumvb/ML_india_600.jpg"><img src="https://s29.postimg.org/a479vumvb/ML_india_600.jpg"></a>
     
     <figcaption></figcaption>
     </center>
