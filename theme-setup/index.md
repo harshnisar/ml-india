@@ -248,7 +248,7 @@ cornelius_fiddlebone:
   name: Cornelius Fiddlebone
   email: cornelius@thewhip.com
   bio: "I ordered what?"
-  avatar: logo.jpg
+  avatar: bio-photo.jpg
   twitter: rhymeswithsackit
   google:
     plus: +CorneliusFiddlebone
