@@ -28,7 +28,7 @@ kramdown:
 # Site owner
 owner:
   name: Machine Learning India
-  avatar: logo.jpg
+  avatar: bio-photo.jpg
   bio: "Fostering data science and machine learning in India"
   disqus-shortname: ml-india
   twitter: ml_india
