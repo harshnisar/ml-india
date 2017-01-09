@@ -7,7 +7,7 @@ tags: [india, machine learning, data science, CVPR, 2015]
 comments: true
 tags_relevant: [conferences, india]
 ---
-
+<br>
 <style>
 #mlIndia table{
 margin:0;
