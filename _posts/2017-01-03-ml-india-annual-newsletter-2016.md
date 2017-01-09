@@ -18,6 +18,3 @@ margin:0;
 </div>
 
 
-For the latest updates, [join](https://groups.google.com/forum/#!forum/ml-india) our group. 
-
-Want your ML company listed? [Send](https://github.com/harshnisar/ml-india) us a request.
