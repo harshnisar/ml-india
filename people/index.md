@@ -2,7 +2,7 @@
 layout: page-table
 title: 
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Indian faculty, research groups and professionals in machine learning and data science"
+excerpt: "Indian faculty, research groups and people in machine learning and data science"
 ---
 <style>
       
@@ -59,7 +59,7 @@ input:checked + label {
       hideDiv(2);
   }
   
-  else if(current_url.match("machine-learning-professionals-india$"))
+  else if(current_url.match("machine-learning-people-india$"))
   {
       document.getElementById("tab3").checked = true;
       hideDiv(3);  
@@ -94,7 +94,7 @@ input:checked + label {
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="none";
      document.getElementById("professionals_div").style.display="inline";
-     window.location.hash = "machine-learning-professionals-india";
+     window.location.hash = "machine-learning-people-india";
    }
  }
 </script>
@@ -130,7 +130,7 @@ input:checked + label {
 
 <div id="professionals_div">
 <hr>
-<h2>Machine Learning Professionals in India</h2>
+<h2>Machine Learning People in India</h2>
 
 {% include _ml-professionals.html %}
 <hr>
