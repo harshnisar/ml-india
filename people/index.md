@@ -108,7 +108,7 @@ input:checked + label {
   <label for="tab2">Faculty And Professors</label> 
   
   <input id="tab3" type="radio" name="tabs" onclick="hideDiv(3)">
-  <label for="tab3" >Professionals</label>
+  <label for="tab3" >People</label>
 
 <div id="research_div">
 <hr>
