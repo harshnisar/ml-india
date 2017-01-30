@@ -11,7 +11,7 @@ comments: true
 
 ---
 
-## Machine Learning Professionals in India
+## Machine Learning People in India
 
 
 {% include _ml-professionals.html %}
