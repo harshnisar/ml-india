@@ -18,11 +18,11 @@ We present here some notes from the conference prepared by various researchers -
 
 - Click [here](http://inverseprobability.com/2016/12/13/nips-highlights.html){:target="_blank"} to view [Neil Lawrence](http://siid.group.shef.ac.uk/team/prof-neil-lawrence/){:target="_blank"}'s, Professor of machine learning at University of Sheffield, post-NIPS reflections. 
 
-- Click [here](https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.q9kzmwjo2){:target="_blank"} to view These are [Jeremy Karnowski](https://twitter.com/mwakanosya){:target="_blank"}'s & [Ross Fadely](https://twitter.com/rossfadely){:target="_blank"}'s notes from the event.
+- [This blog post](https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.q9kzmwjo2){:target="_blank"} is by [Jeremy Karnowski](https://twitter.com/mwakanosya){:target="_blank"}'s & [Ross Fadely](https://twitter.com/rossfadely){:target="_blank"}.
 
 - Google managed to get in a number of publications this year. Click [here](https://research.googleblog.com/2016/12/nips-2016-research-at-google.html){:target="_blank"} to read their blog describing some of their work.
 
-- This blog presents a conference report by Andreas Stuhlmülle:   
+- [[Reference credit: [Dr. Biplav Srivastava](http://researcher.watson.ibm.com/researcher/view.php?person=us-biplavs)]] This blog presents a conference report by Andreas Stuhlmülle:   
   [50 things I learned at NIPS 2016](https://blog.ought.com/nips-2016-875bb8fadb8c){:target="_blank"}
 
 Here are some interesting spotlight videos and workshops at NIPS this year - 
