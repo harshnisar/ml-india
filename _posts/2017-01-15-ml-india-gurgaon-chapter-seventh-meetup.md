@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Gurgaon chapter | Seventh Meetup"
-excerpt: "ML-India is pleased to inform that the sixth machine learning meetup in its Gurgaon chapter was held on 18th December 2016. The members discussed about the learnings and the doubts that they had from Week 2 of CS231, a computer vision and deep learning course offered by Stanford.
+excerpt: "ML-India is pleased to inform that the seventh machine learning meetup in its Gurgaon chapter was held on 15th January 2017. The members discussed the traditional methods for vectorization and the motivation of word vector representations and the central concept of word2vec and their implementation via convolutional neural networks.
 "
 tags: [india, machine learning, data science, gurgaon chapter, ML-India, meetup]
 
@@ -11,15 +11,22 @@ comments: true
 ---
 <br>
 
-ML-India is pleased to inform that the sixth ML-India meetup in its Gurgaon chapter was held on 18th December 2016.
+ML-India is pleased to announce that the seventh ML-India meetup in its Gurgaon chapter was held on 15th January, 2017. 
 
-In this meetup, the members discussed the learnings and the doubts that they had from Week 2 of [CS231](http://cs231n.stanford.edu/){:target="_blank"}, a computer vision and deep learning course offered by Stanford. Different members had completed different number of lectures of the MOOC. Accordingly, the members started working on the assignments. There were a couple of new members as well who attended the meetup for the first time. They were made familiar with the course contents and some basic prerequisites one should have before starting the course. 
+In this meetup, we had an invited talk by [Mr. Janu Verma](https://www.linkedin.com/in/janu-verma-b79b8823){:target="_blank"}. Janu is a machine learning and data visualization researcher at [IBM T.J. Watson Research Center](https://www.research.ibm.com/labs/watson/){:target="_blank"} in New York. Janu discussed about the [vectorization](https://en.wikipedia.org/wiki/Vectorization_(mathematics){:target="_blank"} of textual data and its’ applications in classification problems. 
 
-In the last hour, they discussed the queries of the participants and also had a small discussion around everything that they can add in the meetups to make them better. A common viewpoint that came up was that the willing members could also present their work during the meetup, anyone interested could join him/her and they could be teamed up to work on specific applications. They also proposed to brainstorm some basic ideas for building different applications which utilize machine learning techniques. 
+The talk started from the discussion of the traditional methods for vectorization and the motivation of word vector representations. The talk then moved towards the central concept of [word2vec](https://en.wikipedia.org/wiki/Word2vec){:target="_blank"} and their implementation via [convolutional neural networks](http://cs231n.github.io/convolutional-networks/){:target="_blank"}. Janu also discussed about some of his research work which has won the Data Challenge at International Conference on Health Care 
+Informations and utilizes word2vec for classification of textual messages. 
 
+It was an interesting talk and all the members enjoyed the discussion around the motivation, basics and effectiveness of word2vec. The members also had a lot of interesting questions regarding the implementation of word2vec. 
 
-<figure>
-    <a href="/images/meetupggn6th.jpg"><img src="/images/meetupggn6th.jpg"></a>
+The presentation slides from the talk can be found [here](https://github.com/ML-India-Gurgaon-Chapter/Presentations/blob/master/7th%20Meetup%20-%20Janu%20Verma%2C%20IBM%2C%20NY.pdf){:target="_blank"}. 
+The github organization of the gurgaon meetup has also been setup which has different repos for presentations, scripts and supporting/reading materials.
+
+<figure class="half">
+    <a href="/images/ggn71.jpg"><img src="/images/ggn71.jpg"></a>
+    <a href="/images/ggn72.jpg"><img src="/images/ggn72.jpg"></a>
+    <figcaption></figcaption>
 </figure>
 
 Looking forward to more interesting meetups in the future. Spread the word to your friends from Gurgaon/Delhi to enroll for the meetups.
