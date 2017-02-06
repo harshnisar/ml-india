@@ -108,4 +108,6 @@ India, however, has still not gotten into utilizing ML completely. There are new
 
   
 
-**Ankit:** I have been a cycling enthusiast since my Master’s. I started a cycling group- [BTwin Diaries](https://www.facebook.com/btwindiaries/){:target="_blank"} at IITD, and we cycle to historical sites in Delhi every weekend. It’s a good break from the regular academic tasks. I also am a cricket enthusiast and like to follow Harsha Bhogle and Rahul Dravid. I feel that Ph.D. is a long journey which should not be completely oriented towards academia. I believe that students should not let go of their hobbies while pursuing studies, as they provide a good balance and actually help you perform better in academics. ML India: Thank you for your time Ankit. All the best to you from ML India.
+**Ankit:** I have been a cycling enthusiast since my Master’s. I started a cycling group- [BTwin Diaries](https://www.facebook.com/btwindiaries/){:target="_blank"} at IITD, and we cycle to historical sites in Delhi every weekend. It’s a good break from the regular academic tasks. I also am a cricket enthusiast and like to follow Harsha Bhogle and Rahul Dravid. I feel that Ph.D. is a long journey which should not be completely oriented towards academia. I believe that students should not let go of their hobbies while pursuing studies, as they provide a good balance and actually help you perform better in academics. 
+
+**ML India:** Thank you for your time Ankit. All the best to you from ML India.
