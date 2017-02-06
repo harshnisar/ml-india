@@ -1,4 +1,25 @@
+---
+layout: post
+title: "ML-India interview series - Dr. Tavpritesh Sethi, Assistant Professor, IIIT Delhi"
 
+excerpt: "Dr. Tavpritesh is a physician-scientist working at the interface of Data-science and Medicine. He received his M.B.B.S from Government Medical College, Amritsar and PhD from CSIR-Institute of Genomics and Integrative Biology, Delhi. His core expertise is in translating physiological and clinical insights into machine learning models and data-science pipelines. He has received MIT-India TR35 Young Innovator Award for developing an exquisitely sensitive marker for early airway disease and Wellcome Trust/DBT India Alliance Early Career Award for his current focus on forecasting critical outcomes in Pediatric Intensive Care Units. He has a strong clinical base at All India Institute of Medical Sciences, New Delhi and has joined IIITD with a long term vision of co-creating next generation medicine through interfacing of core clinical, biological and computational disciplines.
+"
+tags: [india, machine learning, data science, interview, priya, IIIT-H, International Institute of Information Technology Hyderabad]
+comments: true
+
+tags_relevant: [interview]
+---
+
+<br>
+
+<br><br>
+Ankit on..
+
+- <a href="#proj"> His current work </a>
+- <a href="#diff"> Differences in research environments between Indian and foreign universities. </a>
+- <a href="#advice"> What young graduates wishing to pursue ML should focus on </a>
+
+<br>
 
   
 
