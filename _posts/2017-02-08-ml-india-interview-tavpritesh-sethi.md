@@ -70,9 +70,10 @@ The idea behind the project is to employ a machine learning framework which rais
 
   
 
-**Tavpritesh:** That involves more than just one challenge. Everyone the world over realizes that for conducting any kind of research in this area, the availability of data is a major bottleneck. Its tough to build models and get harmonised data sets which can actually cross talk. Privacy is definitely one of the challenges in making such data openly available. <img src="https://s27.postimg.org/uwod6y3zn/mimic.jpg" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:25%">This issue is slowly coming to effect in India as well. But this still can be worked around by mechanisms like identity stripping and anonymizing the data. One good resource site is [MIMIC](https://mimic.physionet.org/){:target="_blank"}, an initiative by MIT, which hosts freely available data sets on critical care.
+**Tavpritesh:** That involves more than just one challenge. Everyone the world over realizes that for conducting any kind of research in this area, the availability of data is a major bottleneck. <img src="https://s27.postimg.org/uwod6y3zn/mimic.jpg" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:15%">Its tough to build models and get harmonised data sets which can actually cross talk. Privacy is definitely one of the challenges in making such data openly available. <img src="https://s27.postimg.org/uwod6y3zn/mimic.jpg" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:25%">This issue is slowly coming to effect in India as well. But this still can be worked around by mechanisms like identity stripping and anonymizing the data. One good resource site is [MIMIC](https://mimic.physionet.org/){:target="_blank"}, an initiative by MIT, which hosts freely available data sets on critical care.
 
-  
+> **"There is a need for good success stories in this field"**
+>-Tavpritesh
 
 The other concern is harmonizing the electronic health care sector. There is a need to make vendors interact with each other so that they can provide better machines, with a variety of data resolution options, which can then be used for research. Another big challenge is accepting that such data will be useful in improving healthcare. There is a need for good success stories to come out of such research, which will help shed light on the need to bring data science into health care and convince policy makers. Scholars who get trained in health care need to start looking at data as a resource to help patients. 
 
