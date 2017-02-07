@@ -88,7 +88,7 @@ Another challenge is variability. I believe it arises at two levels - one from n
 
 > The data was telling us stories. 
 
-An interesting community health insights that we gained was the merging of anemia and <img src="https://s24.postimg.org/8j2e1nmbp/quote_1.jpg" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:40%">female genitalia related symptoms in the reproductive age groups, which got separated in older age groups. This affirmed something we’ve known for a while now - of how anemia caused by menstrual disturbances is one of the widespread conditions in India. The data was clearly showing how these associate and deform in the reproductive age groups. We also began to see how cardiovascular diseases and diabetes start to co-occur and merge into one network structure as the population ages. 
+An interesting community health insights that we gained was the merging of anemia and female genitalia related symptoms in the reproductive age groups, which got separated in older age groups. This affirmed something we’ve known for a while now - of how anemia caused by menstrual disturbances is one of the widespread conditions in India. The data was clearly showing how these associate and deform in the reproductive age groups. We also began to see how cardiovascular diseases and diabetes start to co-occur and merge into one network structure as the population ages. 
 
   
 
@@ -106,7 +106,7 @@ More recently, we are trying to move more towards causal networks where, instead
 
 **ML India:** Is interpretability an important aspect in your analyses?
 
-**Tavpritesh:** At this point of time, interpretability is not a concern in the majority of my work. We are focusing on accuracy of predictions and medication. For example, we have a phase in our ICU-project where the models have to be tested as a pilot, and the success of these models depend on how accurately these models perform. Interpretability does become a requirement in some use-cases, but there are techniques that we can use to resolve it. We can change a variable, keeping the rest of the parameters fixed, to see how the model reacts and understand its behaviour. [Glassbox](https://www.glassboxdigital.com/){:target="_blank"}, launched by Google, is one of the techniques which executes such a process.  
+**Tavpritesh:** At this point of time, interpretability is not a concern in the majority of my work. We are focusing on accuracy of predictions and medication. For example, we have a phase in our ICU-project where the models have to be tested as a pilot, and the success of these models depend on how accurately these models perform. Interpretability does become a requirement in some use-cases, but there are techniques that we can use to resolve it. We can change a variable, keeping the rest of the parameters fixed, to see how the model reacts and understand its behaviour. [Glassbox](https://github.com/google/glassbox){:target="_blank"}, launched by Google, is one of the techniques which executes such a process.  
 
   
 
