@@ -108,7 +108,7 @@ More recently, we are trying to move more towards causal networks where, instead
 
 **ML India:** Is interpretability an important aspect in your analyses?
 
-**Tavpritesh:** At this point of time, interpretability is not a concern in the majority of my work. We are focusing on accuracy of predictions and medication. For example, we have a phase in our ICU-project where the models have to be tested as a pilot, and the success of these models depend on how accurately these models perform. Interpretability does become a requirement in some use-cases, but there are techniques that we can use to resolve it. We can change a variable, keeping the rest of the parameters fixed, to see how the model reacts and understand its behaviour. [Glassbox](https://github.com/google/glassbox){:target="_blank"}, launched by Google, is one of the techniques which executes such a process.  
+**Tavpritesh:** At this point of time, interpretability is not a concern in the majority of my work. We are focusing on accuracy of predictions and medication. For example, we have a phase in our ICU-project where the models have to be tested as a pilot, and the success of these models depend on how accurately these models perform. Interpretability does become a requirement in some use-cases, but there are techniques that we can use to resolve it. We can change a variable, keeping the rest of the parameters fixed, to see how the model reacts and understand its behaviour. [Glassbox](https://www.technologyreview.com/s/542986/google-tries-to-make-machine-learning-a-little-more-human/){:target="_blank"}, launched by Google, is one of the techniques which executes such a process.  
 
   
 
