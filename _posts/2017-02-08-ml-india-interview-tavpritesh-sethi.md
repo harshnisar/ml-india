@@ -11,7 +11,7 @@ tags_relevant: [interview]
 ---
 
 
-<br><br>
+<br>
 <img src="https://s27.postimg.org/bjtiyn8v7/dr_tavpritesh.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"><br> [Tavpritesh](https://www.iiitd.ac.in/tavpritesh) is an assistant professor at IIIT-Delhi, and a physician-scientist working at the interface of Data-science and Medicine. He received his M.B.B.S from Government Medical College, Amritsar and PhD from CSIR-Institute of Genomics and Integrative Biology, Delhi. His research interests are- big-data for clinical decision support, machine learning for critical care and community medicine, human physiology. His core expertise is in translating physiological and clinical insights into machine learning models and data-science pipelines.
 
 
@@ -19,7 +19,7 @@ tags_relevant: [interview]
 Tavpritesh on..
 
 - <a href="#proj"> His recent projects  </a>
-- <a href="#diff"> ML techniques used in his work </a>
+- <a href="#tech"> ML techniques used in his work </a>
 - <a href="#advice"> Changing scenario of publishing work in ML and medicine  </a>
 
 <br>
@@ -92,7 +92,7 @@ The data was telling us stories. An interesting community health insights that w
 
 More recently, we are trying to move more towards causal networks where, instead of association, we have causal structures and we can infer which nodes are the drivers behind disease symptoms. Such a thorough analysis will help curate a very rich knowledge bank of diseases and its associated symptoms in a data-driven way.
 
-    <a name="diff"></a>
+<a name="tech"></a>
 
 **ML India:** Fantastic! What are some techniques in machine learning that you commonly get to use in your work?
 
