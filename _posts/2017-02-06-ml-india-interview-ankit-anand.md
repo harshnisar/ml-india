@@ -83,7 +83,7 @@ I also collaborated with two bright undergraduate students, [Aditya Grover](http
 **Ankit:** Nowadays, there is an easy accessibility to ML courses on the web. Students can definitely begin to learn about ML through such courses. Also, they could play around with openly available tools, and interact with people and professors on web platforms to know more about the field of ML. This would be a really good way for an outsider to get acquainted with ML.
 
   
-> **"One cannot undermine the importance of mathematics in ML."** 
+> **"One cannot undermine the importance of mathematics in ML"** 
 > -Ankit
 
 But for an undergraduate who wants to actually pursue ML, I must say that a strong mathematical foundation is necessary. For any undergraduate student, or someone who has already graduated, I would suggest brushing up the math fundamentals. Some courses I would suggest are- linear algebra, probability, statistics and a little calculus. Another course on [Advanced Numerical Optimization](http://www.nptelvideos.in/2012/11/numerical-optimization.html) by [Shirish Shevde](http://drona.csa.iisc.ernet.in/~shirish/){:target="_blank"}, is a great course to learn from. These courses will help them to understand how the tools are working through a mathematical lens. They would eventually see that the beauty of machine learning lies in algorithms. I would restate that math is an integral part of learning and working in the field of ML. One cannot escape it, so better learn to embrace it.
