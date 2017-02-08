@@ -2,9 +2,8 @@
 layout: post
 title: "ML-India interview series - Mr. Ankit Anand, Ph.D. student, IIT Delhi"
 
-excerpt: "Ankit is a PhD Student at Computer Science and Engineering department of IIT Delhi. He is advised by [Dr. Parag Singla](http://www.cse.iitd.ac.in/~parags/) and [Dr. Mausam](http://homes.cs.washington.edu/~mausam/). His primary research interests are Artificial Intelligence Planning, Reinforcement Learning and Probabilistic Graphical Models.
-
-In the past, I have worked in the area of Cloud Systems with [Dr. J.Lakshmi](http://www.serc.iisc.ernet.in/~jlakshmi/) and [Prof S.K. Nandy ](http://cadl.iisc.ernet.in/cadlab/people/nandy/)during my M.Tech at [Department of Computational and Data Sciences ](http://www.cds.iisc.ac.in/)(Formerly part of Super-computer Education and Research Centre), Indian Institute of Science, Bangalore. I did my Bachelors from [Punjab Engineering College (PEC), Chandigarh](http://www.pec.ac.in/)
+excerpt: "Ankit is a PhD Student at Computer Science and Engineering department of IIT Delhi. He is advised by Dr. Parag Singla and Dr. Mausam. His primary research interests are Artificial Intelligence Planning, Reinforcement Learning and Probabilistic Graphical Models.
+In the past, he has worked in the area of Cloud Systems with Dr. J.Lakshmi and Prof S.K. Nandy during his M.Tech at Department of Computational and Data Sciences(Formerly part of Super-computer Education and Research Centre), Indian Institute of Science, Bangalore. He did his Bachelors from Punjab Engineering College (PEC), Chandigarh.
 "
 tags: [india, machine learning, data science, interview, priya, IIIT-H, International Institute of Information Technology Hyderabad]
 comments: true
