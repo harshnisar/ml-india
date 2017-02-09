@@ -14,7 +14,7 @@ tags_relevant: [interview]
 <br>
 <img src="https://s30.postimg.org/jqbgjir3l/image.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> [Ankit](http://www.cse.iitd.ernet.in/~ankitanand/){:target="_blank"} is a PhD Student at Computer Science and Engineering department of IIT Delhi. He is advised by [Dr. Parag Singla](http://www.cse.iitd.ac.in/~parags/){:target="_blank"} and [Dr. Mausam](http://homes.cs.washington.edu/~mausam/){:target="_blank"}. He completed his M.Tech from [Department of Computational and Data Sciences](http://www.cds.iisc.ac.in/){:target="_blank"}, IISc Bangalore. His primary research interests are Artificial Intelligence Planning, Reinforcement Learning and Probabilistic Graphical Models.
 
-<br><br>
+<br><br><br>
 Ankit on..
 
 - <a href="#proj"> His current work </a>
