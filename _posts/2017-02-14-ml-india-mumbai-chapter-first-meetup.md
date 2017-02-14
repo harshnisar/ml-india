@@ -11,7 +11,7 @@ comments: true
 ---
 <br>
 
-ML-India is pleased to announce that it has kicked off its Mumbai chapter and the first meetup was held last Saturday, 4th February 2017. The aim is to hold frequent meetups where machine learning enthusiasts can meet and discuss the latest in the field.
+ML-India is pleased to announce that it has kicked off its Mumbai chapter and the first meetup was held on 4th February 2017. The aim is to hold frequent meetups where machine learning enthusiasts can meet and discuss the latest in the field.
 
 Big shout out to [Culture Machine](https://culturemachines.com/){:target="_blank"} for helping out with the logistics, and to Sankha and Aakash who took this initiative up in Mumbai.
 
