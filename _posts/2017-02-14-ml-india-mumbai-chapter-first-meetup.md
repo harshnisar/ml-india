@@ -19,7 +19,7 @@ The meetup had around 20-25 people who joined in for the meetup. It was a mixed 
 
 They started with discussing simple basics about machine learning and concepts like supervised and unsupervised learning. After the introduction to ML, they took up the [Twitter classification paper](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2886/3262){:target="_blank"} and discussed the [gradient boosted decision tree](https://en.wikipedia.org/wiki/Gradient_boosting){:target="_blank"} at length. Folks from Culture Machine, also had interesting insights and provided some perspective of how they were using ML in their daily business and where, as a direction, the field is headed. 
 
-Click [here](https://github.com/ML-India/ML-India-Mumbai-Chapter/blob/master/Presentations/Mumbai-First%20meetup-Introduction%20to%20ML.pdf) to download the slide deck from the talk.
+Click [here](https://github.com/ML-India/ML-India-Mumbai-Chapter/blob/master/Presentations/Mumbai-First%20meetup-Introduction%20to%20ML.pdf){:target="_blank"} to download the slide deck from the talk.
 
 They concluded the meetup with a feedback session. Some participants suggested that they would like to have hands-on problem solving exercises in the future meetups to get a practical exposure. They also expressed interest in exploring other active research areas that involved machine learning.
 
