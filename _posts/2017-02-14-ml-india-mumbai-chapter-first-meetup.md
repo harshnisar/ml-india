@@ -38,7 +38,7 @@ The response and feedback from the participants was very encouraging. People wer
     <figcaption></figcaption>
 </figure>
 
-Looking forward to more interesting meetups in the future. Spread the word to your friends from Gurgaon/Delhi to enroll for the meetups.
+Looking forward to more interesting meetups in the future. Spread the word to your friends in Mumbai to enroll for the meetups.
 
 <br>Click [here](https://www.meetup.com/Machine-Learning-India-Mumbai/){:target="_blank"} to join the group.
 
