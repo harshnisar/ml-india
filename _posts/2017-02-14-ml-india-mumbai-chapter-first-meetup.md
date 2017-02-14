@@ -42,4 +42,4 @@ Looking forward to more interesting meetups in the future. Spread the word to yo
 
 <br>Click [here](https://www.meetup.com/Machine-Learning-India-Mumbai/){:target="_blank"} to join the group.
 
-If you wish to start a chapter of ML-India in your city, we would be more than happy to help you out and get it started. <a href="mailto:varun@aspiringminds.com" target="_top">Writ e us a mail</a>!
+If you wish to start a chapter of ML-India in your city, we would be more than happy to help you out and get it started. <a href="mailto:varun@aspiringminds.com" target="_top">Write us a mail</a>!
