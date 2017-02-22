@@ -33,4 +33,4 @@ The members enjoyed the discussion around the basics of algorithmic trading and 
 
 <br>Click [here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
 
-If you wish to start a chapter of ML-India in your city, we would be more than happy to help you out and get it started. <a href="mailto:varun@aspiringminds.com" target="_top">Write us a mail</a>!
+If you wish to start a chapter of ML-India in your city, we would be more than happy to help you out and get it started. <a href="mailto:varun@aspiringminds.com" target="_top">Write to us</a>!
