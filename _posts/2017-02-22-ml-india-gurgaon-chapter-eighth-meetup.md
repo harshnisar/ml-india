@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Gurgaon chapter | Eighth Meetup"
-excerpt: "ML-India is pleased to inform that the eighth machine learning meetup in its Gurgaon chapter was held on 5th February 2017. The members discussed how people with ML, data and math skills, and no finance domain knowledge can use the modeling techniques in their field to write successful trading strategies. 
+excerpt: "ML-India is pleased to inform that the eighth machine learning meetup in its Gurgaon chapter was held on 5th February 2017. The members discussed how people with ML, data and math skills, and no finance domain knowledge can use the modeling techniques in their field to write successful trading strategies." 
 tags: [india, machine learning, data science, gurgaon chapter, ML-India, meetup]
 
 tags_relevant: [chapter, meetup, gurgaon]
