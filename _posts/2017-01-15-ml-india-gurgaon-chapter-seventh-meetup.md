@@ -13,7 +13,7 @@ comments: true
 
 ML-India is pleased to announce that the seventh ML-India meetup in its Gurgaon chapter was held on 15th January, 2017. 
 
-In this meetup, we had an invited talk by [Mr. Janu Verma](https://www.linkedin.com/in/janu-verma-b79b8823){:target="_blank"}. Janu is a machine learning and data visualization researcher at [IBM T.J. Watson Research Center](https://www.research.ibm.com/labs/watson/){:target="_blank"} in New York. Janu discussed about the [vectorization](https://en.wikipedia.org/wiki/Vectorization_(mathematics)){:target="_blank"} of textual data and its’ applications in classification problems. 
+In this meetup, we had a guest speaker, [Mr. Janu Verma](https://www.linkedin.com/in/janu-verma-b79b8823){:target="_blank"}. Janu is a machine learning and data visualization researcher at [IBM T.J. Watson Research Center](https://www.research.ibm.com/labs/watson/){:target="_blank"} in New York. Janu discussed about the [vectorization](https://en.wikipedia.org/wiki/Vectorization_(mathematics)){:target="_blank"} of textual data and its’ applications in classification problems. 
 
 The talk started from the discussion of the traditional methods for vectorization and the motivation of word vector representations. The talk then moved towards the central concept of [word2vec](https://en.wikipedia.org/wiki/Word2vec){:target="_blank"} and their implementation via [convolutional neural networks](http://cs231n.github.io/convolutional-networks/){:target="_blank"}. Janu also discussed about some of his research work which has won the Data Challenge at International Conference on Health Care 
 Informations and utilizes word2vec for classification of textual messages. 
