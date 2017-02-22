@@ -14,14 +14,12 @@ ML-India is pleased to announce that the eighth ML-India meetup in its Gurgaon c
 
   
 
-In this meetup, they had a guest speaker, Ms. Chandini Jain(https://in.linkedin.com/in/chandinijain){:target="_blank"}. Chandini is an ex - Derivatives Trader, Optiver with 5 years of experience in finance. She has worked as an analyst with Deutsche Bank prior to joining Optiver in Chicago where she employed data science and statistical models to trade various products.
+In this meetup, they had a guest speaker, [Ms. Chandini Jain](https://in.linkedin.com/in/chandinijain){:target="_blank"}. Chandini is an ex - Derivatives Trader, Optiver with 5 years of experience in finance. She has worked as an analyst with Deutsche Bank prior to joining Optiver in Chicago where she employed data science and statistical models to trade various products.
   
 
 The speaker discussed how people with ML, data and math skill and no finance domain knowledge can use the modeling techniques in their field to write successful trading strategies. Specifically, she talked about the applications of some simple ML algos and data forecasting strategies to trading, and how one can create and backtest trading strategies in Python. At the end of the talk, she introduced her company, [Auquan](http://auquan.com/){:target="_blank"}, that creates next generation of quants by making algorithmic trading skills accessible to everyone.   
 
-The presentation of the meetup can be found [here](https://github.com/ML-India/ML-India-Gurgaon-Chapter/blob/master/Presentations/8th%20Meetup%20-%20Chandini%20Jain%2C%20Auquan.pdf){:target="_blank"}.
-
-The [github organization](https://github.com/ML-India-Gurgaon-Chapter){:target="_blank"} of the gurgaon meetup has also been setup which has different repos for presentations, scripts and supporting/reading materials.
+The presentation of the meetup can be found [here](https://github.com/ML-India/ML-India-Gurgaon-Chapter/blob/master/Presentations/8th%20Meetup%20-%20Chandini%20Jain%2C%20Auquan.pdf){:target="_blank"}. The [github organization](https://github.com/ML-India-Gurgaon-Chapter){:target="_blank"} of the gurgaon meetup has also been setup which has different repos for presentations, scripts and supporting/reading materials.
 
 <figure class="half">
     <a href="/images/step0004.jpg"><img src="/images/step0004.jpg"></a>
