@@ -152,11 +152,13 @@ function pageSet()
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-seventh-meetup/" target="blank">here</a>.
       </li>
+      <br>
       <li style="margin-left:15px;">28th January, 2017. Discussion on applications of some simple ML algos and data forecasting strategies to trading solution.
       
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-eighth-meetup/" target="blank">here</a>.
       </li>
+      <br>
       <li style="margin-left:15px;">28th January, 2017.  Introduction to Entity search systems.
       
       <br>
