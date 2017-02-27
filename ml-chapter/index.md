@@ -47,29 +47,53 @@ input:checked + label {
     
 
   <script>
- function pageSet()
+function pageSet()
  {
-      var current_url=document.URL;
-      if(current_url.match("ml-chapter/$")||current_url.match("ml-chapter$")||current_url.match("bangalore$"))
-      {
-            document.getElementById("tab1").checked = true;
-            hideDiv(1);
-      }
- }
+  var current_url=document.URL;
+  var n = current_url.indexOf("gurgaon");
+  if(n!=-1)
+  {
+      document.getElementById("tab2").checked = true;
+      hideDiv(2);
+  }
+  
+  else if(current_url.match("mumbai$"))
+  {
+      document.getElementById("tab3").checked = true;
+      hideDiv(3);  
+  }
+  else if(current_url.match("mumbai/$")||current_url.match("mumbai$")||current_url.match("bangalore$"))
+  {
+      document.getElementById("tab1").checked = true;
+      hideDiv(1);  
+  }
+
+}
  function hideDiv(flag)
  {
-      if(flag==1)
-      {
-            document.getElementById("bangalore_div").style.display="inline";
-            document.getElementById("gurgaon_div").style.display="none";
-            window.location.hash = "bangalore";
-      }
-      if(flag==2)
-      {
-            document.getElementById("bangalore_div").style.display="none";
-            document.getElementById("gurgaon_div").style.display="inline";
-            window.location.hash = "gurgaon";
-      }
+   if(flag==1)
+   {
+     document.getElementById("bangalore_div").style.display="inline";
+     document.getElementById("gurgaon_div").style.display="none";
+     document.getElementById("mumbai_div").style.display="none";
+     window.location.hash = "bangalore";
+   }
+   else if(flag==2)
+   {
+      
+     document.getElementById("bangalore_div").style.display="none";
+     document.getElementById("gurgaon_div").style.display="inline";
+     document.getElementById("mumbai_div").style.display="none";
+     window.location.hash = "gurgaon";
+   }
+   else if(flag==3)
+   {
+      
+     document.getElementById("bangalore_div").style.display="none";
+     document.getElementById("gurgaon_div").style.display="none";
+     document.getElementById("mumbai_div").style.display="inline";
+     window.location.hash = "mumbai";
+   }
  }
 </script>
 
@@ -81,6 +105,9 @@ input:checked + label {
   <label for="tab1" >Bangalore</label>
    <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
   <label for="tab2" >Gurgaon</label>
+  <input id="tab3" type="radio" name="tabs" onclick="hideDiv(3)">
+  <label for="tab3" >Mumbai</label>
+
 <hr>
 <h2>List of meetups: </h2>
 <div id="bangalore_div">
@@ -125,8 +152,17 @@ input:checked + label {
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-seventh-meetup/" target="blank">here</a>.
       </li>
+      <li style="margin-left:15px;">28th January, 2017. Discussion on applications of some simple ML algos and data forecasting strategies to trading solution.
       
-</ol>
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-eighth-meetup/" target="blank">here</a>.
+      </li>
+      <li style="margin-left:15px;">28th January, 2017.  Introduction to Entity search systems.
+      
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-ninth-meetup/" target="blank">here</a>.
+      </li>
+ </ol>
 <hr>
 </div>
 <div id="gurgaon_div">
@@ -161,10 +197,30 @@ input:checked + label {
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-sixth-meetup/" target="blank">here</a>.
       </li>
       <br>
+      <li style="margin-left:15px;">15th January, 2017. Discussion on vectorization of textual data and its’ applications in classification problems.
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-seventh-meetup/" target="blank">here</a>.
+      </li>
+      <br>
+      <li style="margin-left:15px;">5th February, 2017. Discussion on applications of some simple ML algos and data forecasting strategies to trading solutions.
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-gurgaon-chapter-eighth-meetup/" target="blank">here</a>.
+      </li>
+      <br>
       
 </ol>     
 <hr>
 
+</div>
+<div id="mumbai_div">
+<ol>
+     <li style="margin-left:15px;">4th February, 2017. Introduction to ML and discussion of the paper: A Machine Learning Approach to Twitter User Classification by Pennacchiotti et al.<a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2886/3262" target="blank">[link]</a>
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-mumbai-chapter-first-meetup/" target="blank">here</a>.
+      </li>
+  
+</ol>
+<hr>
 </div>
 {% include _subscribe.html %}
 
