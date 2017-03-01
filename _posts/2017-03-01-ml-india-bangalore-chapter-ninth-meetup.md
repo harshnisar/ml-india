@@ -15,14 +15,14 @@ We are pleased to inform that the ninth ML-India meetup in its Bangalore chapter
 In this meetup, they had a guest speaker, [Ms. Uma Sawant](https://www.cse.iitb.ac.in/~uma/){:target="_blank"}. Uma is an Applied Research Scientist at LinkedIn, Bangalore. She is also a final year PhD candidate in the [Computer Science and Engineering department](https://www.cse.iitb.ac.in/){:target="_blank"} of IIT Bombay. Her interests include machine learning, Web search, books and music.
   
 
-The speaker started the discussion with a broad overview of various Entity search systems and discuss challenges that arise from query format diversity as well as imperfect information sources. She explained how entity seeking queries (like "Marvel latest movies" or "Which Indians have won the Nobel prize?") form a significant subset of Web search queries and often trigger a special search system called "Entity search system" that returns entity responses from [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph){:target="_blank"} (KG). She then moved on to discuss her research which aims to perform better question answering by utilizing two complementary information sources - structured knowledge graph and [unstructured Web corpus](https://turing.cs.washington.edu/papers/popescu.pdf){:target="_blank"}.
+The speaker started the discussion with a broad overview of various Entity search systems and discussed challenges that arise from query format diversity as well as imperfect information sources. She explained how entity seeking queries (like "Marvel latest movies" or "Which Indians have won the Nobel prize?") form a significant subset of Web search queries and often trigger a special search system called "Entity search system" that returns entity responses from [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph){:target="_blank"} (KG). 
 
-She advocated to jointly perform [query interpretation](https://cs.uwaterloo.ca/~apidduck/CS338/Pdf/8-QUERY.pdf){:target="_blank"} and answer ranking instead of doing these two tasks independently. 
+She then moved on to discuss her research which aims to perform better question answering by utilizing two complementary information sources - structured knowledge graph and [unstructured Web corpus](https://turing.cs.washington.edu/papers/popescu.pdf){:target="_blank"}. She advocated to jointly perform [query interpretation](https://cs.uwaterloo.ca/~apidduck/CS338/Pdf/8-QUERY.pdf){:target="_blank"} and answer ranking instead of doing these two tasks independently. 
 
 
 Click [here](https://github.com/ML-India/ML-India-Bangalore-Chapter/blob/master/Presentations/9th%20Meetup-%20Uma%20Swant-Entity%20Search%20Systems.pdf){:target="_blank"} to download the slide deck from the talk.
 
-They had around 40 people who attended the meetup and they actively participated in the discussion. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. 
+There were around 40 people who attended the meetup and they actively participated in the discussion. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. 
 
 Shoutout to Sritulasi for her continuous efforts towards holding these meetups, and to Google Bangalore for hosting the meetup at their office this time around.
 
