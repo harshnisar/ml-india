@@ -159,7 +159,12 @@ function pageSet()
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-eighth-meetup/" target="blank">here</a>.
       </li>
       <br>
+      <li style="margin-left:15px;">18th February, 2017. Discussion on Entity search systems and improving search query responses.
       
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-ninth-meetup/" target="blank">here</a>.
+      </li>
+      <br>
  </ol>
 <hr>
 </div>
