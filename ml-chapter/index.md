@@ -221,6 +221,11 @@ function pageSet()
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-mumbai-chapter-first-meetup/" target="blank">here</a>.
       </li>
+      <br>
+      <li style="margin-left:15px;">4th March, 2017. Introduction to Natural Language Processing.
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-mumbai-chapter-second-meetup/" target="blank">here</a>.
+      </li>
   
 </ol>
 <hr>
