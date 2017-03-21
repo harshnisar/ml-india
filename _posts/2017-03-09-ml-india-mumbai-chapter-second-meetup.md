@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Mumbai chapter | Second Meetup"
-excerpt: "ML-India is pleased to inform that the second machine learning meetup in its Gurgaon chapter was held on 4th March 2017. The meetup involved an introduction to natural language processing, and discussion on concepts like tokenization, stemming, parts-of-speech tagging.
+excerpt: "ML-India is pleased to inform that the second machine learning meetup in its Mumbai chapter was held on 4th March 2017. The meetup involved an introduction to natural language processing, and discussion on concepts like tokenization, stemming, parts-of-speech tagging.
 "
 tags: [india, machine learning, data science, gurgaon chapter, ML-India, meetup]
 
