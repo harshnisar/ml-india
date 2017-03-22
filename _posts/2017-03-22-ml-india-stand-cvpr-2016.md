@@ -9,7 +9,7 @@ comments: true
 tags_relevant: [conferences, india]
 ---
 
-<img src="http://i66.tinypic.com/np3ksx.jpg" align='left' style="margin-right:4px;width:30%">The International Conference on Computer Vision and Pattern Recognition is an annual conference on computer vision and pattern recognition. CVPR is the number one venue in Computer Vision and number seven in Engineering and Computer Science as ranked by [Google Scholar](https://en.wikipedia.org/wiki/Google_Scholar)'s [h-index](https://en.wikipedia.org/wiki/H-index) metric in 2015. It also has the highest h-index of any conference in any field, is the leading IEEE publication including journals and it is ranked in the top 70 of all publications. CVPR 2016 was held in Las Vegas from June 26-July 1, 2016.
+The International Conference on Computer Vision and Pattern Recognition is an annual conference on computer vision and pattern recognition. <img src="http://i66.tinypic.com/np3ksx.jpg" align='left' style="margin-right:4px;width:30%">CVPR is the number one venue in Computer Vision and number seven in Engineering and Computer Science as ranked by [Google Scholar](https://en.wikipedia.org/wiki/Google_Scholar)'s [h-index](https://en.wikipedia.org/wiki/H-index) metric in 2015. It also has the highest h-index of any conference in any field, is the leading IEEE publication including journals and it is ranked in the top 70 of all publications. CVPR 2016 was held in Las Vegas from June 26-July 1, 2016.
 <figure><center>
     <a href="/images/cvpr16.jpg"><img src="/images/cvpr16.jpg"></a>
     
