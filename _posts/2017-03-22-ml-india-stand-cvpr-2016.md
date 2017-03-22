@@ -18,46 +18,40 @@ tags_relevant: [conferences, india]
 </figure>
 US tops the chart this year as well and has been the top research contributor with the highest number of accepts in 2016 but with a minor drop in numbers from 2015. China, UK and India bagged increased number of accpets from 2015.
 
-<table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 1: Statistics of accepted papers from corporations and institutions for 2015 and 2016</b></center></caption>
+<table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 1: Statistics of accepted papers from institutions for 2015 and 2016</b></center></caption>
 <thead>
-<tr bgcolor="#85C2A3">
-<th width="10%"><center><strong>Corporations</strong></center></th>
-<th width="10%"><center><strong>Publications in 2016</strong></center></th>
-<th width="10%"><center><strong>Publications in 2015</strong></center></th>
-</tr>
-</thead>
 <tbody>
-<tr>
-<td><center>IBM Research, India</center></td>
-<td><center>1</center></td>
-<td><center>0</center></td>
-</tr>
-<tr>
-<td><center>Snapdeal</center></td>
-<td><center>1</center></td>
-<td><center>0</center></td>
-</tr>
-<tr>
-<td><center>Ricoh Innovations</center></td>
-<td><center>1</center></td>
-<td><center>0</center></td>
-</tr>
 <tr bgcolor="#85C2A3">
 <td><center><strong>Institutions</strong></center></td>
 <td><center><strong>Publications in 2016</strong></center></td>
 <td><center><strong>Publications in 2015</strong></center></td>
 </tr>
 <tr>
-<td><center>IIIT-Delhi</center></td>
+<td><center>IISc Bangalore</center></td>
+<td><center>2</center></td>
 <td><center>1</center></td>
+</tr>
+<tr>
+<td><center>IIT Kanpur</center></td>
+<td><center>3</center></td>
 <td><center>0</center></td>
 </tr>
 <tr>
-<td><center>IISc Bangalore</center></td>
-<td><center>1</center></td>
-<td><center>4</center></td>
+<td><center>IIIT Hyderabad</center></td>
+<td><center>3</center></td>
+<td><center>0</center></td>
+</tr>
+<tr>
+<td><center>IIT Madras</center></td>
+<td><center>2</center></td>
+<td><center>0</center></td>
 </tr>
 
+<tr>
+<td><center>IIIT-Delhi</center></td>
+<td><center>1</center></td>
+<td><center>1</center></td>
+</tr>
 </tbody>
 </table>
 <table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 2: Contributions from corporates and institutions in 2014 and 2015</b></center></caption>
