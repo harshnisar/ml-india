@@ -10,6 +10,7 @@ tags_relevant: [conferences, india]
 ---
 <br>
 The International Conference on Computer Vision and Pattern Recognition is an annual conference on computer vision and pattern recognition. CVPR is the number one venue in Computer Vision and number seven in Engineering and Computer Science as ranked by [Google Scholar](https://en.wikipedia.org/wiki/Google_Scholar)'s [h-index](https://en.wikipedia.org/wiki/H-index) metric in 2015.<img src="/images/CVPR16Capture.JPG" align='left' style="margin-right:4px;width:30%"> It also has the highest h-index of any conference in any field, is the leading IEEE publication including journals and it is ranked in the top 70 of all publications. CVPR 2016 was held in Las Vegas from June 26-July 1, 2016.
+
 <figure><center>
     <a href="/images/cvpr16.jpg"><img src="/images/cvpr16.jpg"></a>
     
@@ -20,8 +21,7 @@ The International Conference on Computer Vision and Pattern Recognition is an an
 US tops the chart this year as well and has been the top research contributor with the highest number of accepts in 2016 but with a minor drop in numbers from 2015. China, UK and India bagged increased number of accpets from 2015.
 
 <table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 1: Statistics of accepted papers from institutions for 2015 and 2016</b></center></caption>
-<br>
-<thead>
+
 <tbody>
 <tr bgcolor="#85C2A3">
 <td><center><strong>Institutions</strong></center></td>
@@ -57,7 +57,6 @@ US tops the chart this year as well and has been the top research contributor wi
 </tbody>
 </table>
 <table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 2: Contributions from corporates and institutions in 2015 and 2016</b></center></caption>
-<br>
 <tbody>
 <tr bgcolor="#85C2A3">
 <td><center><strong>Year</strong></center></td>
