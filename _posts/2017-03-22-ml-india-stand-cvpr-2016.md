@@ -54,7 +54,7 @@ US tops the chart this year as well and has been the top research contributor wi
 </tr>
 </tbody>
 </table>
-<table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 2: Contributions from corporates and institutions in 2014 and 2015</b></center></caption>
+<table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 2: Contributions from corporates and institutions in 2015 and 2016</b></center></caption>
 <tbody>
 <tr bgcolor="#85C2A3">
 <td><center><strong>Year</strong></center></td>
@@ -63,17 +63,17 @@ US tops the chart this year as well and has been the top research contributor wi
 </tr>
 <tr>
 <td><center>Publications in 2016</center></td>
-<td><center>2</center></td>
-<td><center>3</center></td>
+<td><center>0</center></td>
+<td><center>11</center></td>
 </tr>
 <tr>
 <td><center>Publications in 2015</center></td>
-<td><center>0</center></td>
-<td><center>10</center></td>
+<td><center>2</center></td>
+<td><center>3</center></td>
 </tr>
 </tbody>
 </table>
-<table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 3: Indian contributions at CVPR 2015</b></center></caption>
+<table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 3: Indian contributions at CVPR 2016</b></center></caption>
 <tbody>
 <tr bgcolor="#85C2A3">
 <td><b>S.No</b></td>
@@ -83,38 +83,129 @@ US tops the chart this year as well and has been the top research contributor wi
 </tr>
 <tr>
 <td>1.</td>
-<td>Chatterjee, A., Govindu, V.M.
+<td>Rengarajan, V., Rajagopalan, A.N., Aravind, R.
 </td>
-<td><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_102_ext.pdf"><span style="font-weight: 400;"><b>Photometric refinement of depth maps for multi-albedo objects
+<td><a href="http://ieeexplore.ieee.org/document/7780672/"><span style="font-weight: 400;"><b>From bows to arrows: Rolling shutter rectification of urban scenes
+
 </b></span></a></td>
-<td><center>IISc Bangalore
+<td><center>IIT Madras
 </center></td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Das Gupta, M., Srinivasa, S., Madhukara, J., Antony, M.
+<td>Kruthiventi, S.S.S., Gudisa, V., Dholakiya, J.H., Babu, R.V.
 </td>
-<td><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/2A_052_ext.pdf"><span style="font-weight: 400;"><b>KL divergence based agglomerative clustering for automated Vitiligo grading
+<td><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kruthiventi_Saliency_Unified_A_CVPR_2016_paper.pdf"><span style="font-weight: 400;"><b>Saliency unified: A deep architecture for simultaneous eye fixation prediction and salient object segmentation
+
 </b></span></a></td>
-<td><center>IBM Research Labs, Bangalore, Ricoh Innovations, Bangalore, India, St. John's Hospital, Bangalore, India
+<td><center>Indian Institute of Science, Bangalore
+
 </center></td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Poleg, Y., Halperin, T., Arora, C., Peleg, S.
+<td>Aggarwal, R., Vohra, A., Namboodiri, A.M.
+
 </td>
-<td><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/3B_035_ext.pdf"><span style="font-weight: 400;"><b>EgoSampling: Fast-forward and stereo for egocentric videos
+<td><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Aggarwal_Panoramic_Stereo_Videos_CVPR_2016_paper.pdf"><span style="font-weight: 400;"><b>Panoramic stereo videos with a single camera
+
 </b></span></a></td>
-<td><center>The Hebrew University, Jerusalem, IIIT-Delhi, India.
+<td><center>IIIT Hyderabad.
 </center></td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Dixit, M., Chen, S., Gao, D., Rasiwasia, N., Vasconcelos, N.
+<td>Shanu, I., Arora, C., Singla, P.
+
 </td>
-<td><a href="http://www.svcl.ucsd.edu/publications/conference/2015/Bag_of_semantics/logFV.pdf"><span style="font-weight: 400;"><b>Scene classification with semantic Fisher vectors
+<td><a href="https://www.iiitd.edu.in/~ishants/cvpr2016.pdf"><span style="font-weight: 400;"><b>Min norm point algorithm for higher order MRF-MAP inference
+
 </b></span></a></td>
-<td><center>University of California, San Diego, Qualcomm Inc., San Diego, SnapDeal.com, India
+<td><center>IIIT Delhi
+
+</center></td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Pramod, R.T., Arun, S.P.
+
+</td>
+<td><a href="http://cns.iisc.ernet.in/~sparun/Publications_files/pramod2016b.pdf"><span style="font-weight: 400;"><b>Do computational models differ systematically from human object perception?
+
+</b></span></a></td>
+<td><center>Indian Institute of Science, Bangalore
+
+</center></td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Singh, S., Arora, C., Jawahar, C.V.
+
+</td>
+<td><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Singh_First_Person_Action_CVPR_2016_paper.pdf"><span style="font-weight: 400;"><b>First person action recognition using deep learned descriptors
+
+</b></span></a></td>
+<td><center>IIIT Hyderabad
+
+</center></td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Xian, Y., Akata, Z., Sharma, G., Nguyen, Q., Hein, M., Schiele, B.
+
+</td>
+<td><a href="http://grvsharma.com/hpresources/arXiv_XASNHS16.pdf"><span style="font-weight: 400;"><b>Latent embeddings for zero-shot classification
+
+</b></span></a></td>
+<td><center>MPI for Informatics, IIT Kanpur, Saarland University
+
+</center></td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Bhattarai, B., Sharma, G., Jurie, F.
+
+</td>
+<td><a href="https://www.semanticscholar.org/paper/CP-mtML-Coupled-Projection-Multi-Task-Metric-Bhattarai-Sharma/0ad8149318912b5449085187eb3521786a37bc78"><span style="font-weight: 400;"><b>CP-mtML: Coupled projection multi-task metric learning for large scale face retrieval
+
+</b></span></a></td>
+<td><center>MPI for Informatics, University of Caen, France, IIT Kanpur 
+
+</center></td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Sikka, K., Sharma, G., Bartlett, M.
+
+</td>
+<td><a href="http://www.grvsharma.com/hpresources/lomo_cvpr16_arxiv.pdf"><span style="font-weight: 400;"><b>LOMo: Latent ordinal model for facial analysis in videos
+
+</b></span></a></td>
+<td><center>IIT Kanpur, UCSD, MPI for Informatics
+
+</center></td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Alayrac, J.-B., Bojanowski, P., Agrawal, N., Sivic, J., Laptev, I., Lacoste-Julien, S.
+
+</td>
+<td><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf"><span style="font-weight: 400;"><b>Unsupervised learning from narrated instruction videos
+
+</b></span></a></td>
+<td><center>Ecole Normale Superieure, IIIT Hyderabad, 
+
+</center></td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Ravindran, S.K., Mittal, A.
+
+</td>
+<td><a href="http://www.cse.iitm.ac.in/~amittal/cvpr16.pdf"><span style="font-weight: 400;"><b>CoMaL: Good features to match on object boundaries
+
+</b></span></a></td>
+<td><center>IIT Madras
 </center></td>
 </tr>
 </tbody>
