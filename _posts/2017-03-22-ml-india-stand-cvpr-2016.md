@@ -18,7 +18,7 @@ The International Conference on Computer Vision and Pattern Recognition is an an
     </center>
 </figure>
 
-US tops the chart this year as well and has been the top research contributor with the highest number of accepts in 2016 but with a minor drop in numbers from 2015. China, UK and India bagged increased number of accpets from 2015.
+US tops the chart this year as well and has been the top research contributor with the highest number of accepts in 2016, but with a minor drop in numbers from 2015. China, UK and India bagged increased number of accepts from 2015.
 
 <table style="height: 173px;" border="5&quot;;" align="center"><caption><center><b>Table 1: Statistics of accepted papers from institutions for 2015 and 2016</b></center></caption>
 
