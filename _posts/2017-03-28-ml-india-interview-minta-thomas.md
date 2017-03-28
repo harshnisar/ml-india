@@ -12,53 +12,48 @@ tags_relevant: [interview]
 
 
 <br>
-<img src="https://s22.postimg.org/docdfa4j5/minta.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> [Minta](https://www.linkedin.com/in/minta-thomas-a189b678/) is an assistant Professor and Head of Analytics, Aegis School of Business and Telecommunication. She completed her PhD in Engineering (Informatics) from University of Leuven – KU Leuven, Belgium and her M. Phil. in Bioinformatics from Kerala University. Her areas of expertise are Perl, Bioperl, Matlab, R, Machine Learning, Cancer Informatics, Data mining, Bioinformatics and Computational Biology. She is an expert in developing algorithms for processing large scale data sets such as genomics, microarray and mass spectrometry images etc. She is also proficient in signal processing and dimensionality reduction methods and is also working in Information Retrieval and Pattern Recognition domain.
+<img src="https://s22.postimg.org/docdfa4j5/minta.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> [Minta](https://www.linkedin.com/in/minta-thomas-a189b678/){:target="_blank"} is an assistant Professor and Head of Analytics, Aegis School of Business and Telecommunication. She completed her PhD in Engineering (Informatics) from University of Leuven – KU Leuven, Belgium and her M. Phil. in Bioinformatics from Kerala University. Her areas of expertise are Perl, Bioperl, Matlab, R, Machine Learning, Cancer Informatics, Data mining, Bioinformatics and Computational Biology. She is an expert in developing algorithms for processing large scale data sets such as genomics, microarray and mass spectrometry images etc. She is also proficient in signal processing and dimensionality reduction methods and is also working in Information Retrieval and Pattern Recognition domain.
 
+<br><br>
+Minta on..
 
+- <a href="#proj"> Applications of her work  </a>
+- <a href="#tech"> Importance of prior knowledge for new students  </a>
+
+<br>
 
 
 **ML India:** We’d like to start off with a brief on your background and how
 you got into machine learning.  
   
-**Minta:** I did my graduation in computer applications from [Marian College, Kuttikanam](http://www.mariancollege.org/) in 2003 During the
+**Minta:** I did my graduation in computer applications from [Marian College, Kuttikanam](http://www.mariancollege.org/){:target="_blank"} in 2003 During the
 final year of my undergraduate studies, my professor,  [Dr. Gladston
-Raj] motivated me to pursue advanced studies in computer science and
+Raj](https://in.linkedin.com/in/gladstonraj){:target="_blank"} motivated me to pursue advanced studies in computer science and
 mathematics. After I completed my master’s degree in computer science
-from [Mahatma Gandhi University](http://www.mguniversity.edu/) in
-2005, I got selected for an M. Phil Bioinformatics at the [University
-of Kerala](https://www.keralauniversity.ac.in/), Trivandrum. I
-completed it under the guidance of [Dr. Achuthsankar S
-Nair](https://sites.google.com/site/achushome/). At that time,
+from [Mahatma Gandhi University](http://www.mguniversity.edu/){:target="_blank"} in
+2005, I got selected for an M. Phil Bioinformatics at the [University of Kerala](https://www.keralauniversity.ac.in/){:target="_blank"}, Trivandrum. I completed it under the guidance of [Dr. Achuthsankar S Nair](https://sites.google.com/site/achushome/){:target="_blank"}. At that time,
 bioinformatics was as popular as data science is today and a lot of
 people were interested in it but not everyone knew what exactly was
 happening in that area. When I started, I didn’t have much idea about
 research in this domain either, but my coursework in M. Phil helped me
 develop a deep understanding in this area.  My M. Phil project mentor,
-[Prof.  Ramakrishnan
-Ramaswamy](http://www.jnu.ac.in/FacultyStaff/ShowProfile.asp?SendUserName=rama),
+[Prof.  Ramakrishnan Ramaswamy](http://www.jnu.ac.in/FacultyStaff/ShowProfile.asp?SendUserName=rama){:target="_blank"},
 from the school of Physical Sciences, JNU, New Delhi encouraged me to
-work on ‘[Wavelet
-Analysis](http://journals.ametsoc.org/doi/pdf/10.1175/1520-0477(1998)079%3C0061%3AAPGTWA%3E2.0.CO%3B2)’
-in Computational Biology for
-[miscRNA](http://dotnetbio.github.io/Help/html/8cb9f886-814a-d720-8316-0e48da1d0975.htm)
+work on ‘[Wavelet Analysis](http://journals.ametsoc.org/doi/pdf/10.1175/1520-0477(1998)079%3C0061%3AAPGTWA%3E2.0.CO%3B2){:target="_blank"}’
+in Computational Biology for [miscRNA](http://dotnetbio.github.io/Help/html/8cb9f886-814a-d720-8316-0e48da1d0975.htm){:target="_blank"}
 structure prediction. This is how I got introduced into machine
 learning. At that time I learned MATLAB apart from other programming
 languages and tools in Bioinformatics, and I believe it is one of the
 better tools that people are using in machine learning. After I
-completed my M.Phil, I got an offer for a Ph.D. from [K U Leuven
-Belgium](https://www.kuleuven.be/english), and I continued to extend my
-work on computational biology and bioinformatics. I worked in the [ESAT
-- STADIUS lab](http://www.esat.kuleuven.be/stadius/) (Stadius Centre
-for Dynamical Systems, Signal Processing and Data Analytics). My
-professor, [Dr. Bart De
-Moor](https://scholar.google.com/citations?user=qws2WIMAAAAJ), who is
+completed my M.Phil, I got an offer for a Ph.D. from [K U Leuven Belgium](https://www.kuleuven.be/english){:target="_blank"}, and I continued to extend my
+work on computational biology and bioinformatics. I worked in the [ESAT- STADIUS lab](http://www.esat.kuleuven.be/stadius/){:target="_blank"} (Stadius Centre for Dynamical Systems, Signal Processing and Data Analytics). My
+professor, [Dr. Bart De Moor](https://scholar.google.com/citations?user=qws2WIMAAAAJ){:target="_blank"}, who is
 from an electrical engineering background, suggested that I should work
 in the area of Linear Algebra. It was quite a new territory for me
 because I was from a computer science background and it took me some
 time to get used to the new language. I gradually started working on
-problems related to [dimensionality
-reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction) and
-[data integration](https://en.wikipedia.org/wiki/Data_integration). He
+problems related to [dimensionality reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction){:target="_blank"} and
+[data integration](https://en.wikipedia.org/wiki/Data_integration){:target="_blank"}. He
 guided me on areas like singular value decomposition and generalized
 singular value decomposition and their applications in bioinformatics.
 All these problems that I was working on were based on linearly
@@ -67,8 +62,7 @@ data which is non-linearly separable, I started working on non-linear
 data integration and classification problems which invariably involved
 machine learning. I took some courses in statistical, ML and
 probability, and started working on the theoretical aspects of research.
-[Prof. Johan
-Suykens](http://www.esat.kuleuven.be/sista/members/suykens.html), an
+[Prof. Johan Suykens](http://www.esat.kuleuven.be/sista/members/suykens.html){:target="_blank"}, an
 expert in machine learning, also guided me on how I should proceed in
 this area. We proposed different algorithms that enhanced the existing
 algorithms for dimensionality reduction, data integration and
@@ -82,11 +76,13 @@ the academic domain. Aegis had started a data science school at that
 point in time, and were offering really exciting courses, and I joined
 Aegis as an assistant professor and Head Analytics.
 
+ <a name="proj"></a>  
+
 **ML India:** Could you elaborate on one of the examples in bioinformatics
 where you have applied your algorithms?      
   
 **Minta:** We proposed a data integration strategy called the weighted
-[LS-SVM](https://en.wikipedia.org/wiki/Least_squares_support_vector_machine)
+[LS-SVM](https://en.wikipedia.org/wiki/Least_squares_support_vector_machine){:target="_blank"}
 classifier. This algorithm offered a single mathematical framework for
 data integration and classification problems, hence providing solutions
 for many real bioinformatics applications. Compared with the existing
@@ -95,13 +91,10 @@ based data integration.  We have applied this algorithm for predicting
 breast cancer. We used clinical and microarray data from breast cancer
 patients and in-model developments to predict breast cancer.
 
-Another application that we worked on is in the field of
-chemo-informatics. Machine learning techniques have been widely used in
+Another application that we worked on is in the field of chemo-informatics. Machine learning techniques have been widely used in
 drug discovery and development. In chemoinformatics, machine learning
-has been widely used in [QSAR
-studies](https://en.wikipedia.org/wiki/Quantitative_structure%E2%80%93activity_relationship).
-In a generalized machine learning algorithm, modern QSAR is
-characterized by the use of chemical descriptors based on the structure
+has been widely used in [QSAR studies](https://en.wikipedia.org/wiki/Quantitative_structure%E2%80%93activity_relationship){:target="_blank"}.
+In a generalized machine learning algorithm, modern QSAR is characterized by the use of chemical descriptors based on the structure
 of chemical compounds. To build the models, we first converted the
 structural description of the compounds into a numerical representation.
 We then proposed a new chemical descriptor from the connection-table of
@@ -112,6 +105,8 @@ active compounds, that is, the weighted chemical descriptors of
 molecular structure, which identified the inhibitors on Salmonella and
 Pseudomonas biofilms formation more accurately than other existing
 chemical descriptors.
+
+
 
 **ML-India:** What were the differences that you noticed in environment of
 labs in India and abroad?
@@ -150,6 +145,8 @@ They have an interest in data science but they dont know if it will be a
 suitable career choice for them. I guess the meetups, like the one that
 ML-India is holding, will definitely help increase the awareness and
 bring clarity of thought among such people.
+
+ <a name="tech"></a>  
 
 **ML India:** Do you feel that the students come in well prepared and take
 relevant courses in their undergrad to study data science and how does
