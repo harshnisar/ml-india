@@ -46,7 +46,7 @@ learning. At that time I learned MATLAB apart from other programming
 languages and tools in Bioinformatics, and I believe it is one of the
 better tools that people are using in machine learning. After I
 completed my M.Phil, I got an offer for a Ph.D. from [K U Leuven Belgium](https://www.kuleuven.be/english){:target="_blank"}, and I continued to extend my
-work on computational biology and bioinformatics.<img src="http://i67.tinypic.com/2qc1e29.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:15%"> I worked in the [ESAT- STADIUS lab](http://www.esat.kuleuven.be/stadius/){:target="_blank"} (Stadius Centre for Dynamical Systems, Signal Processing and Data Analytics). My
+work on computational biology and bioinformatics.<img src="http://i67.tinypic.com/2qc1e29.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> I worked in the [ESAT- STADIUS lab](http://www.esat.kuleuven.be/stadius/){:target="_blank"} (Stadius Centre for Dynamical Systems, Signal Processing and Data Analytics). My
 professor, [Dr. Bart De Moor](https://scholar.google.com/citations?user=qws2WIMAAAAJ){:target="_blank"}, who is
 from an electrical engineering background, suggested that I should work
 in the area of Linear Algebra. It was quite a new territory for me
@@ -119,7 +119,7 @@ engineering department and I collaborated with people from the computer
 science, chemistry and bioinformatics departments. There were lots of
 weekly and monthly meetings announced along with the topics of
 discussion, and we had the option to go and attend these meetings and
-discuss various interdisciplinary ideas. <img src="http://i63.tinypic.com/71k5ya.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:15%">The second advantage, in my
+discuss various interdisciplinary ideas. <img src="http://i63.tinypic.com/71k5ya.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">The second advantage, in my
 case especially since I was working in Bioinformatics, was that I got a
 chance to interact with doctors and get hands on the actual data which
 proved to be really helpful in my research and development of
