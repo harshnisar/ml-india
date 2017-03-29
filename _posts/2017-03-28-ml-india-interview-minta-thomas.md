@@ -26,27 +26,26 @@ Minta on..
 **ML India:** We’d like to start off with a brief on your background and how
 you got into machine learning.  
   
-**Minta:** I did my graduation in computer applications from [Marian College, Kuttikanam](http://www.mariancollege.org/){:target="_blank"} in 2003 During the
+**Minta:** I did my graduation in computer applications from [Marian College, Kuttikanam](http://www.mariancollege.org/){:target="_blank"} in 2003. During the
 final year of my undergraduate studies, my professor,  [Dr. Gladston
 Raj](https://in.linkedin.com/in/gladstonraj){:target="_blank"} motivated me to pursue advanced studies in computer science and
 mathematics. After I completed my master’s degree in computer science
 from [Mahatma Gandhi University](http://www.mguniversity.edu/){:target="_blank"} in
 2005, I got selected for an M. Phil Bioinformatics at the [University of Kerala](https://www.keralauniversity.ac.in/){:target="_blank"}, Trivandrum. I completed it under the guidance of [Dr. Achuthsankar S Nair](https://sites.google.com/site/achushome/){:target="_blank"}. At that time,
-bioinformatics was as popular as data science is today and a lot of
-people were interested in it but not everyone knew what exactly was
-happening in that area. When I started, I didn’t have much idea about
+bioinformatics was as popular as data science is today. A lot of
+people were interested in it but not everyone knew what exactly was happening in that area. When I started, I didn’t have much idea about
 research in this domain either, but my coursework in M. Phil helped me
-develop a deep understanding in this area.  My M. Phil project mentor,
-[Prof.  Ramakrishnan Ramaswamy](http://www.jnu.ac.in/FacultyStaff/ShowProfile.asp?SendUserName=rama){:target="_blank"},
-from the school of Physical Sciences, JNU, New Delhi encouraged me to
+develop a deep understanding of it.  My project mentor,
+[Prof.  Ramakrishnan Ramaswamy](http://www.jnu.ac.in/FacultyStaff/ShowProfile.asp?SendUserName=rama){:target="_blank"}
+from the [School of Physical Sciences, JNU](http://www.jnu.ac.in/SPS/){:target="_blank"}, encouraged me to
 work on ‘[Wavelet Analysis](http://journals.ametsoc.org/doi/pdf/10.1175/1520-0477(1998)079%3C0061%3AAPGTWA%3E2.0.CO%3B2){:target="_blank"}’
 in Computational Biology for [miscRNA](http://dotnetbio.github.io/Help/html/8cb9f886-814a-d720-8316-0e48da1d0975.htm){:target="_blank"}
 structure prediction. This is how I got introduced into machine
-learning. At that time I learned MATLAB apart from other programming
+learning. I learned MATLAB apart from other programming
 languages and tools in Bioinformatics, and I believe it is one of the
 better tools that people are using in machine learning. After I
 completed my M.Phil, I got an offer for a Ph.D. from [K U Leuven Belgium](https://www.kuleuven.be/english){:target="_blank"}, and I continued to extend my
-work on computational biology and bioinformatics.<img src="http://i67.tinypic.com/2qc1e29.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> I worked in the [ESAT- STADIUS lab](http://www.esat.kuleuven.be/stadius/){:target="_blank"} (Stadius Centre for Dynamical Systems, Signal Processing and Data Analytics). My
+work in the field of computational biology and bioinformatics.<img src="http://i67.tinypic.com/2qc1e29.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> I worked in the [ESAT- STADIUS lab](http://www.esat.kuleuven.be/stadius/){:target="_blank"} (Stadius Centre for Dynamical Systems, Signal Processing and Data Analytics). My
 professor, [Dr. Bart De Moor](https://scholar.google.com/citations?user=qws2WIMAAAAJ){:target="_blank"}, who is
 from an electrical engineering background, suggested that I should work
 in the area of Linear Algebra. It was quite a new territory for me
