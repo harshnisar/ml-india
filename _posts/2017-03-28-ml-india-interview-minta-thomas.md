@@ -172,6 +172,9 @@ from different backgrounds into data science, the only thing that
 matters is how quickly they are picking up the concepts and relating to
 their applications with data.
 
+> **"Anyone who wants to pursue ML should love data"**
+>-Minta
+
 **ML-India:** If undergraduates want to get into machine learning, what are
 the basic steps they should follow to successfully get into this field,
 what can they do in terms of internships or courses, competitions
