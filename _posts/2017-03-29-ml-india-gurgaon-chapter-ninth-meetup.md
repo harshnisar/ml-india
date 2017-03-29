@@ -10,7 +10,9 @@ comments: true
 ---
 <br>
 
-ML-India is pleased to announce its ninth machine learning meetup which was held on 26th March, 2017. In the last few meetups, they had been hosting some reputed researchers to speak on popular machine learning topics. The talks were received very well by the group members. This time around, owing to popular demand, they decided to organize a hands-on tutorial on sentiment analysis of tweets. They analysed what Twitterati feels about our political leaders like Arvind Kejriwal and Narendra Modi. The idea was to get people started with a basic problem in data science.
+ML-India is pleased to announce its ninth machine learning meetup in its Gurgaon chapter which was held on 26th March, 2017. 
+
+In the last few meetups, they had been hosting some reputed researchers to speak on popular machine learning topics. The talks were received very well by the group members. This time around, owing to popular demand, they decided to organize a hands-on tutorial on sentiment analysis of tweets. They analysed what Twitterati feels about our political leaders like Arvind Kejriwal and Narendra Modi. The idea was to get people started with a basic problem in data science.
 
 They had around 15 people attending the hands-on. There was a mixed crowd ranging from students to people who are using machine learning to trade in stock markets. There were three guys who just had their startup acquired by a Chinese company and were exploring machine learning on images. 
 
