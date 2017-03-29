@@ -73,7 +73,7 @@ working on its bioinformatics and chemoinformatics applications . After
 my PhD, I returned to India, and was looking to get a job in Mumbai in
 the academic domain. Aegis had started a data science school at that
 point in time, and were offering really exciting courses, and I joined
-Aegis as an assistant professor and Head Analytics.
+Aegis as an Assistant Professor and Head Analytics.
 
  <a name="proj"></a>  
 
