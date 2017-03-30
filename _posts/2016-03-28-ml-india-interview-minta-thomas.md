@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "ML-India interview series - Dr. Minta Thomas, Assistant Professor and Head of Analytics, Aegis School of Business and Telecommunication"
+title: "ML-India interview series - Prof. Minta Thomas, Assistant Professor and Head of Analytics, Aegis School of Business, Data Science and Telecommunication"
 
-excerpt: "Dr. Minta is an assistant Professor and Head of Analytics, Aegis School of Business and Telecommunication. She completed her PhD in Engineering (Informatics) from University of Leuven – KU Leuven, Belgium and her M. Phil. in Bioinformatics from Kerala University. Her areas of expertise are Perl, Bioperl, Matlab, R, Machine Learning, Cancer Informatics, Data mining, Bioinformatics and Computational Biology. She is an expert in developing algorithms for processing large scale data sets such as genomics, microarray and mass spectrometry images etc. She is also proficient in signal processing and dimensionality reduction methods and is also working in Information Retrieval and Pattern Recognition domain.
+excerpt: "Dr. Minta is an assistant Professor and Head of Analytics, Aegis School of Business, Data Science and Telecommunication. She completed her PhD in Engineering (Informatics) from University of Leuven – KU Leuven, Belgium and her M. Phil. in Bioinformatics from Kerala University. Her areas of expertise are Perl, Bioperl, Matlab, R, Machine Learning, Cancer Informatics, Data mining, Bioinformatics and Computational Biology. She is an expert in developing algorithms for processing large scale data sets such as genomics, microarray and mass spectrometry images etc. She is also proficient in signal processing and dimensionality reduction methods and is also working in Information Retrieval and Pattern Recognition domain.
 "
 tags: [india, machine learning, data science, interview, minta, Aegis]
 comments: true
@@ -12,7 +12,7 @@ tags_relevant: [interview]
 
 
 <br>
-<img src="http://i66.tinypic.com/x1et89.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> [Minta](https://www.linkedin.com/in/minta-thomas-a189b678/){:target="_blank"} is an assistant Professor and Head of Analytics, Aegis School of Business and Telecommunication. She completed her PhD in Engineering (Informatics) from University of Leuven – KU Leuven, Belgium and her M. Phil. in Bioinformatics from Kerala University. Her areas of expertise are Perl, Bioperl, Matlab, R, Machine Learning, Cancer Informatics, Data mining, Bioinformatics and Computational Biology. She is an expert in developing algorithms for processing large scale data sets such as genomics, microarray and mass spectrometry images etc. She is also proficient in signal processing and dimensionality reduction methods and is also working in Information Retrieval and Pattern Recognition domain.
+<img src="http://i66.tinypic.com/x1et89.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> [Minta](https://www.linkedin.com/in/minta-thomas-a189b678/){:target="_blank"} is an assistant Professor and Head of Analytics, [Aegis School of Business, Data Science and Telecommunication](http://www.aegis.edu.in/){:target="_blank"}. She completed her PhD in Engineering (Informatics) from University of Leuven – KU Leuven, Belgium and her M. Phil. in Bioinformatics from Kerala University. Her areas of expertise are Perl, Bioperl, Matlab, R, Machine Learning, Cancer Informatics, Data mining, Bioinformatics and Computational Biology. She is an expert in developing algorithms for processing large scale data sets such as genomics, microarray and mass spectrometry images etc. She is also proficient in signal processing and dimensionality reduction methods and is also working in Information Retrieval and Pattern Recognition domain.
 
 <br><br>
 Minta on..
