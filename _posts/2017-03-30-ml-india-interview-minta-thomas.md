@@ -12,7 +12,7 @@ tags_relevant: [interview]
 
 
 <br>
-<img src="http://i66.tinypic.com/x1et89.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> [Minta](https://www.linkedin.com/in/minta-thomas-a189b678/){:target="_blank"} is an assistant Professor and Head of Analytics, [Aegis School of Business, Data Science and Telecommunication](http://www.aegis.edu.in/){:target="_blank"}. She completed her PhD in Engineering (Informatics) from University of Leuven – KU Leuven, Belgium and her M. Phil. in Bioinformatics from Kerala University. Her areas of expertise are Perl, Bioperl, Matlab, R, Machine Learning, Cancer Informatics, Data mining, Bioinformatics and Computational Biology. She is an expert in developing algorithms for processing large scale data sets such as genomics, microarray and mass spectrometry images etc. She is also proficient in signal processing and dimensionality reduction methods and is also working in Information Retrieval and Pattern Recognition domain.
+<img src="/images/minta.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> [Minta](https://www.linkedin.com/in/minta-thomas-a189b678/){:target="_blank"} is an assistant Professor and Head of Analytics, [Aegis School of Business, Data Science and Telecommunication](http://www.aegis.edu.in/){:target="_blank"}. She completed her PhD in Engineering (Informatics) from University of Leuven – KU Leuven, Belgium and her M. Phil. in Bioinformatics from Kerala University. Her areas of expertise are Perl, Bioperl, Matlab, R, Machine Learning, Cancer Informatics, Data mining, Bioinformatics and Computational Biology. She is an expert in developing algorithms for processing large scale data sets such as genomics, microarray and mass spectrometry images etc. She is also proficient in signal processing and dimensionality reduction methods and is also working in Information Retrieval and Pattern Recognition domain.
 
 <br><br>
 Minta on..
@@ -44,7 +44,7 @@ learning. I learned MATLAB, apart from other programming
 languages and tools in Bioinformatics, and I believe it is one of the
 better tools that people are using in machine learning. After I
 completed my M.Phil, I got an offer for a Ph.D. from [K U Leuven Belgium](https://www.kuleuven.be/english){:target="_blank"}, and I continued to extend my
-work in the field of computational biology and bioinformatics.<img src="http://i67.tinypic.com/2qc1e29.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> I worked in the [ESAT- STADIUS lab](http://www.esat.kuleuven.be/stadius/){:target="_blank"} (Stadius Centre for Dynamical Systems, Signal Processing and Data Analytics). My
+work in the field of computational biology and bioinformatics.<img src="/images/Logo_of_University_of_Kerala.png" align='right' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> I worked in the [ESAT- STADIUS lab](http://www.esat.kuleuven.be/stadius/){:target="_blank"} (Stadius Centre for Dynamical Systems, Signal Processing and Data Analytics). My
 professor, [Dr. Bart De Moor](https://scholar.google.com/citations?user=qws2WIMAAAAJ){:target="_blank"}, who is
 from an electrical engineering background, suggested that I should work
 in the area of linear algebra. It was quite a new territory for me
@@ -116,7 +116,7 @@ engineering department and I collaborated with people from the computer
 science, chemistry and bioinformatics departments. There were lots of
 weekly and monthly meetings announced along with the topics of
 discussion, and we had the option to go and attend these meetings and
-discuss various interdisciplinary ideas. <img src="http://i63.tinypic.com/71k5ya.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">The second advantage, in my
+discuss various interdisciplinary ideas. <img src="/images/logo_kuleuven.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">The second advantage, in my
 case especially since I was working in Bioinformatics, was that I got a
 chance to interact with doctors and get hands on the actual data which
 proved to be really helpful in my research and development of
