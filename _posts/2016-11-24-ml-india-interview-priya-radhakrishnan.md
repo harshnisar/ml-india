@@ -75,4 +75,4 @@ Today, there is a lot of good quality content available on the web, it’s not v
 
  
 
-**ML-India:** Thanks a lot for taking time out for this Priya! We look forward to subsequent reports from the AI100 study group!
+**ML-India:** Thanks a lot for taking time out for this Priya! All the best to you from ML-India.
