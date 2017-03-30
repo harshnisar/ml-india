@@ -27,8 +27,7 @@ Minta on..
   
 **Minta:** I did my graduation in computer applications from [Marian College, Kuttikanam](http://www.mariancollege.org/){:target="_blank"} in 2003. During the
 final year of my undergraduate studies, my professor,  [Dr. Gladston
-Raj](https://in.linkedin.com/in/gladstonraj){:target="_blank"} motivated me to pursue advanced studies in computer science and
-mathematics. After I completed my master’s degree in computer science
+Raj](https://in.linkedin.com/in/gladstonraj){:target="_blank"} motivated me to pursue advanced studies in computer science and mathematics. After I completed my master’s degree in computer science
 from [Mahatma Gandhi University](http://www.mguniversity.edu/){:target="_blank"} in
 2005, I got selected for an M. Phil in Bioinformatics at the [University of Kerala](https://www.keralauniversity.ac.in/){:target="_blank"}, Trivandrum. I completed it under the guidance of [Dr. Achuthsankar S Nair](https://sites.google.com/site/achushome/){:target="_blank"}. At that time,
 bioinformatics was as popular as data science is today. A lot of
@@ -39,7 +38,7 @@ develop a deep understanding of it.  My project mentor,
 from the [School of Physical Sciences, JNU](http://www.jnu.ac.in/SPS/){:target="_blank"}, encouraged me to
 work on ‘[Wavelet Analysis](http://journals.ametsoc.org/doi/pdf/10.1175/1520-0477(1998)079%3C0061%3AAPGTWA%3E2.0.CO%3B2){:target="_blank"}’
 in Computational Biology for [miscRNA](http://dotnetbio.github.io/Help/html/8cb9f886-814a-d720-8316-0e48da1d0975.htm){:target="_blank"}
-structure prediction. This is how I got introduced into machine
+structure prediction. This is how I got introduced to machine
 learning. I learned MATLAB, apart from other programming
 languages and tools in Bioinformatics, and I believe it is one of the
 better tools that people are using in machine learning. After I
@@ -68,8 +67,8 @@ classification, and published our work in several international
 journals. Most of the work that I did up till this point was theoretical
 and only related to algorithm proposal. After working for nearly 3 years on the
 theoretical aspects, I switched to applications part of ML and started
-working on its bioinformatics and chemoinformatics applications . After completing
-my PhD, I returned to India, and was looking to get a job in Mumbai in
+working on its bioinformatics and chemoinformatics applications. After completing
+my PhD, I returned to India and was looking to get a job in Mumbai in
 the academic domain. Aegis had started a data science school at that
 point in time, and were offering really exciting courses, and I joined
 Aegis as an Assistant Professor and Head Analytics.
@@ -88,13 +87,13 @@ approaches, our approach was a simple mathematical framework for kernel-based da
 breast cancer. We used clinical and microarray data from breast cancer
 patients and in-model developments to predict breast cancer.
 
-Another application that we worked on is in the field of chemo-informatics. Machine learning techniques have been widely used in
+Another application that we worked on is in the field of chemoinformatics. Machine learning techniques have been widely used in
 drug discovery and development. In chemoinformatics, machine learning
 has been used in [QSAR studies](https://en.wikipedia.org/wiki/Quantitative_structure%E2%80%93activity_relationship){:target="_blank"}.
 In a generalized machine learning algorithm, modern QSAR is characterized by the use of chemical descriptors based on the structure
 of chemical compounds. To build the models, we first converted the
 structural description of the compounds into a numerical representation.
-We then proposed a new chemical descriptor from the connection-table of
+We then proposed a new chemical descriptor from the connection table of
 compounds in terms of two vectors: one corresponding to the atoms and
 the other to the bonds of each compound. This helped us to come up with
 a new machine learning approach for the identification of biologically
@@ -105,7 +104,7 @@ chemical descriptors.
 
 
 
-**ML-India:** What were the differences that you noticed in environment of
+**ML-India:** What were the differences that you noticed in the environment of
 labs in India and abroad?
 
 **Minta:** In India, I feel there aren’t a lot of options to collaborate
