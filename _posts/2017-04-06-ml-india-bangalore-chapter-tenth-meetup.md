@@ -19,6 +19,9 @@ Click [here](https://github.com/ML-India/ML-India-Bangalore-Chapter/blob/master/
 
 Click [here](https://github.com/ML-India/ML-India-Bangalore-Chapter/blob/master/Presentations/ML%20inda%20intro%20ppt%20MLPPT_pdf.pdf){:target="_blank"} to download the slide deck from the workshop.
 
+Watch the video from the meetup below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFedj6G2DxE" frameborder="0" allowfullscreen></iframe>
+
 The participants were delighted to be a part of the meetup since it had both theoretical and workshop meterial. One of the beginners mentioned that she felt that the session was very informative and at the same time did not intimidate her. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
 
 
