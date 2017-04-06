@@ -20,22 +20,7 @@ Click [here](https://github.com/ML-India/ML-India-Bangalore-Chapter/blob/master/
 
 Click [here](https://github.com/ML-India/ML-India-Bangalore-Chapter/blob/master/Presentations/ML%20inda%20intro%20ppt%20MLPPT_pdf.pdf){:target="_blank"} to download the slide deck from the workshop.
 
-There were around 40 people who attended the meetup and they actively participated in the discussion. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. 
-
-Shoutout to Sritulasi for her continuous efforts towards holding these meetups, and to Google Bangalore for hosting the meetup at their office this time around.
-
-<figure class="half">
-    <a href="/images/FullSizeRender9.jpg"><img src="/images/FullSizeRender9.jpg"></a>
-    <a href="/images/FullSizeRender (2)9.jpg"><img src="/images/FullSizeRender (2)9.jpg"></a>
-    <figcaption></figcaption>
-</figure>
-<figure class="half">
-    <a href="/images/FullSizeRender (1)9.jpg"><img src="/images/FullSizeRender (1)9.jpg"></a>
-    <a href="/images/FullSizeRender (4)9.jpg"><img src="/images/FullSizeRender (4)9.jpg"></a>
-    <figcaption></figcaption>
-</figure>
-
-Spread the word to your friends from Bangalore to enroll for the meetups.
+The participants were delighted to be a part of the meetup since it had both theoretical and workshop meterial. One of the beginners mentioned that she felt that the session was very informative and at the same time did not intimidate her. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
 
 
 Click [here](http://www.meetup.com/Machine-Learning-India-Bangalore/){:target="_blank"} to join the group.
