@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "ML-India: Bangalore chapter | Tenth Meetup"
-excerpt: "ML-India is pleased to inform that the tenth machine learning meetup in its Bangalore chapter was held on 25th March 2017. The meetup revolved arounddiscussion about the contributions to "ogdindiar", a package that helps in searching an downloading datasets from data.gov.in, and also had a workshop on Introduction to ML 
-"
+excerpt: "ML-India is pleased to inform that the tenth machine learning meetup in its Bangalore chapter was held on 25th March 2017. The meetup revolved arounddiscussion about the contributions to 'ogdindiar', a package that helps in searching an downloading datasets from data.gov.in, and also had a workshop on Introduction to ML."
 tags: [india, machine learning, data science, bangalore chapter, ML-India, meetup]
 
 tags_relevant: [chapter, meetup, bangalore]
