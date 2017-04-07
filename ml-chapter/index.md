@@ -165,6 +165,12 @@ function pageSet()
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-ninth-meetup/" target="blank">here</a>.
       </li>
       <br>
+      <li style="margin-left:15px;">25th March, 2017. Contributions to 'ogdindiar' R package and ML Intro workshop.
+      
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-bangalore-chapter-tenth-meetup/" target="blank">here</a>.
+      </li>
+      <br>
  </ol>
 <hr>
 </div>
