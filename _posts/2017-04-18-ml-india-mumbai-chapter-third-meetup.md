@@ -15,7 +15,9 @@ ML-India is pleased to announce that it organized the third meetup in its Mumbai
 
 The meetup started with a brief overview on python. Ipython notebook was provided along with twitter api, account creation and application related info. They had a discussion about Pandas for data preprocessing techniques. TextBlob library was discussed in detail with examples of techniques like [noun phrase chunking](https://en.wikipedia.org/wiki/Phrase_chunking){:target="_blank"}, [POS tagger](https://nlp.stanford.edu/software/tagger.shtml){:target="_blank"}, [Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) and others. After discussing learning all these standalone techniques, they covered the end-to-end scenario by taking input data from twitter, storing it in pandas dataframe format, applying sentiment analysis on the dataframe, and then populating the results for clear understanding. 
 
-Click [here](https://github.com/ML-India/ML-India-Mumbai-Chapter/blob/master/Presentations/Mumbai%20Chapter%20Second%20Meetup-Pydata%20NLP.pdf){:target="_blank"} to download the slide deck from the talk.
+Click [here](https://github.com/ML-India/ML-India-Gurgaon-Chapter/blob/master/Presentations/9th%20Meetup%20-%20Twitter%20Sentiment%20Analysis.pdf){:target="_blank"} to download the slide deck from the talk.
+
+To download the iPython notebook, click [here](https://github.com/ML-India/ML-India-Gurgaon-Chapter/tree/master/Scripts/9th%20Meetup%20-%20Twitter%20Sentiment%20Analysis){:target="_blank"}.
 
 
 <figure class="half">
