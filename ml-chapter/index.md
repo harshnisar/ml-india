@@ -237,6 +237,12 @@ function pageSet()
       <br>
       Read a blog entry related to it <a href="http://ml-india.org/ml-india-mumbai-chapter-second-meetup/" target="blank">here</a>.
       </li>
+      <br>
+       <li style="margin-left:15px;">9th April, 2017. Hands-on session - Sentiment analysis of tweets.
+      <br>
+      Read a blog entry related to it <a href="http://ml-india.org/ml-india-mumbai-chapter-third-meetup/" target="blank">here</a>.
+      </li>
+      <br>
   
 </ol>
 <hr>

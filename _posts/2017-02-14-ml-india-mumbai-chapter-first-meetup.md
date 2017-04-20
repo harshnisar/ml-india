@@ -21,7 +21,7 @@ They started with discussing simple basics about machine learning and concepts l
 
 Click [here](https://github.com/ML-India/ML-India-Mumbai-Chapter/blob/master/Presentations/Mumbai-First%20meetup-Introduction%20to%20ML.pdf){:target="_blank"} to download the slide deck from the talk.
 
-They concluded the meetup with a feedback session. Some participants suggested that they would like to have hands-on problem solving exercises in the future meetups to get a practical exposure. They also expressed interest in exploring other active research areas that involved machine learning.
+They concluded the meetup with a feedback session. Some participants suggested that they would like to have hands-on problem solving exercises in the future meetups to get practical exposure. They also expressed interest in exploring other active research areas that involved machine learning.
 
 The response and feedback from the participants was very encouraging. People were thankful for starting the initiative in Mumbai, and were keen on attending future meetups. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. 
 
