@@ -21,7 +21,7 @@ Preethi on ..
  - <a href="#traits">Positives and challenges for ML enthusisasts</a>
  
  
-
+<br><br>
 
 
 
@@ -123,6 +123,6 @@ It would help to bring students from universities abroad to intern in Indian aca
 
 **Preethi:** There is a very active ML group at IIT Bombay, and I’ve started collaborating with several faculty members on a variety of interesting problems. For instance, in collaboration with [Pushpak Bhattacharya](https://www.cse.iitb.ac.in/~pb/){:target="_blank"}, who heads the CFILT lab at IIT-B, I’ve started looking at speech translation, i.e. translating speech in language A to text in language B. More generally, I’m interested in exploring the interaction between speech and text. I’ve also begun working on some generic ML problems that are not tied to any specific ML application.
 
-**ML India:** Thanks a lot Preethi for taking time out to talk to ML India. We wish you all the best in your research.
+**ML India:** Thanks a lot, Preethi, for taking time out to talk to ML India. We wish you all the best in your research.
 
  
