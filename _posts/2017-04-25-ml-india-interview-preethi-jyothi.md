@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India interview series - Dr. Preethi Jyothi, Assistant Professor, Indian Institute of Technology-Bombay (IIT-B), India"
-excerpt: "Dr. Preethi Jyothi is an assistant professor at Indian Institute of Technology-Bombay (IIT-B), India. She completed her Ph.D. in speech recognition from the CSE department of Ohio State University, and did her B.Tech in computer science from NIT Calicut. She was a Beckman Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. I obtained my Ph.D. from the CSE Department at The Ohio State University in 2013. Her research interests are broadly in the areas of automatic speech recognition and machine learning as applied to speech.
+excerpt: "Dr. Preethi Jyothi is an assistant professor at Indian Institute of Technology-Bombay (IIT-B), India. She completed her Ph.D. in speech recognition from the CSE department of Ohio State University, and did her B.Tech in computer science from NIT Calicut. She was a Beckman Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. Her research interests are broadly in the areas of automatic speech recognition and machine learning as applied to speech.
 "
 tags: [india, machine learning, data science, interview, mayank, IIIT-D, indraprashtha institute of information technology delhi]
 comments: true
@@ -11,7 +11,7 @@ tags_relevant: [interview]
 
 
 <img src="http://i66.tinypic.com/v83kut.png" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
-[Dr. Preethi Jyothi](https://www.iiitd.edu.in/~mayank/){:target="_blank"} is an assistant professor at Indian Institute of Technology-Bombay (IIT-B), India. She completed her Ph.D. in speech recognition from the CSE department of Ohio State University, and did her B.Tech in computer science from NIT Calicut. She was a Beckman Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. I obtained my Ph.D. from the CSE Department at The Ohio State University in 2013. Her research interests are broadly in the areas of automatic speech recognition and machine learning as applied to speech. 
+[Dr. Preethi Jyothi](https://www.iiitd.edu.in/~mayank/){:target="_blank"} is an assistant professor at Indian Institute of Technology-Bombay (IIT-B), India. She completed her Ph.D. in speech recognition from the CSE department of Ohio State University, and did her B.Tech in computer science from NIT Calicut. She was a Beckman Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. Her research interests are broadly in the areas of automatic speech recognition and machine learning as applied to speech. 
 
 
 Preethi on ..
@@ -121,7 +121,7 @@ It would help to bring students from universities abroad to intern in Indian aca
 
   
 
-**Preethi:** There is a very active ML group at IIT Bombay, and I’ve started collaborating with several faculty members on a variety of interesting problems. For instance, in collaboration with [Pushpak Bhattacharya](https://www.cse.iitb.ac.in/~pb/){:target="_blank"}, who heads the CFILT lab at IIT-B, I’ve started looking at speech translation, i.e. translating speech in language A to text in language B. More generally, I’m interested in exploring the interaction between speech and text. I’ve also begun working on some generic ML problems that are not tied to any specific ML application.
+**Preethi:** There is a very active ML group at IIT Bombay, and I’ve started collaborating with several faculty members on a variety of interesting problems. For instance, in collaboration with [Pushpak Bhattacharya](https://www.cse.iitb.ac.in/~pb/){:target="_blank"}, who heads the [CFILT](http://www.cfilt.iitb.ac.in/){:target="_blank"} lab at IIT-B, I’ve started looking at speech translation, i.e. translating speech in language A to text in language B. More generally, I’m interested in exploring the interaction between speech and text. I’ve also begun working on some generic ML problems that are not tied to any specific ML application.
 
 **ML India:** Thanks a lot, Preethi, for taking time out to talk to ML India. We wish you all the best in your research.
 
