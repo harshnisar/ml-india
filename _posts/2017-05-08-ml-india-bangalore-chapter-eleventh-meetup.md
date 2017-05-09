@@ -19,9 +19,16 @@ Click [here](https://github.com/ML-India/ML-India-Bangalore-Chapter/blob/master/
 
 Click [here](https://github.com/karthik1289/ProductionisingML){:target="_blank"} to download Paranth's code.
 
-
-Watch the video from the meetup below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDjQREaFrzY" frameborder="0" allowfullscreen></iframe>
+<figure class="half">
+    <a href="/images/thumb_IMG_9143_1024.jpg"><img src="/images/thumb_IMG_9143_1024.jpg"></a>
+    <a href="/images/thumb_IMG_9134_1024.jpg"><img src="/images/thumb_IMG_9134_1024.jpg"></a>
+    <figcaption></figcaption>
+</figure>
+<figure class="half">
+    <a href="/images/thumb_IMG_9138_1024.jpg"><img src="/images/thumb_IMG_9138_1024.jpg"></a>
+    <a href="/images/thumb_IMG_9141_1024.jpg"><img src="/images/thumb_IMG_9141_1024.jpg"></a>
+    <figcaption></figcaption>
+</figure>
 
 The participants were delighted to be a part of the meetup. They had the biggest audience this time - 70 people participated. The talks were very informative and engaging. 
 
