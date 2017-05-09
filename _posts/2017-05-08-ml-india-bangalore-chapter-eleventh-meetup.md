@@ -30,9 +30,9 @@ Click [here](https://github.com/karthik1289/ProductionisingML){:target="_blank"}
     <figcaption></figcaption>
 </figure>
 
-The participants were delighted to be a part of the meetup. They had the biggest audience this time - 70 people participated. The talks were very informative and engaging. 
+The participants were delighted to be a part of the meetup. They had the biggest audience this time - 70 people participated. The talks were very informative and engaging. Shoutout to Walmart Labs, they did a great job in hosting us. 
 
-Shoutout to Walmart Labs, they did a great job in hosting us. We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
+We’ll keep up with having such engaging meetups on ML, and having researchers and practitioners involved in ML to discuss their work and insights. Looking forward to future meetups. Spread the word to your friends from Bangalore to enroll for the meetups.
 
 
 Click [here](http://www.meetup.com/Machine-Learning-India-Bangalore/){:target="_blank"} to join the group.
