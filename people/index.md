@@ -2,7 +2,7 @@
 layout: page-table
 title: 
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Indian faculty and research groups in machine learning and data science"
+excerpt: "Indian faculty, research groups and people in machine learning and data science"
 ---
 <style>
       
@@ -46,6 +46,8 @@ input:checked + label {
 }
     </style>
     
+ 
+    
   <script>
  function pageSet()
  {
@@ -56,37 +58,57 @@ input:checked + label {
       document.getElementById("tab2").checked = true;
       hideDiv(2);
   }
+  
+  else if(current_url.match("machine-learning-people-india$"))
+  {
+      document.getElementById("tab3").checked = true;
+      hideDiv(3);  
+  }
   else if(current_url.match("people/$")||current_url.match("people$")||current_url.match("research-groups$"))
   {
       document.getElementById("tab1").checked = true;
       hideDiv(1);  
   }
- }
+
+}
  function hideDiv(flag)
  {
    if(flag==1)
    {
      document.getElementById("research_div").style.display="inline";
      document.getElementById("faculty_and_professor").style.display="none";
-     window.location.href = "http://ml-india.org/people/#research-groups";
+     document.getElementById("professionals_div").style.display="none";
+     window.location.hash = "research-groups";
    }
    else if(flag==2)
    {
       
      document.getElementById("research_div").style.display="none";
      document.getElementById("faculty_and_professor").style.display="inline";
-     window.location.href = "http://ml-india.org/people/#machine-learning-faculty-india";
+     document.getElementById("professionals_div").style.display="none";
+     window.location.hash = "machine-learning-faculty-india";
+   }
+   else if(flag==3)
+   {
+      
+     document.getElementById("research_div").style.display="none";
+     document.getElementById("faculty_and_professor").style.display="none";
+     document.getElementById("professionals_div").style.display="inline";
+     window.location.hash = "machine-learning-people-india";
    }
  }
 </script>
 
 <body onload="pageSet()">
-
+  
   <input id="tab1" type="radio" name="tabs" onclick="hideDiv(1)">
-  <label for="tab1" >Research Group</label>
+  <label for="tab1" >Research Groups</label>
     
   <input id="tab2" type="radio" name="tabs" onclick="hideDiv(2)">
   <label for="tab2">Faculty And Professors</label> 
+  
+  <input id="tab3" type="radio" name="tabs" onclick="hideDiv(3)">
+  <label for="tab3" >People</label>
 
 <div id="research_div">
 <hr>
@@ -106,6 +128,14 @@ input:checked + label {
 <hr>
 </div>
 
+<div id="professionals_div">
+<hr>
+<h2>Machine Learning People in India</h2>
+
+{% include _ml-professionals.html %}
+<hr>
+<hr>
+</div>
 
 {% include _subscribe.html %}
 </body>
