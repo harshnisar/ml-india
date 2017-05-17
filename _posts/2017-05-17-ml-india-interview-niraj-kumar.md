@@ -92,7 +92,7 @@ During my two and half months at IBM research internship, I developed a new syst
 
   
 
-**Niraj:** My current research areas are: (1) Exploring and enhancing the construction of domain-specific weighted knowledge graphs and dynamic ontologies, (2) Automatic taxonomy categorization, (3) Handling issues related to paraphrasing and (4) meaningful fusion of information spread in heterogeneous sources. I am using NLP, statistical techniques, machine learning, and deep learning to solve these problems.
+**Niraj:** My current research areas are: (1) Exploring and enhancing the construction of domain-specific weighted knowledge graphs and dynamic ontologies, (2) Automatic taxonomy categorization, (3) Handling issues related to paraphrasing and (4) Meaningful fusion of information spread in heterogeneous sources. I am using NLP, statistical techniques, machine learning, and deep learning to solve these problems.
 
   
 
