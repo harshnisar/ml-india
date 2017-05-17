@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India interview series - Dr. Niraj Kumar, Senior Machine Learning Scientist at Phenom People, India"
-excerpt: "Dr. Niraj Kumar is a senior machine learning scientist at Phenom People, India. He completed his Ph.D. in text mining from the IIIT Hyderabad, and did his MCA in computer science from IGNOU, Delhi. 
+excerpt: "Dr. Niraj Kumar is a senior machine learning scientist at Phenom People, India. He completed his Ph.D. in computer science from the IIIT Hyderabad, and did his MCA in computer science from IGNOU, Delhi. 
 "
 tags: [india, machine learning, data science, interview, mayank, IIIT-D, indraprashtha institute of information technology delhi]
 comments: true
@@ -11,7 +11,7 @@ tags_relevant: [interview]
 
 
 <img src="http://i66.tinypic.com/16lir5y.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%">
-[Dr. Niraj Kumar](https://sites.google.com/site/nirajatweb/){:target="_blank"} is a senior machine learning scientist at Phenom People, India. He completed his Ph.D. in text mining from the IIIT Hyderabad, and did his MCA in computer science from [IGNOU](http://www.ignou.ac.in/){:target="_blank"}, Delhi. He completed his post doc from University of California, Davis. His research interests are NLP, IR&IE, Data Mining, Machine Learning and Deep Learning. 
+[Dr. Niraj Kumar](https://sites.google.com/site/nirajatweb/){:target="_blank"} is a senior machine learning scientist at Phenom People, India. He completed his Ph.D. in computer science from the IIIT Hyderabad, and did his MCA in computer science from [IGNOU](http://www.ignou.ac.in/){:target="_blank"}, Delhi. He completed his post doc from University of California, Davis. His research interests are NLP, IR&IE, Data Mining, Machine Learning and Deep Learning. 
 
 <br><br><br><br><br><br>Niraj on ..
 
@@ -37,9 +37,9 @@ tags_relevant: [interview]
   
   
 
-**Niraj:** During my PhD at IIIT-H, I majorly worked on [Social Graph-based unsupervised techniques](ftp://ftp.math.ucla.edu/pub/camreport/cam15-33.pdf){:target="_blank"} for intelligent text mining. The first of many projects that I worked on was focused on ‘Meaningful phrase identification’. It was based on the premise that the performance of several text mining tasks depends upon the quality of the identified phrases. We introduced the centrality measures based technique for phrase identification having accuracy more than 90%. We effectively applied this technique to key-phrase extraction. I also worked on differentiating role and sense of words, preferring to do it via a single measure. Several times words having same sense may have different roles in document(s). Neglecting such information may misguide us, especially when we compare two different texts having matching words, like: summarization evaluation, and evaluation of descriptive answers and essays, etc. We introduced the use of graph based mapping of co-occurring words and closeness centrality score to identify the role and sense of words in text.
+**Niraj:** During my PhD at IIIT-H, I majorly worked on [social graph-based unsupervised techniques](ftp://ftp.math.ucla.edu/pub/camreport/cam15-33.pdf){:target="_blank"} for intelligent text mining. The first of many projects that I worked on was focused on ‘meaningful phrase identification’. It was based on the premise that the performance of several text mining tasks depends upon the quality of the identified phrases. We introduced the centrality measures based technique for phrase identification having accuracy more than 90%. We effectively applied this technique to key-phrase extraction. I also worked on differentiating role and sense of words, preferring to do it via a single measure. Several times words having same sense may have different roles in document(s). Neglecting such information may misguide us, especially when we compare two different texts having matching words, like: summarization evaluation, and evaluation of descriptive answers and essays, etc. We introduced the use of graph based mapping of co-occurring words and closeness centrality score to identify the role and sense of words in text.
 
-Another project that I worked on dealt with handling information gap at the phrase level by using unsupervised scheme. We introduced the Wikipedia anchor text community detection based scheme, to reduce the information gap between N-grams that are conceptually-related, despite not having a match owing to differences in writing scheme or strategies. For example, identifying differently expressed phrases, which carry the same meaning in texts like:  [1] AK47 and [2] Kalashnikov rifle).
+Another project that I worked on dealt with handling information gap at the phrase level by using unsupervised scheme. We introduced the Wikipedia anchor text community detection based scheme, to reduce the information gap between N-grams that are conceptually-related, despite not having a match owing to differences in writing scheme or strategies. For example, identifying differently expressed phrases, which carry the same meaning in texts like: [1] AK47 and [2] Kalashnikov rifle.
 
   
 
@@ -60,7 +60,7 @@ During my PhD, My system was in Top system for "Automatic Summarization Evaluati
 
   
 
-During my postdoc at UC Davis, I worked on [Taxonomy Classification](https://www.learner.org/courses/essential/life/session2/closer4.html){:target="_blank"}: We consider <img src="http://i65.tinypic.com/2hi5ypz.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> it as a multi-class classification problem. To identify features related to the different knowledge classes in the given document, we use the NLP based techniques (especially to identify the linguistic dependencies between terms) and Deep learning (to identify the logical connectivities between terms, as an improvement). Finally, based on the extracted features, we classify the text into the corresponding categories. 
+During my postdoc at UC Davis, I worked on [taxonomy classification](https://www.learner.org/courses/essential/life/session2/closer4.html){:target="_blank"}: We considered <img src="http://i65.tinypic.com/2hi5ypz.jpg" align='left' style="margin-right:5px; margin-top:9px; margin-left:5px; width:30%"> it as a multi-class classification problem. To identify features related to the different knowledge classes in the given document, we used the NLP based techniques (especially to identify the linguistic dependencies between terms) and Deep learning (to identify the logical connectivities between terms, as an improvement). Finally, based on the extracted features, we classified the text into the corresponding categories. 
 
   
   
@@ -69,7 +69,7 @@ During my postdoc at UC Davis, I worked on [Taxonomy Classification](https://www
 
   
 
-**Niraj:** At TCS Innovation Lab, I worked on two major projects. First was focused on devising [Automatic Quality Assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2780021/){:target="_blank"} strategies to identify the quality of documents and the second on Paraphrasing techniques. Actually, paraphrases are sentences or phrases that convey the same meaning using different wording. The presence of the high volume of paraphrased text is a major challenge in almost all areas of text mining, as it badly affects the performance of the system. I developed a semantically reach graph-based technique to handle the Paraphrasing in the field of Plagiarism detection. The system finally uses Multi-class classification strategy to classify the Plagiarised text into four different categories. I received the ‘Best Paper Award’ at [CICLing](http://www.cicling.org/){:target="_blank"} 2014, for my work on the paper: "A Graph Based Automatic Plagiarism Detection Technique to Handle the Artificial Word Reordering and Paraphrasing". 
+**Niraj:** At TCS Innovation Lab, I worked on two major projects. First was focused on devising [automatic quality assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2780021/){:target="_blank"} strategies to identify the quality of documents and the second on Paraphrasing techniques. Actually, paraphrases are sentences or phrases that convey the same meaning using different wording. The presence of the high volume of paraphrased text is a major challenge in almost all areas of text mining, as it badly affects the performance of the system. I developed a semantically reach graph-based technique to handle the Paraphrasing in the field of Plagiarism detection. The system finally uses Multi-class classification strategy to classify the Plagiarised text into four different categories. I received the ‘Best Paper Award’ at [CICLing](http://www.cicling.org/){:target="_blank"} 2014, for my work on the paper: "A Graph Based Automatic Plagiarism Detection Technique to Handle the Artificial Word Reordering and Paraphrasing". 
 
   
 
