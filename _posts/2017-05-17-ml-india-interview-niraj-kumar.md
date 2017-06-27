@@ -3,7 +3,7 @@ layout: post
 title: "ML-India interview series - Dr. Niraj Kumar, Senior Machine Learning Scientist at Phenom People, India"
 excerpt: "Dr. Niraj Kumar is a senior machine learning scientist at Phenom People, India. He completed his Ph.D. in computer science from the IIIT Hyderabad, and did his MCA in computer science from IGNOU, Delhi. 
 "
-tags: [india, machine learning, data science, interview, mayank, IIIT-D, indraprashtha institute of information technology delhi]
+tags: [india, machine learning, data science, interview, niraj kumar, IIIT-Hyderabad, International Institute of Information Technology Hyderabad]
 comments: true
 
 tags_relevant: [interview]
