@@ -2,7 +2,7 @@
 
 - title: About
   url: /about/
-
+  
 - title: Insights
   url: /insights/
 
@@ -12,15 +12,14 @@
 - title: People
   url: /people/
 
-- title: Research Papers
+- title: Papers
   url: /research-papers/
+  
+- title: ML Chapter
+  url: /ml-chapter/
+  
+- title: Data Sets
+  url: /datasets/
 
-- title: Mailing List
-  url: https://groups.google.com/forum/?hl=en#!forum/ml-india
-
-- title: Contact
-  url: /contact/
-
-
-- title: AM Research
-  url: http://research.aspiringminds.com
+- title: Data Angels
+  url: /data-angels/  

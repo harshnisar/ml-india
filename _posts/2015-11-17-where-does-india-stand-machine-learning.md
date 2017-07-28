@@ -4,13 +4,16 @@ title: "As machines become intelligent, where does India stand?"
 excerpt: "An essay on the growth of machine learning and what does it mean for India"
 tags: [india, machine learning, data science]
 comments: true
+
+tags_relevant: [conferences, india]
 ---
 
 _India lags…Indian academia does less machine learning papers than a single
 university in China and all the new companies do lesser than a single company
 in the USA._
 
-###The power of machine learning
+### The power of machine learning
+
 Machine learning is the science of _learning_ to do tasks by observing
 examples. It is transforming the world by enabling machines do all sorts of
 ‘intelligent’ tasks such as understanding images, human speech, predicting
