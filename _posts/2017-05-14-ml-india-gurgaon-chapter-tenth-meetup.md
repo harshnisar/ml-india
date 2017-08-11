@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML-India: Gurgaon chapter | Tenth Meetup"
-excerpt: "ML-India is pleased to inform that the tenth machine learning meetup in its Gurgaon chapter was held on 14th May 2017. In this meetup, they had two guest speakers, Dr.Navdeep and Dr. Siju, both of them are pursuing their PhD at AIIMS.Their current work is at the intersection of medicine and machine learning to solve problems in Cognitive Neuroscience." 
+excerpt: "ML-India is pleased to inform that the tenth machine learning meetup in its Gurgaon chapter was held on 14th May 2017. In this meetup, they had two guest speakers, Dr. Navdeep and Dr. Siju, both of them are pursuing their PhD at AIIMS.Their current work is at the intersection of medicine and machine learning to solve problems in Cognitive Neuroscience." 
 tags: [india, machine learning, data science, gurgaon chapter, ML-India, meetup]
 
 tags_relevant: [chapter, meetup, gurgaon]
@@ -18,6 +18,6 @@ Cognitive neuroscience deals with the mechanisms of perception, attention, memor
 
 There were around 20 people attending the session. The attendees ranged from corporate professionals to doctorate graduates to students pursuing B.Tech and science related fields. This led to an interesting discussion where questions were raised to bridge the gaps which medical and engineering fields are unable to fill individually.
 
-<br>Click [here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
+Click [here](http://www.meetup.com/Machine-Learning-India-Gurgaon/){:target="_blank"} to join the group.
 
 If you wish to start a chapter of ML-India in your city, we would be more than happy to help you out and get it started. <a href="mailto:varun@aspiringminds.com" target="_top">Write to us</a>!
