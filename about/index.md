@@ -2,7 +2,7 @@
 layout: page
 title: About ML-India
 tags: [about, ml-india]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2018-02-04T16:12:07.573882-04:00
 ---
 
 As we speak today in 2015, machine learning is transforming the world by enabling machines to do all sorts of 'intelligent' tasks such as understanding images, human speech, predicting preferences and many others. With tremendous amount of data, interconnectedness and huge processing power in small devices, machines are doing things which were not anticipated until recently. While, on the other hand, machines are still unable to do some tasks which humans (or even animals) do effortlessly. There is a renewed (though seemingly periodic) fear that machines will take jobs of humans - leaving only the very highly skilled in the job marketplace. Also, for the first time, some experts in AI/ML whisper fears of machines challenging the human civilization!
@@ -17,7 +17,8 @@ Please subscribe to the mail list now, if this interests you! <a href="https://g
 
 \- <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74"> Varun </a>, 2015
 
-Currently, this group is maintained by <a href='https://in.linkedin.com/in/nishankv'>Nishank Varshney</a>, <a href='https://in.linkedin.com/pub/harsh-nisar/88/475/b83'>Harsh Nisar </a> and <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a> (all from <a href="http://research.aspiringminds.com">AM Research</a>)
+Currently, this group is maintained by <a href='https://saqibns.github.io/'>Saqib Shamsi</a>, <a href='
+https://www.linkedin.com/in/rohittakhar/'>Rohit Takhar</a>, <a href='https://www.linkedin.com/in/vishal-venugopal-54ab6433/'>Vishal Venugopal</a>, <a href='https://in.linkedin.com/pub/harsh-nisar/88/475/b83'>Harsh Nisar </a> and <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a> (all from <a href="http://research.aspiringminds.com">AM Research</a>)
 
 ---
 
