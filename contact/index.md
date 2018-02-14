@@ -9,7 +9,7 @@ excerpt: "How to reach us"
 
 You can:
 
- - <a href="mailto:varun@aspiringminds.com?CC=nisar.harsh@gmail.com, shashank.srikant@gmail.com&Subject=Regarding%3A%20ML-India">Email us</a>
+ - <a href="mailto:ml-india@aspiringminds.com?cc=varun@aspiringminds.com, vishal.venugopal@aspiringminds.com, rohit.takhar@aspiringminds.com, saqib.shamsi@aspiringminds.com, arpit.jain@aspiringminds.com&subject=Regarding%3A%20ML-India">Email us</a>
  
 - <a href="http://twitter.com/ml_india" target="_blank">Tweet to us</a>
 
