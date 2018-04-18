@@ -29,7 +29,8 @@ kramdown:
 owner:
   name: Machine Learning India
   avatar: logo.jpg
-  bio: "Fostering data science and machine learning in India"
+  bio: "Fostering 
+ science and machine learning in India"
   disqus-shortname: ml-india
   twitter: ml_india
   facebook: 
@@ -45,4 +46,11 @@ owner:
   email: varun@aspiringminds.com
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json",
+ "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# Company Details
+collections:
+  companydetails:
+    output: true
+    permalink: /:collection/:path/
