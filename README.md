@@ -12,6 +12,12 @@ If your information is missing or incorrect on the website, feel free to send in
 - [ ] Optional. Release the post on the discussion group. 
 
 
+##Steps for running the HTML file using jekyll
+- [ ] Install the jekyll bundler through Ruby Gems
+- [ ] Install bundle update 
+- [ ] Build the site on the preview server 
+- [ ] Go to http://localhost:4000
+
  
 ## Contributors
 - [Harsh Nisar](https://github.com/harshnisar)
