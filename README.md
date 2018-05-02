@@ -14,6 +14,7 @@ If your information is missing or incorrect on the website, feel free to send in
 
 ##Steps for running the HTML file using jekyll
 - [ ] Install the jekyll bundler through Ruby Gems
+- [ ] Install Rouge (Syntax Highlighter) 
 - [ ] Install bundle update 
 - [ ] Build the site on the preview server 
 - [ ] Go to http://localhost:4000
