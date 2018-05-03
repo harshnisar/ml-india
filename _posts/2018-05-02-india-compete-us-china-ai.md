@@ -12,7 +12,9 @@ In 2016, I [wrote](https://www.livemint.com/Opinion/8eITXHcjY0ytSzC2yezzFL/India
 
 ml-india.org helped us learn that India needs to do a lot more – we [rank](https://www.linkedin.com/pulse/where-does-india-stand-machines-become-intelligent-varun-aggarwal/) quite low on our number of papers in top AI conferences. In fact, the whole of India publishes a lesser number of papers than a single Chinese university. None of our companies engage in cutting-edge machine learning that can have a global impact. There are just a few bright spots. We need to change our approach dramatically if we wish to have a real impact of artificial intelligence on our society and economy. Recently, I wrote a [white paper](http://www.sciencesatyagraha.com/p/artificial-intelligence-india-next.html) on how this could be achieved with an annual outlay of $100M. The white paper is based on the principles laid out in my recent book, “[Leading Science and Technology: India Next?](https://www.amazon.in/Leading-Science-Technology-India-Next/dp/9352805089)”, that has many [data](http://www.sciencesatyagraha.com/p/data.html)-based insights into the research ecosystem. 
 
-![AI Ecosystem]({{ "/assets/diagrams/ai-ecosystem-50.png" | absolute_url }})
+![AI Ecosystem]({{ "/assets/diagrams/ai-ecosystem-cropped.png" | absolute_url }})
+*Building the AI Ecosystem in India*
+
 
 
 Here are three things that India needs to do immediately if we indeed want to become a leader in Artificial Intelligence.
@@ -40,5 +42,5 @@ Commercialization requires people, tools and connection. Training solves the ‘
 AI is a big opportunity for India. At the same time, it is a big risk. If we do not excel, our companies and economy cease to be competitive to global companies. We need to act now.
 
 \- Varun Aggarwal<br/>
-Co-founder Aspiring Minds and ml-india.org<br/>
-Author of ‘Leading Science and Technology: India Next?’
+Co-founder Aspiring Minds and [ml-india.org](http://ml-india.org/)<br/>
+Author of "[Leading Science and Technology: India Next?](https://www.amazon.in/Leading-Science-Technology-India-Next/dp/9352805089)"
