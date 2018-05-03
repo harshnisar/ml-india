@@ -13,7 +13,7 @@ In 2016, I [wrote](https://www.livemint.com/Opinion/8eITXHcjY0ytSzC2yezzFL/India
 ml-india.org helped us learn that India needs to do a lot more – we [rank](https://www.linkedin.com/pulse/where-does-india-stand-machines-become-intelligent-varun-aggarwal/) quite low on our number of papers in top AI conferences. In fact, the whole of India publishes a lesser number of papers than a single Chinese university. None of our companies engage in cutting-edge machine learning that can have a global impact. There are just a few bright spots. We need to change our approach dramatically if we wish to have a real impact of artificial intelligence on our society and economy. Recently, I wrote a [white paper](http://www.sciencesatyagraha.com/p/artificial-intelligence-india-next.html) on how this could be achieved with an annual outlay of $100M. The white paper is based on the principles laid out in my recent book, “[Leading Science and Technology: India Next?](https://www.amazon.in/Leading-Science-Technology-India-Next/dp/9352805089)”, that has many [data](http://www.sciencesatyagraha.com/p/data.html)-based insights into the research ecosystem. 
 
 ![AI Ecosystem]({{ "/assets/diagrams/ai-ecosystem-cropped.png" | absolute_url }})
-*Building the AI Ecosystem in India*
+***Building the AI Ecosystem in India***
 
 
 
