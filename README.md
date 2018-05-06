@@ -14,9 +14,11 @@ If your information is missing or incorrect on the website, feel free to send in
 
  
 ## Contributors
-- Harsh Nisar
-- Bhanu Pratap
-- Shashank Srikant
-- Suyash
-- Nishank
+- [Harsh Nisar](https://github.com/harshnisar)
+- [Bhanu Pratap](https://bhanu-mnit.github.io/)
+- [Shashank Srikant](https://www.linkedin.com/pub/shashank-srikant/25/aa1/965)
+- [Suyash Srivastava](https://www.linkedin.com/in/suyash-srivastava-524382a2/)
+- [Nishank Varshney](https://in.linkedin.com/in/nishankv)
+- [Arpit Jain](https://github.com/arpitjain258)
+- [Saqib Nizam Shamsi](https://github.com/saqibns)
 
