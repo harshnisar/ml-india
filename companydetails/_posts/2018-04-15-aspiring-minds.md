@@ -46,7 +46,7 @@ Other products include AMCAT, automated motor skill evaluation and automated ema
 
 **Rohit Takhar:** Rohit received his bachelors in Computer Engineering from NSIT, New Delhi. At Aspiring Minds, he is working on the automatic assessment of programming problems. He is developing algorithms and tools for automated program repair and automated synthesis of correct programs.
 
-Aspiring Minds' AI team has 4 members.
+Aspiring Minds' AI team has 19 members.
 
 
 ### Patents
