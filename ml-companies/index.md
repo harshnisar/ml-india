@@ -15,8 +15,7 @@ There is no consolidated resource for Data and Machine Learning which is centere
 
 ### Are you a startup/company working in ML/Data/Analytics?
 
-Write to <a href='/contact'>us</a>, or edit _includes/_ml-companies.html in our GH repo and send a pull request!
-
+Fill the following<a href="https://docs.google.com/forms/d/e/1FAIpQLSfSNXjIak4hmmqWzcLki1eQcjiuQNXgpLdH1Fbi32_Zniu9nA/viewform"> form </a>, or edit _includes/_ml-companies.html in our GH repo and send a pull request!
 
 ---
 
