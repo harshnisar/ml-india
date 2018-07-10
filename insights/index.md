@@ -1,5 +1,5 @@
 ---
-layout: insights_update
+layout: page
 title: Insights | Indian contribution to the field of ML in last 3 years
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Indepth analysis of Indian contribution in top tier machine learning related conferences in the last 3 years"
