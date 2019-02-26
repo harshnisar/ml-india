@@ -1,7 +1,7 @@
 ---
 layout: post
 category: companydetail
-title: "Innovacer"
+title: "Innovaccer"
 excerpt: "Innovaccer Inc is a leading healthcare data platform company focused on delivering more efficient and effective healthcare through the use of pioneering analytics and transparent, clean, and accurate data. Innvoaccer’s aim is to simplify complex data from all points of care, streamline the information, and help organizations make powerful decisions and realize strategic goals based on key insights and predictions from their data. Its products have been deployed across more than 500 locations with over 10,000 providers leveraging it at institutions, governmental organizations, and several corporate enterprises such as Mercy ACO, StratiFi Health, Catalyst Health Network, Osler Health Network, and PHIX HIE. 
 Innovaccer is based in San Francisco with offices around the United States and Asia."
 tags: [india, startups, companies]

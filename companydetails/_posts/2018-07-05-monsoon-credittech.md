@@ -1,7 +1,7 @@
 ---
 layout: post
 category: companydetail
-title: "Monsoon"
+title: "Monsoon CreditTech"
 excerpt: "Monsoon CreditTech’s team consists of seasoned data scientists and financial analysts who worked at some of the best-known financial institutions in the world ranging from investment banks to multilateral lenders. Backed and mentored by some of the biggest names 
 in the Indian financial world, we are pushing the envelope in the FinTech space."
 tags: [india, startups, companies]
