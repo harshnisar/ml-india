@@ -8,53 +8,25 @@
 </colgroup>
 
       <tbody>
-        <tr>
+        {% assign count = 0 %}
+        {% for dataAngel in site.data.dataAngels %}
+          {% assign count = count | plus: 1 %}
+          {% assign val = count | modulo: 3 %}
+          {% if val == 1 %}
+            <tr>
+          {% endif %}
               <td>
-                <a href="/images/va.JPG" alt=""><img src="/images/va.JPG" align="middle" style="width:150px;height:150px;">
-                    <h3><a href="https://in.linkedin.com/in/varunaggarwal2">Varun Aggarwal<br></a>
-                        <small>Founder and CTO,<br> Aspiring Minds</small>
-                    </h3></a>
-            </td>
-            <td>
-               <a href="/images/mg.jpg" alt=""><img src="/images/mg.jpg" align="middle" style="width:150px;height:150px;">
-                    <h3><a href="http://www.xrci.xerox.com/profile-main/113/">Manish Gupta <br></a>
-                        <small>Director,<br>  Xerox Research India</small>
-                    </h3></a>
-            </td>
-              <td>
-                <a href="/images/akshay kothari.jpg" alt=""><img src="/images/akshay kothari.jpg" align="middle" style="width:150px;height:150px;">
-                    <h3><a href="https://in.linkedin.com/in/akothari">Akshay Kothari<br></a>
-                        <small>Head,<br> LinkedIn India</small>
-                    </h3></a>
-            </td>
-            
-            
-        </tr>
-        <tr>
-            
-            <td> 
-              <a href="/images/um.jpg" alt=""><img src="/images/um.jpg" align="middle" style="width:150px;height:150px;">
-                    <h3><a href="http://people.csail.mit.edu/unamay/">Una-May O'Reilly<br></a>
-                        <small>Principal Research Scientist,<br> MIT</small>
-                    </h3></a>
-            </td>
-            <td>
-                <a href="/images/ks.jpg" alt=""><img src="/images/ks.jpg" align="middle" style="width:150px;height:150px;">
-                    <h3><a href="https://in.linkedin.com/in/kunalshah1">Kunal Shah<br></a>
-                        <small>Founder & Chairman, FreeCharge</small>
-                    </h3></a>
-            </td>
-            <td>
-                <a href="/images/lv1.jpg" alt=""><img src="/images/lv1.jpg" align="middle" style="width:150px;height:150px;">
-                    <h3><a href="http://varshney.web.engr.illinois.edu/">Lav Varshney <br></a>
-                        <small>Assistant Professor, <br> UIUC</small>
-                    </h3></a>
-            </td>
-            
-        </tr>
-        
-        </tbody>
-       </table>
+                  <a href="{{dataAngel.Image}}" alt=""><img src="{{dataAngel.Image}}" align="middle" style="width:150px;height:150px;">
+                      <h3><a href="{{dataAngel.Link}}">{{dataAngel.Name}}<br></a>
+                          <small>{{dataAngel.Designation}},<br> {{dataAngel.Company}}</small>
+                      </h3></a>
+              </td>
+          {% if val == 0 %}
+            </tr>
+          {% endif %}
+        {% endfor %}  
+      </tbody>
+</table>
 
 <table border="0" markdown="0" align="center" id="tbl" style="width:60%; margin:0px 0px 0px 7px; table-layout:fixed; word-wrap: break-word;">
 
