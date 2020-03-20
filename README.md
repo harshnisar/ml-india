@@ -12,7 +12,7 @@ If your information is missing or incorrect on the website, feel free to send in
 - [ ] Optional. Release the post on the discussion group. 
 
 
-##Steps for running the HTML file using jekyll
+## Steps for running the HTML file using jekyll
 - [ ] Install the jekyll bundler through Ruby Gems
 - [ ] Install Rouge (Syntax Highlighter) 
 - [ ] Install bundle update 
