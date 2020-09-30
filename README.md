@@ -7,7 +7,7 @@ If your information is missing or incorrect on the website, feel free to send in
 
 
 ## Steps before releasing a new post 
-- [ ] Add the file to the _posts folder.
+- [ ] Add the file to the _posts folders.
 - [ ] In front_matter of each post, add ```tags_relevant``` to categorization tags which will be used to produce relevant posts (common tags >=1 ) Not using tags because they are not so precise and are being used for SEO purpose. 
 - [ ] Optional. Release the post on the discussion group. 
 
