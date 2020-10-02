@@ -2,7 +2,7 @@
 
 
 ## For machine learning companies/labs in India
-If your information is missing or incorrect on the website, feel free to send in a pull request or create an issue in the repo.
+If your information was missing or there was some mistake on the website, feel free to send a pull request or create an issue in the repo.
 
 
 
