@@ -64,14 +64,14 @@ GEM
       jekyll (~> 2.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
-    posix-spawn (0.3.10)
-    pygments.rb (0.5.0)
+    posix-spawn (0.3.15)
+    pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
-    redcarpet (3.2.2)
+    redcarpet (3.5.1)
     safe_yaml (1.0.4)
     sass (3.4.13)
     timers (4.0.1)
@@ -79,7 +79,7 @@ GEM
     titlecase (0.1.1)
     toml (0.1.2)
       parslet (~> 1.5.0)
-    yajl-ruby (1.2.1)
+    yajl-ruby (1.2.3)
 
 PLATFORMS
   ruby
