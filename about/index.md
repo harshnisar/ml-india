@@ -18,7 +18,7 @@ Please subscribe to the mail list now, if this interests you! <a href="https://g
 \- <a href="https://www.linkedin.com/pub/varun-aggarwal/0/424/b74"> Varun </a>
 
 Currently, this group is maintained by <a href='https://in.linkedin.com/in/unnam-abhishek-7047949b'>Abhishek Unnam</a>, <a href='https://www.linkedin.com/in/parv-jain-602717a8'>Parv Jain</a>, <a href='
-https://www.linkedin.com/in/rohittakhar/'>Rohit Takhar</a> and <a href='https://www.linkedin.com/in/vishal-venugopal-54ab6433/'>Vishal Venugopal</a>. Previously, it was maintained by <a href='https://saqibns.github.io/'>Saqib Shamsi</a>, <a href='https://in.linkedin.com/pub/harsh-nisar/88/475/b83'>Harsh Nisar </a> and <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a> (all from <a href="http://research.aspiringminds.com">AM Research</a>)
+https://www.linkedin.com/in/rohittakhar/'>Rohit Takhar</a> and <a href='https://www.linkedin.com/in/vishal-venugopal-54ab6433/'>Vishal Venugopal</a>. Previously, it was maintained by <a href='https://saqibns.github.io/'>Saqib Shamsi</a>, <a href='https://bsinghpratap.github.io/'>Bhanu Pratap Singh</a>, <a href='https://in.linkedin.com/pub/harsh-nisar/88/475/b83'>Harsh Nisar </a> and <a href="https://www.linkedin.com/pub/shashank-srikant/25/aa1/965">Shashank Srikant</a> (all from <a href="http://research.aspiringminds.com">AM Research</a>)
 
 ---
 
